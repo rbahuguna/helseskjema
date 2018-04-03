@@ -1,0 +1,57 @@
+<?php
+    include "helseskjema_db.php";
+
+    try {
+        $pdo = new PDO("firebird:dbname=$DATABASE_HOST:$DATABASE", $DATABASE_USER, $DATABASE_PASSWORD);
+
+        $fodselsnr = $_GET[$FODSELSNR_INPUT];
+        $fodselsnr_time = DateTime::createFromFormat("d.m.Y H:i:s",  $fodselsnr . " 00:00:00");
+        if ($fodselsnr_time) {
+            $fodselsnr_time = $fodselsnr_time->format($FODSELSNR_FORMAT);
+            $personnummer = $_GET[$PERSONNUMMER_INPUT];
+
+            if (($patient_helseskjema_query_stmt =
+                $pdo->prepare($patient_helseskjema_query)) === False) {
+                outputError($pdo);
+            } else {
+                if ($patient_helseskjema_query_stmt->bindParam(
+                    ':fodselsnr_time', $fodselsnr_time, PDO::PARAM_STR) === FALSE) {
+                        outputError($patient_helseskjema_query_stmt);
+                } else if ($patient_helseskjema_query_stmt->bindParam(
+                    ':personnummer', $personnummer, PDO::PARAM_INT) === FALSE) {
+                        outputError($patient_helseskjema_query_stmt);
+                } else {
+                    if ($patient_helseskjema_query_stmt->execute() === FALSE) {
+                        outputError($patient_helseskjema_query_stmt);
+                    } else {
+                        if (($pasient =
+                            $patient_helseskjema_query_stmt->fetch(PDO::FETCH_ASSOC)) === FALSE) {
+                            outputErrorMessage("Vennligst kontakt resepsjonen");
+                        } else {
+                            // lowercase pasient keys
+                            foreach($pasient as $pasient_key => $pasient_value) {
+                                unset($pasient[$pasient_key]);
+                                $pasient_key_lowercase = strtolower($pasient_key);
+                                if (array_search($pasient_key_lowercase, array($FODSELSNR_INPUT)) === FALSE) {
+                                    $pasient_value = is_null($pasient_value) ? "" : $pasient_value;
+                                    if ($pasient_key == $MEDIKAMENTER) {
+                                        // split medisins on newline
+                                        $pasient[$MEDISIN_INPUT] = explode(PHP_EOL, $pasient_value);
+                                    } else {
+                                        $pasient[$pasient_key_lowercase] = $pasient_value;
+                                    }
+                                }
+                            }
+                            $pasient = array('Success' => True, 'pasient' => $pasient);
+                            print json_encode($pasient);
+                        }
+                    }
+                }
+            }
+        } else{
+            outputErrorMessage("Ugyldig fødselsdato");
+        }
+    } catch (PDOException $e) {
+        outputErrorMessage($e->getMessage());
+    }
+?>
