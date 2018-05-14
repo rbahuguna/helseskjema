@@ -211,86 +211,86 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Tungpustet av trapper</label>
+                                                <input id="tungpustet" name="tungpustet" type="checkbox" class="icheck" value="T">
+                                                <label for="tungpustet">Tungpustet av trapper</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Høyt blodtrykk</label>
+                                                <input id="blodtrykk" name="blodtrykk" type="checkbox" class="icheck" value="T">
+                                                <label for="blodtrykk">Høyt blodtrykk</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Plager med lokalbedøvelse</label>
+                                                <input id="lokalbed" name="lokalbed" type="checkbox" class="icheck" value="T">
+                                                <label for="lokalbed">Plager med lokalbedøvelse</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Blødersykdom / etterblødning</label>
+                                                <input id="etterblodning" name="etterblodning" type="checkbox" class="icheck" value="T">
+                                                <label for="etterblodning">Blødersykdom / etterblødning</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Problemer med bihulene</label>
+                                                <input id="bihulene" name="bihulene" type="checkbox" class="icheck" value="T">
+                                                <label for="bihulene">Problemer med bihulene</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Psykiske problemer</label>
+                                                <input id="psykiskeprobl" name="psykiskeprobl" type="checkbox" class="icheck" value="T">
+                                                <label for="psykiskeprobl">Psykiske problemer</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Strålebeh. i hode/hals</label>
+                                                <input id="stralebeh" name="stralebeh" type="checkbox" class="icheck" value="T">
+                                                <label for="stralebeh">Strålebeh. i hode/hals</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Spiseforstyrrelse</label>
+                                                <input id="spiseforst" name="spiseforst" type="checkbox" class="icheck" value="T">
+                                                <label for="spiseforst">Spiseforstyrrelse</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Lungesykdom</label>
+                                                <input id="lungesykd" name="lungesykd" type="checkbox" class="icheck" value="T">
+                                                <label for="lungesykd">Lungesykdom</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Hjerneblødning</label>
+                                                <input id="hjerneblodn" name="hjerneblodn" type="checkbox" class="icheck" value="T">
+                                                <label for="hjerneblodn">Hjerneblødning</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Reumatisk sykdom</label>
+                                                <input id="raumatisk" name="raumatisk" type="checkbox" class="icheck" value="T">
+                                                <label for="raumatisk">Reumatisk sykdom</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Innopererte proteser</label>
+                                                <input id="chkinnopererteproteser" name="chkinnopererteproteser" type="checkbox" class="icheck" value="T">
+                                                <label for="chkinnopererteproteser">Innopererte proteser</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Immunitetssykdommer</label>
+                                                <input id="immunitetssykdommer" name="immunitetssykdommer" type="checkbox" class="icheck" value="T">
+                                                <label for="immunitetssykdommer">Immunitetssykdommer</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Osteoporose/benskjørhet</label>
+                                                <input id="osteoporose" name="osteoporose" type="checkbox" class="icheck" value="T">
+                                                <label for="osteoporose">Osteoporose/benskjørhet</label>
                                             </div>
                                         </div>
                                     </div>
@@ -300,98 +300,93 @@
                                     <div class="row">
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Astma</label>
+                                                <input id="astma" name="astma" type="checkbox" class="icheck" value="T">
+                                                <label for="astma">Astma</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Diabetes</label>
+                                                <input id="diabetes" name="diabetes" type="checkbox" class="icheck" value="T">
+                                                <label for="diabetes">Diabetes</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Diett</label>
+                                                <input id="diett" name="diett" type="checkbox" class="icheck" value="T">
+                                                <label for="diett">Diett</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Giktfeber</label>
+                                                <input id="giktfeber" name="giktfeber" type="checkbox" class="icheck" value="T">
+                                                <label for="giktfeber">Giktfeber</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">HIV / AIDS</label>
+                                                <input id="hivaids" name="hivaids" type="checkbox" class="icheck" value="T">
+                                                <label for="hivaids">HIV / AIDS</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Parkinson</label>
+                                                <input id="parkinsons" name="parkinsons" type="checkbox" class="icheck" value="T">
+                                                <label for="parkinsons">Parkinson</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Kreft</label>
+                                                <input id="kreft" name="kreft" type="checkbox" class="icheck" value="T">
+                                                <label for="kreft">Kreft</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Hepatitt</label>
+                                                <input id="hepatitt" name="hepatitt" type="checkbox" class="icheck" value="T">
+                                                <label for="hepatitt">Hepatitt</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Epilepsi</label>
+                                                <input id="epilepsi" name="epilepsi" type="checkbox" class="icheck" value="T">
+                                                <label for="epilepsi">Epilepsi</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Klaustrofobi</label>
+                                                <input id="klaus" name="klaus" type="checkbox" class="icheck" value="T">
+                                                <label for="klaus">Klaustrofobi</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Tannlegeskrekk /</label>
+                                                <input id="chkcave" name="chkcave" type="checkbox" class="icheck" value="T">
+                                                <label for="chkcave">Tannlegeskrekk / odontofobi </label>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-sm-4">
+                                            <div class="form-group form-box">
+                                                <input id="nedsyn" name="nedsyn" type="checkbox" class="icheck" value="T">
+                                                <label for="nedsyn">Nedsatt syn</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Odontofobi</label>
+                                                <input id="nedtale" name="nedtale" type="checkbox" class="icheck" value="T">
+                                                <label for="nedtale">Nedsatt taleevne</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Nedsatt syn</label>
+                                                <input id="nedhorsel" name="nedhorsel" type="checkbox" class="icheck" value="T">
+                                                <label for="nedhorsel">Nedsatt hørsel</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Nedsatt taleevne</label>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Nedsatt hørsel</label>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Nedsatt førlighet</label>
+                                                <input id="nedforlighet" name="nedforlighet" type="checkbox" class="icheck" value="T">
+                                                <label for="nedforlighet">Nedsatt førlighet</label>
                                             </div>
                                         </div>
                                     </div>
@@ -411,86 +406,74 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Ømme tyggemuskler</label>
+                                                <input id="ommetyggem" name="ommetyggem" type="checkbox" class="icheck" value="T">
+                                                <label for="ommetyggem">Ømme tyggemuskler</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Tanngnissing</label>
+                                                <input id="tanngnissing" name="tanngnissing" type="checkbox" class="icheck" value="T">
+                                                <label for="tanngnissing">Tanngnissing</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Dårlig ånde</label>
+                                                <input id="darligande" name="darligande" type="checkbox" class="icheck" value="T">
+                                                <label for="darligande">Dårlig ånde</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Stadig ømhet i tunge/</label>
+                                                <input id="stadigomhet" name="stadigomhet" type="checkbox" class="icheck" value="T">
+                                                <label for="stadigomhet">Stadig ømhet i tunge/lepper/svelg</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">lepper/svelg</label>
+                                                <input id="munnsar" name="munnsar" type="checkbox" class="icheck" value="T">
+                                                <label for="munnsar">Plaget med munnsår</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Plaget med munnsår</label>
+                                                <input id="munntorrhet" name="munntorrhet" type="checkbox" class="icheck" value="T">
+                                                <label for="munntorrhet">Munntørrhet</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Munntørrhet</label>
+                                                <input id="tannkjblod" name="tannkjblod" type="checkbox" class="icheck" value="T">
+                                                <label for="tannkjblod">Blødning i tannkjøttet</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Blødning i tannkjøttet</label>
+                                                <input id="royker" name="royker" type="checkbox" class="icheck" value="T">
+                                                <label for="royker">Røyker</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Røyker</label>
+                                                <input id="fingersuger" name="fingersuger" type="checkbox" class="icheck" value="T">
+                                                <label for="fingersuger">Fingersuger</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Fingersuger</label>
+                                                <input id="munnpuster" name="munnpuster" type="checkbox" class="icheck" value="T">
+                                                <label for="munnpuster">Munnpuster</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Munnpuster</label>
+                                                <input id="kompltidlbeh" name="kompltidlbeh" type="checkbox" class="icheck" value="T">
+                                                <label for="kompltidlbeh">Komplikasjoner etter tidligere tannbehandling</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Komplikasjoner etter</label>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">tidligere tannbehandling</label>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Snuser</label>
+                                                <input id="chkmunnannet" name="chkmunnannet" type="checkbox" class="icheck" value="T">
+                                                <label for="chkmunnannet">Snuser</label>
                                             </div>
                                         </div>
                                     </div>
@@ -507,44 +490,44 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Penicillin</label>
+                                                <input id="apenicillin" name="apenicillin" type="checkbox" class="icheck" value="T">
+                                                <label for="apenicillin">Penicillin</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Lokalbedøvelse</label>
+                                                <input id="alokalbed" name="alokalbed" type="checkbox" class="icheck" value="T">
+                                                <label for="alokalbed">Lokalbedøvelse</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Matvarer</label>
+                                                <input id="amat" name="amat" type="checkbox" class="icheck" value="T">
+                                                <label for="amat">Matvarer</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Latex</label>
+                                                <input id="alatex" name="alatex" type="checkbox" class="icheck" value="T">
+                                                <label for="alatex">Latex</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">L.E.D lamper</label>
+                                                <input id="chkaannet" name="chkaannet" type="checkbox" class="icheck" value="T">
+                                                <label for="chkaannet">L.E.D lamper</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Pollen</label>
+                                                <input id="apollen" name="apollen" type="checkbox" class="icheck" value="T">
+                                                <label for="apollen">Pollen</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group form-box">
-                                                <input id="terms" name="terms" type="checkbox" class="icheck" value="T">
-                                                <label for="terms">Nikkel</label>
+                                                <input id="anikkel" name="anikkel" type="checkbox" class="icheck" value="T">
+                                                <label for="anikkel">Nikkel</label>
                                             </div>
                                         </div>
                                     </div>
@@ -688,7 +671,5 @@
 
     <!-- Wizard script -->
     <script src="js/questionare_wizard_func.js"></script>
-<!-- Wizard script 
-    <script src="js/datepicker_func.js"></script>-->
 </body>
 </html>
