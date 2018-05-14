@@ -31,8 +31,7 @@
                             $helseskjid  = is_null($helseskjema['HELSESKJID']) ? 0 : $helseskjema['HELSESKJID'];
                             $helseskjid  += 1;
 
-                            $helseskjid     = $helseskjema['HELSESKJID'];
-                            $pid            = $helseskjema['PID'];
+                            $pid            = $helseskjema['PASIENT_PID'];
                             $helseskjema    = array('PID' => $pid, 'HELSESKJID' => $helseskjid);
 
                             foreach($_POST as $postKey => $postValue) {
@@ -77,7 +76,7 @@
                                 " ( $helseskjema_columns ) VALUES ( $helseskjema_values )";
 
                             if ($pdo->exec($helseskjema_query)) {
-                                $patient_query = "UPDATE pasient " .
+                                $pasient_query = "UPDATE pasient " .
                                     " SET FORNAVN = '" .
                                     $_POST["fornavn"] . "'" .
                                     ", ETTERNAVN = '" .
@@ -91,11 +90,11 @@
                                     ' WHERE FODSELSNR = ' . "'" . $fodselsnr_time . "'" .
                                     ' AND PERSONNR = ' . "'" . $personnummer . "'";
 
-                                if ($pdo->exec($patient_query)) {
+                                if ($pdo->exec($pasient_query) === FALSE) {
+                                    outputError($pdo);
+                                } else{
                                     $helseskjema = array('Success' => True, 'helseskjema' => $helseskjema);
                                     print json_encode($helseskjema);
-                                } else{
-                                    outputError($pdo);
                                 }
                             } else {
                                 outputError($pdo);

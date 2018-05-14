@@ -23,6 +23,7 @@
 
         SELECT pasient.*
             , helseskjema.*
+            , pasient.PID PASIENT_PID
             FROM pasient
             LEFT JOIN helseskjema
             ON pasient.PID = helseskjema.PID
