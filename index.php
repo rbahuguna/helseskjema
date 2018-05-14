@@ -57,6 +57,10 @@
         form label.error {
             font-style: italic;
         }
+
+        form label.submit-error {
+            font-style: italic;
+        }
     </style>
 </head>
 
@@ -575,6 +579,13 @@
                                                                 }
                                                             ?>
                                                 </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12">
+                                            <div class="form-group">
+                                                <div id="submit-error">
+                                                    <label class="submit-error"></label>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
