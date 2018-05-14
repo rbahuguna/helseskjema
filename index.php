@@ -57,11 +57,6 @@
         form label.error {
             font-style: italic;
         }
-
-        form label.submit-error {
-            font-style: italic;
-        }
-
     </style>
 </head>
 
@@ -123,12 +118,12 @@
                                     <div class="row">
                                         <div class="col-sm-4">
                                             <div class="form-group">
-                                                <input type="text" name="fodselsnr" class="form-control fodselsnr required" placeholder="Fodselsnr">
+                                                <input type="tel" name="fodselsnr" class="form-control fodselsnr required" placeholder="Fodselsnr">
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group">
-                                                <input minlength="5" type="text" maxlength="5" name="personnummer" class="form-control required" placeholder="Person nummer">
+                                                <input minlength="5" type="tel" maxlength="5" name="personnummer" class="form-control required" placeholder="Person nummer">
                                             </div>
                                         </div>
                                     </div>
@@ -599,11 +594,6 @@
                                                 </select>
                                             </div>
                                         </div>
-                                        <div class="col-sm-12">
-                                            <div id="submit-error" class="form-group">
-                                                <label class="submit-error"></label>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -698,7 +688,7 @@
 
     <!-- Wizard script -->
     <script src="js/questionare_wizard_func.js"></script>
-
-    <script src="js/datepicker_func.js"></script>
+<!-- Wizard script 
+    <script src="js/datepicker_func.js"></script>-->
 </body>
 </html>
