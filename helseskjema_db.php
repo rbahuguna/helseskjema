@@ -4,6 +4,9 @@
     $DATABASE_USER      = "root";
     $DATABASE_PASSWORD  = "password";
 
+    $DSN_FIREBIRD       = "firebird:dbname=$DATABASE_HOST:$DATABASE";
+    $DSN_MYSQL          = "mysql:dbname=$DATABASE;host=$DATABASE_HOST";
+
     $ADRESSE_INPUT      = "adresse";
     $ETTERNAVN_INPUT    = "etternavn";
     // day/month/year...
@@ -18,11 +21,11 @@
 
     $patient_helseskjema_query = <<< EOD
 
-        SELECT pasient1.*
+        SELECT pasient.*
             , helseskjema.*
-            FROM pasient1
-            LEFT JOIN helseskjema1 helseskjema
-            ON pasient1.PID = helseskjema.PID
+            FROM pasient
+            LEFT JOIN helseskjema
+            ON pasient.PID = helseskjema.PID
             WHERE FODSELSNR = :fodselsnr_time
             AND PERSONNR = :personnummer
             ORDER BY HELSESKJID DESC;

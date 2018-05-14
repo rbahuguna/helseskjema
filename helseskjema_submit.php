@@ -2,7 +2,7 @@
     include "helseskjema_db.php";
 
     try {
-        $pdo = new PDO("firebird:dbname=$DATABASE_HOST:$DATABASE", $DATABASE_USER, $DATABASE_PASSWORD);
+        $pdo = new PDO($DSN_FIREBIRD, $DATABASE_USER, $DATABASE_PASSWORD);
 
         $fodselsnr = $_POST[$FODSELSNR_INPUT];
         $fodselsnr_time = DateTime::createFromFormat("dmy H:i:s",  $fodselsnr . " 00:00:00");
