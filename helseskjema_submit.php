@@ -5,7 +5,7 @@
         $pdo = new PDO("firebird:dbname=$DATABASE_HOST:$DATABASE", $DATABASE_USER, $DATABASE_PASSWORD);
 
         $fodselsnr = $_POST[$FODSELSNR_INPUT];
-        $fodselsnr_time = DateTime::createFromFormat("d.m.Y H:i:s",  $fodselsnr . " 00:00:00");
+        $fodselsnr_time = DateTime::createFromFormat("dmy H:i:s",  $fodselsnr . " 00:00:00");
         if ($fodselsnr_time) {
             $fodselsnr_time = $fodselsnr_time->format($FODSELSNR_FORMAT);
             $personnummer = $_POST[$PERSONNUMMER_INPUT];
@@ -28,8 +28,8 @@
                             $patient_helseskjema_query_stmt->fetch(PDO::FETCH_ASSOC)) === FALSE) {
                             outputErrorMessage("Vennligst kontakt resepsjonen");
                         } else {
-                            $helseskjema['HELSESKJID'] = is_null($helseskjema['HELSESKJID']) ? 0 : $helseskjema['HELSESKJID'];
-                            $helseskjema['HELSESKJID'] += 1;
+                            $helseskjid  = is_null($helseskjema['HELSESKJID']) ? 0 : $helseskjema['HELSESKJID'];
+                            $helseskjid  += 1;
 
                             $helseskjid     = $helseskjema['HELSESKJID'];
                             $pid            = $helseskjema['PID'];
@@ -73,11 +73,11 @@
                                 $helseskjema_values = substr($helseskjema_values, 0, $comma_last_pos);
                             }
 
-                            $helseskjema_query = "INSERT INTO helseskjema1" .
+                            $helseskjema_query = "INSERT INTO helseskjema " .
                                 " ( $helseskjema_columns ) VALUES ( $helseskjema_values )";
 
                             if ($pdo->exec($helseskjema_query)) {
-                                $patient_query = "UPDATE pasient1" .
+                                $patient_query = "UPDATE pasient " .
                                     " SET FORNAVN = '" .
                                     $_POST["fornavn"] . "'" .
                                     ", ETTERNAVN = '" .

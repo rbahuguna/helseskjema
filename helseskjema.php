@@ -5,7 +5,7 @@
         $pdo = new PDO("firebird:dbname=$DATABASE_HOST:$DATABASE", $DATABASE_USER, $DATABASE_PASSWORD);
 
         $fodselsnr = $_GET[$FODSELSNR_INPUT];
-        $fodselsnr_time = DateTime::createFromFormat("d.m.Y H:i:s",  $fodselsnr . " 00:00:00");
+        $fodselsnr_time = DateTime::createFromFormat("dmy H:i:s",  $fodselsnr . " 00:00:00");
         if ($fodselsnr_time) {
             $fodselsnr_time = $fodselsnr_time->format($FODSELSNR_FORMAT);
             $personnummer = $_GET[$PERSONNUMMER_INPUT];
