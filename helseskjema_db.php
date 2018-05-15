@@ -1,8 +1,8 @@
 <?php
     $DATABASE_HOST      = "localhost";
     $DATABASE           = "helseskjema";
-    $DATABASE_USER      = "root";
-    $DATABASE_PASSWORD  = "password";
+    $DATABASE_USER      = "SYSDBA";
+    $DATABASE_PASSWORD  = "masterkey";
 
     $DSN_FIREBIRD       = "firebird:dbname=$DATABASE_HOST:$DATABASE";
     $DSN_MYSQL          = "mysql:dbname=$DATABASE;host=$DATABASE_HOST";
