@@ -594,7 +594,7 @@
                             <!-- /middle-wizard -->
                             <div id="bottom-wizard">
                                 <button type="button" name="backward" class="backward">Backward </button>
-                                <button type="button" name="forward" class="forward">Forward</button>
+                                <button type="submit" name="forward" class="forward">Forward</button>
                                 <button type="submit" name="process" class="submit">Submit</button>
                             </div>
                             <!-- /bottom-wizard -->
