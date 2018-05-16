@@ -7,6 +7,9 @@
         $fodselsnr = $_GET[$FODSELSNR_INPUT];
         $fodselsnr_time = DateTime::createFromFormat("dmy H:i:s",  $fodselsnr . " 00:00:00");
         if ($fodselsnr_time) {
+            if ($fodselsnr_time->format("Y") > getdate()["year"]) {
+                $fodselsnr_time->modify('-100 year');
+            }
             $fodselsnr_time = $fodselsnr_time->format($FODSELSNR_FORMAT);
             $personnummer = $_GET[$PERSONNUMMER_INPUT];
 
