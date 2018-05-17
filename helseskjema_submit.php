@@ -4,14 +4,14 @@
     try {
         $pdo = new PDO($DSN_FIREBIRD, $DATABASE_USER, $DATABASE_PASSWORD);
 
-        $fodselsnr = $_POST[$FODSELSNR_INPUT];
+        $fodselsnr = iconv("UTF-8", "ISO-8859-1", $_POST[$FODSELSNR_INPUT]);
         $fodselsnr_time = DateTime::createFromFormat("dmy H:i:s",  $fodselsnr . " 00:00:00");
         if ($fodselsnr_time) {
             if ($fodselsnr_time->format("Y") > getdate()["year"]) {
                 $fodselsnr_time->modify('-100 year');
             }
             $fodselsnr_time = $fodselsnr_time->format($FODSELSNR_FORMAT);
-            $personnummer = $_POST[$PERSONNUMMER_INPUT];
+            $personnummer = iconv("UTF-8", "ISO-8859-1", $_POST[$PERSONNUMMER_INPUT]);
 
             if (($patient_helseskjema_query_stmt =
                 $pdo->prepare($patient_helseskjema_query)) === False) {
@@ -37,6 +37,7 @@
                             $helseskjema    = array('PID' => $pid, 'HELSESKJID' => $helseskjid);
 
                             foreach($_POST as $postKey => $postValue) {
+                                $postValue = iconv("UTF-8", "ISO-8859-1", $postValue);
                                 if (array_search($postKey, array(
                                     $FODSELSNR_INPUT
                                     , $PERSONNUMMER_INPUT
@@ -80,15 +81,15 @@
                             if ($pdo->exec($helseskjema_query)) {
                                 $pasient_query = "UPDATE pasient " .
                                     " SET FORNAVN = '" .
-                                    $_POST["fornavn"] . "'" .
+                                    iconv("UTF-8", "ISO-8859-1", $_POST["fornavn"]) . "'" .
                                     ", ETTERNAVN = '" .
-                                    $_POST["etternavn"] . "'" .
+                                    iconv("UTF-8", "ISO-8859-1", $_POST["etternavn"]) . "'" .
                                     ", ADRESSE = '" .
-                                    $_POST["adresse"] . "'" .
+                                    iconv("UTF-8", "ISO-8859-1", $_POST["adresse"]) . "'" .
                                     ",  POSTNR = '" .
-                                    $_POST["postnr"] . "'" .
+                                    iconv("UTF-8", "ISO-8859-1", $_POST["postnr"]) . "'" .
                                     ", MOBTLF = '" .
-                                    $_POST["mobtlf"] . "'" .
+                                    iconv("UTF-8", "ISO-8859-1", $_POST["mobtlf"]) . "'" .
                                     ' WHERE FODSELSNR = ' . "'" . $fodselsnr_time . "'" .
                                     ' AND PERSONNR = ' . "'" . $personnummer . "'";
 

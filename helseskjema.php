@@ -36,6 +36,7 @@
                                 $pasient_key_lowercase = strtolower($pasient_key);
                                 if (array_search($pasient_key_lowercase, array($FODSELSNR_INPUT)) === FALSE) {
                                     $pasient_value = is_null($pasient_value) ? "" : $pasient_value;
+                                    $pasient_value = iconv("ISO-8859-1", "UTF-8", $pasient_value);
                                     if ($pasient_key == $MEDIKAMENTER) {
                                         // split medisins on newline
                                         $pasient[$MEDISIN_INPUT] = explode(PHP_EOL, $pasient_value);
