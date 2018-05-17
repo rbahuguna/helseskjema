@@ -18,9 +18,8 @@
                 outputError($pdo);
             } else {
                 if ($patient_helseskjema_query_stmt->bindParam(
-                    ':fodselsnr_time', $fodselsnr_time, PDO::PARAM_STR) === FALSE) {
-                        outputError($patient_helseskjema_query_stmt);
-                } else if ($patient_helseskjema_query_stmt->bindParam(
+                    ':fodselsnr_time', $fodselsnr_time, PDO::PARAM_STR) === FALSE
+                    || $patient_helseskjema_query_stmt->bindParam(
                     ':personnummer', $personnummer, PDO::PARAM_INT) === FALSE) {
                         outputError($patient_helseskjema_query_stmt);
                 } else {
@@ -46,7 +45,12 @@
                                 }
                             }
                             $pasient = array('Success' => True, 'pasient' => $pasient);
-                            print json_encode($pasient);
+                            $pasient_json = json_encode($pasient);
+                            if ($pasient_json === FALSE) {
+                                outputErrorMessage(join(":", array(json_last_error(), json_last_error_msg())));
+                            } else {
+                                print $pasient_json;
+                            }
                         }
                     }
                 }
