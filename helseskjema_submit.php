@@ -7,6 +7,9 @@
         $fodselsnr = $_POST[$FODSELSNR_INPUT];
         $fodselsnr_time = DateTime::createFromFormat("dmy H:i:s",  $fodselsnr . " 00:00:00");
         if ($fodselsnr_time) {
+            if ($fodselsnr_time->format("Y") > getdate()["year"]) {
+                $fodselsnr_time->modify('-100 year');
+            }
             $fodselsnr_time = $fodselsnr_time->format($FODSELSNR_FORMAT);
             $personnummer = $_POST[$PERSONNUMMER_INPUT];
 
@@ -15,9 +18,8 @@
                 outputError($pdo);
             } else {
                 if ($patient_helseskjema_query_stmt->bindParam(
-                    ':fodselsnr_time', $fodselsnr_time, PDO::PARAM_STR) === FALSE) {
-                        outputError($patient_helseskjema_query_stmt);
-                } else if ($patient_helseskjema_query_stmt->bindParam(
+                    ':fodselsnr_time', $fodselsnr_time, PDO::PARAM_STR) === FALSE
+                    || $patient_helseskjema_query_stmt->bindParam(
                     ':personnummer', $personnummer, PDO::PARAM_INT) === FALSE) {
                         outputError($patient_helseskjema_query_stmt);
                 } else {
@@ -94,7 +96,12 @@
                                     outputError($pdo);
                                 } else{
                                     $helseskjema = array('Success' => True, 'helseskjema' => $helseskjema);
-                                    print json_encode($helseskjema);
+                                    $helseskjema_json = json_encode($helseskjema);
+                                    if ($helseskjema_json === FALSE) {
+                                        outputErrorMessage(join(":", array(json_last_error(), json_last_error_msg())));
+                                    } else {
+                                        print $helseskjema_json;
+                                    }
                                 }
                             } else {
                                 outputError($pdo);
