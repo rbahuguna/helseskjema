@@ -21,9 +21,8 @@ jQuery(document).ready(function($){
     var dbErrorDefault = "Invalid Social Security Number"
     var dbError = dbErrorDefault
 
-    $.validator.addMethod("fodselsnr", function(value, element) {
+    $.validator.addMethod("fodselsnr", function(fodselsnr) {
         var ssnValid = false;
-        var fodselsnr = jQuery("input[name=fodselsnr]").val()
         var personnummer = jQuery("input[name=personnummer]").val()
 
         jQuery.get("helseskjema.php", {'fodselsnr': fodselsnr
