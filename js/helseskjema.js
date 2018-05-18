@@ -1,9 +1,9 @@
 jQuery(document).ready(function($){
     jQuery.ajaxSetup({async:false});
-    $('body').ajaxStart(function () {
+    $(document).ajaxStart(function () {
         $('body').css('cursor', 'wait');
     });
-    $('body').ajaxStop(function () {
+    $(document).ajaxStop(function () {
         $('body').css('cursor', 'auto');
     });
 
@@ -25,6 +25,7 @@ jQuery(document).ready(function($){
         var ssnValid = false;
         var fodselsnr = jQuery("input[name=fodselsnr]").val()
         var personnummer = jQuery("input[name=personnummer]").val()
+
         jQuery.get("helseskjema.php", {'fodselsnr': fodselsnr
             , 'personnummer': personnummer
         }).done(function(data){
