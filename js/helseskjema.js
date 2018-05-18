@@ -71,6 +71,8 @@ jQuery(document).ready(function($){
     // process the form
     $('form#helseskjema').submit(function(event) {
 
+        $('[name="process"]').attr('disabled','disabled');
+
         // process the form
         $.ajax({
             type        : 'POST', // define the type of HTTP verb we want to use (POST for our form)
@@ -78,9 +80,17 @@ jQuery(document).ready(function($){
             data        : $(this).serialize(), // our data object
             dataType    : 'json', // what type of data do we expect back from the server
             encode      : true
+            , beforeSend: function() {
+                $('[data-loader="circle-side"]').fadeIn();
+                $('#preloader').delay(350).fadeIn();
+            }
+            , async : true
         })
         // using the done promise callback
         .done(function(data) {
+            $('[data-loader="circle-side"]').fadeOut(); // will first fade out the loading animation
+            $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+            $('[name="process"]').removeAttr('disabled');
             if (data.Success)
                 location.reload();
             else if (data.Error) {
