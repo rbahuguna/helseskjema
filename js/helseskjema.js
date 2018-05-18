@@ -69,15 +69,18 @@ jQuery(document).ready(function($){
     });
 
     // process the form
-    $('form#helseskjema').submit(function(event) {
+    $('[name="process"]').click(function(event) {
 
-        $('[name="process"]').attr('disabled','disabled');
+        $(this).attr('disabled','disabled');
+
+        var submitButton = $(this);
+        var form = $($(this)[0].form);
 
         // process the form
         $.ajax({
             type        : 'POST', // define the type of HTTP verb we want to use (POST for our form)
             url         : 'helseskjema_submit.php', // the url where we want to POST
-            data        : $(this).serialize(), // our data object
+            data        : form.serialize(), // our data object
             dataType    : 'json', // what type of data do we expect back from the server
             encode      : true
             , beforeSend: function() {
@@ -90,7 +93,7 @@ jQuery(document).ready(function($){
         .done(function(data) {
             $('[data-loader="circle-side"]').fadeOut(); // will first fade out the loading animation
             $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
-            $('[name="process"]').removeAttr('disabled');
+            submitButton.removeAttr('disabled');
             if (data.Success)
                 location.reload();
             else if (data.Error) {
