@@ -566,11 +566,11 @@
                                                     name="<?php print $MEDISIN_INPUT ?>[]"
                                                     class="form-control">
                                                             <?php
-                                                                $medisins = $MEDISIN_INPUT . 's.txt';
-                                                                if (file_exists($medisins) == FALSE) {
+                                                                $medisins_file = $MEDISIN_INPUT . 's.txt';
+                                                                if (file_exists($medisins_file) == FALSE) {
                                                                     include $MEDISIN_INPUT . "s.php";
                                                                 }
-                                                                $medisins = file_get_contents($medisins);
+                                                                $medisins = file_get_contents($medisins_file);
                                                                 $medisins = explode(PHP_EOL, $medisins);
                                                                 foreach ($medisins as $medisin) {
                                                                     $medisin = trim($medisin);

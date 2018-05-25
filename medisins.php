@@ -1,6 +1,6 @@
 <?php
     set_time_limit(0);
-    include "helseskjema_db.php";
+    include_once "helseskjema_db.php";
     $medisins = array();
     for($characterAscii = ord("a");$characterAscii <= ord("z");$characterAscii++) {
         $medisinUrl = "https://www.felleskatalogen.no/medisin/sok/json?maxRows=" . PHP_INT_MAX . "&" . "term=" . chr($characterAscii);
