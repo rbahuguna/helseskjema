@@ -11,6 +11,7 @@
                 }
         }
     }
+    natcasesort($medisins);
     $medisins = implode(PHP_EOL, $medisins);
-    file_put_contents($MEDISIN . 's.txt', $medisins);
+    file_put_contents($MEDISIN_INPUT . 's.txt', $medisins);
 ?>

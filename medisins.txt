@@ -1,8 +1,11 @@
 Abacavir/Lamivudin «Mylan» tabl.
+Abacavir/Lamivudin «Mylan» tabl.
+Abacavir/Lamivudin «Mylan» tabl.
+Abacavir/Lamivudin «Mylan» tabl.
 abakavir
 Abasaglar «Lilly» inj.
 abatacept
-Abboticin, Abboticin ES «Amdipharm» gran. til mikst., pulv. til inf., tabl.
+Abboticin «Amdipharm» gran. til mikst., pulv. til inf.
 abciximab
 Abilify Maintena «Otsuka Pharmaceutical» pulv. og væske til depotinj.
 Abilify «Farmagon» tabl.
@@ -101,6 +104,7 @@ Alacare «Photonamic» plaster
 alanin
 alanylglutamin
 albumin
+Albumin Baxalta «Baxalta» inf.
 Albunorm «Octapharma» inf.
 Alburex «CSL Behring» inf.
 Albyl-E «Takeda» enterotabl.
@@ -139,10 +143,10 @@ Allergi
 Allergisk konjunktivitt
 Allergisk rhinitt
 Allergisk snue
-Allopur «Takeda» tabl.
 allopurinol
 Allopurinol Sandoz «Sandoz» tabl.
 Allopurinol «Orion» tabl.
+Allopur «Takeda» tabl.
 Almina 28 «CampusPharma» tabl.
 Almogran «Almirall» tabl.
 almotriptan
@@ -181,8 +185,8 @@ amisulprid
 amitriptylin
 Amitriptylin Abcur «Abcur» tabl.
 amlodipin
-Amlodipin Sandoz «Sandoz» tabl.
 Amlodipine Vitabalans «Vitabalans» tabl.
+Amlodipin Sandoz «Sandoz» tabl.
 Ammeproblemer
 Ammonaps «Swedish Orphan Biovitrum» gran., tabl.
 amoksicillin
@@ -282,8 +286,8 @@ Asmanex Twisthaler «MSD» inhal.pulv.
 Aspirin «Bayer AB» tabl.
 Astma
 Asystole
-Atacand Plus «Orifarm» tabl.
 Atacand Plus, Atacand Plus Mite «AstraZeneca» tabl.
+Atacand Plus «Orifarm» tabl.
 Atacand «AstraZeneca» tabl.
 Atacand «Orifarm» tabl.
 ataluren
@@ -343,502 +347,6 @@ Azyter «Thea Laboratoires» øyedråper
 Azzalure «2care4» pulv. til inj.
 Azzalure «Galderma» pulv. til inj.
 Bacimycin «Actavis» salve
-Bambec «AstraZeneca» tabl.
-Basiron AC, Basiron AC Wash «Galderma» gel
-BCG-vaksine SSI «AJ Vaccines» pulv. og væske til inj.
-Belkyra «Allergan» inj.
-Bendamustine Accord «Accord Healthcare» pulv. til kons. til inf.
-Berocca «Bayer AS» brusetabl.
-Betaferon «Bayer AG» pulv. og væske til inj.
-Betmiga «Astellas» depottabl.
-Bevacomb «Actavis» tabl.
-Bisolvon «sanofi-aventis» mikst., oppl. tabl., tabl.
-Blincyto «Amgen» pulv. til kons. og væske til inf.
-Bonviva «Atnahs» inj., tabl.
-Bosentan Accord «Accord Healthcare» tabl.
-Botox «Allergan» pulv. til inj.
-Bricanyl Turbuhaler «AstraZeneca» inhal.pulv.
-Bricanyl «AstraZeneca» inj.
-Bricanyl, Bricanyl Depot «AstraZeneca» depottabl., tabl.
-Brilique «AstraZeneca» tabl.
-Brulidine «sanofi-aventis» krem
-Bupivacaine Accord «Accord Healthcare» inj.
-Buscopan «sanofi-aventis» inj.
-Bydureon «AstraZeneca» pulv. og væske til depotinj.
-Byetta «AstraZeneca» inj.
-Canesten «Bayer AB» krem, vaginalkaps., vaginaltabl.
-Canoderm «ACO HUD» krem
-Capecitabine Accord «Accord Healthcare» tabl.
-Carboplatin Accord «Accord Healthcare» kons. til inf.
-Carvedilol Aurobindo «Aurobindo» tabl.
-Casodex 150 mg «AstraZeneca» tabl.
-Casodex 50 mg «AstraZeneca» tabl.
-Cerubidin «sanofi-aventis» inf.subst.
-cimicifugae rhizoma (rotstokk av klaseormedrue)
-Cinacalcet Accord «Accord Healthcare» tabl.
-Cinacalcet Mylan «Mylan S.A.S.» tabl.
-Ciprofloxacin Amneal «Amneal Pharma» tabl.
-Ciprofloxacin «Actavis» tabl.
-Ciproxin «Bayer AB» tabl.
-Cisordinol-Acutard «Lundbeck» inj.
-Cisplatin Accord «Accord Healthcare» kons. til inf.
-Clarityn «Bayer AB» tabl.
-Clopidogrel Accord «Accord Healthcare» tabl.
-Clopidogrel «Actavis» tabl.
-Colazid «Almirall» kaps.
-Colchicine Actavis «Orifarm» tabl.
-Colrefuz «Actavis» tabl.
-Combigan «Allergan» øyedråper
-conestat alfa
-Conoxia «AGA AB» gass
-Constella «Allergan» kaps.
-Cordarone «sanofi-aventis» inj., tabl.
-Cortiment «Ferring Legemidler AS» depottabl.
-Creon 10 000, Creon 25 000, Creon 40 000 «Mylan Healthcare Norge AS» enterokaps.
-Crestor «AstraZeneca» tabl.
-Cyanokit «SERB S.A.» pulv. til inf.
-darbepoetin alfa
-Daxas «AstraZeneca» tabl.
-Delmosart «Actavis» depottabl.
-Dexametason Abcur «Abcur» tabl.
-Diane «Bayer AB» tabl.
-dibotermin alfa
-Dificlir «Astellas» tabl.
-Dipentum «Atnahs» tabl.
-diTeBooster «AJ Vaccines» inj.
-Diural «Actavis» dråper
-Docetaxel Accord «Accord Healthcare» kons. til inf.
-Docetaxel «Actavis» kons. til inf.
-Donepezil Accord «Accord Healthcare» tabl.
-Donepezil «Actavis» tabl.
-dornase alfa
-Doxorubicin Accord «Accord Healthcare» kons. til inf.
-Doxylin «Actavis» tabl.
-Duaklir Genuair «AstraZeneca» inhal.pulv.
-Dulcolax «sanofi-aventis» enterotabl., supp.
-Duodopa «AbbVie» intestinalgel
-Dupixent «sanofi-aventis» inj.
-Duraphat «Colgate Palmolive A/S» dentalvæske
-Duraphat «Colgate Palmolive A/S» tannpasta
-Durbis Retard «sanofi-aventis» depottabl.
-Duroferon depottabletter «ACO HUD» depottabl.
-Eklira Genuair «AstraZeneca» inhal.pulv.
-Eletriptan Alternova «Alternova» tabl.
-Eligard «Astellas» pulv. og væske til inj.
-elosulfase alfa
-Emla «Aspen Pharma Trading Ltd.» krem
-Emla «Aspen Pharma Trading Ltd.» plaster
-Emtricitabine/Tenofovir disoproxil Accord «Accord Healthcare» tabl.
-Eosinofil astma
-Epirubicin Accord «Accord Healthcare» inf./inj.
-Epirubicin «Actavis» inj.
-Epirubicin «Actavis» pulv. til inf./inj.
-Eplerenon Accord «Accord Healthcare» tabl.
-eptacog alfa (aktivert)
-Eptifibatide Accord «Accord Healthcare» inf., inj.
-Escitalopram «Actavis» tabl.
-Etoposide Accord «Accord Healthcare» kons. til inf.
-Exviera «AbbVie» tabl.
-Eylea «Bayer AG» inj.
-faktor viii-inhibitor bypass-aktivitet
-Familiær kulde autoinflammatorisk syndrom
-Fasenra «AstraZeneca» inj.
-Faslodex «AstraZeneca» inj.
-Fasturtec «sanofi-aventis» pulv. og væske til kons. til inf.
-Fentanyl «Actavis» inj.
-Fenylefrin «Abcur» inj.
-Ferriprox «Apotex» mikst., tabl.
-Finacea «Bayer AB» gel
-Finasterid «Actavis» tabl.
-Firmagon «Ferring Pharmaceuticals A/S» pulv. og væske til inj.
-Flagyl «sanofi-aventis» inf., mikst., tabl., vagit.
-Flixotide «Orifarm» inhal.aerosol
-Florinef «Aspen Pharma Trading Ltd.» tabl.
-Fludarabin «Actavis» kons. til inf./inj.
-Fluenz Tetra «AstraZeneca» nesespray
-Fluorouracil Accord «Accord Healthcare» inf./inj.
-Flutide «GlaxoSmithKline» inhal.aerosol, inhal.pulv.
-Flutiform «2care4» inhal.aerosol
-Flutiform «Mundipharma» inhal.aerosol
-Flutikason Cipla «Cipla» inhal.aerosol
-Flux «Actavis» sugetabl.
-follitropin alfa
-Forbigående iskemiske atakker
-Forxiga «AstraZeneca» tabl.
-Fucithalmic «Amdipharm» øyedråper
-Gadovist «Bayer AB» inj.
-Galafold «Amicus Therapeutics» kaps.
-Ganfort «Allergan» øyedråper
-Gastrografin «Bayer AB» mikst./rektalvæske
-Gemcitabin «Actavis» kons. til inf.
-Gemcitabine Accord «Accord Healthcare» kons. til inf., pulv. til inf.
-Generalisert angstlidelse
-Gensumycin «sanofi-aventis» inj.
-Glucobay «Bayer AB» tabl.
-Glypressin «Ferring Legemidler AS» inj., pulv. og væske til inj.
-Gonapeptyl «Ferring Legemidler AS» inj.
-Granpidam «Accord Healthcare» tabl.
-Grazax «ALK» smeltetabl.
-Helixate NexGen «Bayer AG» pulv. og væske til inj.
-hepatitt a-virus, inaktivert
-hepatitt a-virusvaksine
-hepatitt b antigen
-Hepsera «Abacus Medicine» tabl.
-Hereditært angionevrotisk syndrom
-Hereditært angioødem
-Hirudoid «Stada Arzneimittel» salve
-Humira «AbbVie» inj.
-Hypericum STADA «Stada Arzneimittel» kaps.
-Ibaril «sanofi-aventis» krem
-Ilomedin «Bayer AB» kons. til inf.
-Imatinib Accord «Accord Healthcare» tabl.
-Imatinib Actavis Group «Actavis» tabl.
-Imipenem/Cilastatin «Actavis» pulv. til inf.
-Imlygic «Amgen» inj.
-Imovane «sanofi-aventis» tabl.
-Imurel «Aspen Pharma Trading Ltd.» tabl.
-influensa, renset antigen
-insulin aspart
-Insuman Basal, Insuman Rapid «sanofi-aventis» inj.
-interferon alfa-2b
-Inuxair «2care4» inhal.aerosol
-Inuxair «Chiesi Farmaceutici» inhal.aerosol
-Iomeron «Bracco Imaging S.p.A» inj.
-Ipstyl Autogel «2care4» inj.
-Ipstyl Autogel «Ipsen» inj.
-Irbesartan «Actavis» tabl.
-Irbesartan/Hydroklortiazid «Actavis» tabl.
-Iressa «AstraZeneca» tabl.
-Irinotecan Accord «Accord Healthcare» kons. til inf.
-Jaydess «Bayer AB» intrauterint innlegg
-Jevtana «sanofi-aventis» kons. og væske til inf.
-Jext «ALK» inj.
-Junyelt «Aguettant» kons. til inf.
-Juvenil artritt
-Kaletra «AbbVie» mikst., tabl.
-Kanuma «Alexion» kons. til inf.
-Kestine «Almirall» tabl.
-Ketamin «Abcur» inj.
-kikhoste, renset antigen, kombinert med toksoider
-Klexane «sanofi-aventis» inj.
-Kloramfenikol Aurora Medical «2care4» øyesalve
-Klyx «Ferring Legemidler AS» rektalvæske
-Kogenate «Bayer AG» pulv. og væske til inj.
-Komboglyze «AstraZeneca» tabl.
-korifollitropin alfa
-koriongonadotropin alfa
-Kovaltry «Bayer AG» pulv. og væske til inj.
-Kronisk infantil nevrologisk, kutant, artikulært syndrom
-Kull «Abigo» mikst.
-Kyleena «Bayer AB» intrauterint innlegg
-Kyprolis «Amgen» pulv. til inf.
-Labetalol S.A.L.F. «S.A.L.F.» inf./inj.
-Lanoxin «Aspen Pharma Trading Ltd.» inj., mikst., tabl.
-Lantus «sanofi-aventis» inj.
-Lasix Retard «sanofi-aventis» depotkaps.
-Latuda «Aziende» tabl.
-Laxoberal «sanofi-aventis» dråper
-Leponex «Mylan Healthcare Norge AS» tabl.
-Lerkanidipin «Actavis» tabl.
-Letrozol Accord «Accord Healthcare» tabl.
-Leukeran «Aspen Pharma Trading Ltd.» tabl.
-Levact «Astellas» pulv. til kons. til inf.
-Levetiracetam Accord «Accord Healthcare» tabl.
-Levetiracetam Amneal «Amneal Pharma» mikst.
-Levitra «Bayer AG» tabl.
-Lidocaine Accord «Accord Healthcare» inj.
-Linezolid Accord «Accord Healthcare» tabl.
-Lionova «Alternova» inj./inf.
-Lisinopril/Hydroklortiazid «Actavis» tabl.
-Livopan «AGA AB» gass
-Lojuxta «Aegerion» kaps.
-Lomudal Nasal «sanofi-aventis» nesespray
-Lomudal «sanofi-aventis» øyedråper
-Losec MUPS «AstraZeneca» enterotabl.
-Lumigan 0,1 mg/ml «Allergan» øyedråper
-Lumigan 0,3 mg/ml «Allergan» øyedråper
-Lutinus «Ferring Legemidler AS» vaginaltabl.
-lutropin alfa
-Lymecyclin «Actavis» kaps.
-Lynparza «AstraZeneca» kaps.
-Lyxumia «sanofi-aventis» inj.
-Magnevist 1,88 mg/ml «Bayer AB» inj.
-Marcain spinal tung «Aspen Pharma Trading Ltd.» inj.
-Marcain spinal «Aspen Pharma Trading Ltd.» inj.
-Marcain «Aspen Pharma Trading Ltd.» inj.
-Marcain-Adrenalin «Aspen Pharma Trading Ltd.» inj.
-Maviret «AbbVie» tabl.
-Medisinsk Luft «Air Liquide» gass
-Medisinsk lystgass «Air Liquide» gass
-Medisinsk Oksygen «Air Liquide» gass
-Memantin Accord «Accord Healthcare» tabl.
-meningokokk a, c, y, w-135, tetravalent renset konjugert polysakkaridantigen
-Menopur «Ferring Legemidler AS» pulv. og væske til inj.
-Mesasal «sanofi-aventis» supp.
-Metabolsk hypokloremisk alkalose
-Metadon Abcur «Abcur» tabl.
-Methofill «Accord Healthcare» inj.
-Methotrexat Accord «Accord Healthcare» inj.
-Methotrexat Accord «Accord Healthcare» kons. til inf.
-Metronidazol «Actavis» tabl.
-Metylfenidat Aurora Medical «2care4» tabl.
-Microgynon «Bayer AB» tabl.
-Midazolam Accord «Accord Healthcare» inf./inj.
-Mimpara «Amgen» tabl.
-Miniderm «ACO HUD» krem
-Minifom «ACO HUD» dråper, kaps.
-Minirin «Ferring Legemidler AS» nesedråper, nesespray
-Minirin «Ferring Legemidler AS» smeltetabl.
-Mirena «Bayer AB» intrauterint innlegg
-Misodel «Ferring Legemidler AS» vaginalinnlegg
-Mivacron «Aspen Pharma Trading Ltd.» inj.
-Modifenac «Actavis» kaps.
-Modigraf «Astellas» gran. til mikst.
-Morfin Abcur «Abcur» inj.
-Moxonidin «Actavis» tabl.
-Multaq «sanofi-aventis» tabl.
-MultiHance «Bracco Imaging S.p.A» inj.
-Mycamine «Astellas» pulv. til inf.
-Mycophenolatemofetil Accord «Accord Healthcare» tabl.
-Mykofenolat Accord «Accord Healthcare» kaps.
-Mykofenolatmofetil Accord «Accord Healthcare» pulv. til kons. til inf.
-Naproxen Orion «Aurobindo» tabl.
-Nasacort «sanofi-aventis» nesespray
-Natriumklorid «Abcur» tabl.
-Nebido «Bayer AB» inj.
-Nemdatine «Actavis» tabl.
-Neo-Mercazole «Amdipharm» tabl.
-Neotigason «Actavis» kaps.
-Neulasta «Amgen» inj.
-Neupogen «Amgen» inj./kons. til inf.
-Nexavar «Bayer AG» tabl.
-Nexium «AstraZeneca» enterogran., enterotabl., pulv. til inf./inj.
-Nifenova «Alternova» depottabl.
-Nimbex «Aspen Pharma Trading Ltd.» inj.
-Nimotop «Bayer AB» inf., tabl.
-Niontix «AGA AB» gass
-Nix «ACO HUD» krem, sjampo
-Nocdurna «Ferring Legemidler AS» smeltetabl.
-Nolvadex «AstraZeneca» tabl.
-Noradrenalin «Abcur» kons. til inf.
-Norprolac «Ferring Legemidler AS» tabl.
-Norvir «AbbVie» tabl.
-Nplate «Amgen» pulv. til inj.
-Nutrineal PD4 med aminosyrer 1,1% «Baxter» peritonealdialysevæske
-Nutryelt «Aguettant» kons. til inf.
-Octostim «Ferring Legemidler AS» inj.
-Octostim «Ferring Legemidler AS» nesespray
-Olanzapine Accord «Accord Healthcare» tabl.
-Omnic «Astellas» depottabl.
-Ondansetron Accord «Accord Healthcare» inf./inj.
-Onglyza «AstraZeneca» tabl.
-Onytec «Almirall» medisinsk neglelakk
-Opsumit «Actelion» tabl.
-Optinate Septimum «Actavis» tabl.
-Orudis «sanofi-aventis» depotkaps.
-Orudis «sanofi-aventis» gel
-Ovesterin «Aspen Pharma Trading Ltd.» tabl., vaginalkrem, vagit.
-Oxis Turbuhaler «AstraZeneca» inhal.pulv.
-Oxycodone Actavis «Actavis» kaps.
-Ozurdex «Allergan» intravitrealt implantat
-Pabal «Ferring Legemidler AS» inj.
-Paclitaxel Accord «Accord Healthcare» kons. til inf.
-Palonosetron Accord «Accord Healthcare» inj.
-para-aminosalisylsyre
-Paralen «sanofi-aventis» tabl.
-Paricalcitol Alternova «Alternova» kaps.
-Paroxetin «Actavis» tabl.
-Parsabiv «Amgen» inj.
-peginterferon alfa-2a
-peginterferon alfa-2b
-Pemetrexed Accord «Accord Healthcare» pulv. til kons. til inf.
-Penicillin «Actavis» pulv. til inf./inj.
-Pentasa, Pentasa Sachet «Ferring Legemidler AS» depotgran., depottabl., rektalvæske, supp.
-Pentocur «Abcur» pulv. til inj.
-Perifer arteriell sykdom
-Pernisiøs anemi
-Persisterende ductus arteriosus
-Phenergan «sanofi-aventis» tabl.
-Physiotens «Mylan Healthcare Norge AS» tabl.
-Picoprep «Ferring Legemidler AS» pulv. til mikst.
-Pinex Forte, Pinex Major «Actavis» brusetabl., supp., tabl.
-Pinex «Actavis» brusetabl., mikst., supp., tabl.
-Pinex «Actavis» dosegran.
-Pinex «Actavis» smeltetabl.
-Pioglitazone Accord «Accord Healthcare» tabl.
-Plaquenil «sanofi-aventis» tabl.
-Plendil «AstraZeneca» depottabl.
-Praluent «sanofi-aventis» inj.
-Pranolol «Actavis» tabl.
-Prednisolon Alternova «Alternova» tabl.
-Primolut-N «Bayer AB» tabl.
-Primovist «Bayer AB» inj.
-Prinzmetals angina
-Procren Depot «AbbVie» pulv. og væske til inj.
-Proctosedyl «sanofi-aventis» rektalsalve
-Prograf «Astellas» kaps., kons. til inf.
-Progynova «Bayer AB» tabl.
-Prolia «Amgen» inj.
-Prospan «Engelhard Arzneimittel» mikst.
-Pulmicort Turbuhaler «AstraZeneca» inhal.pulv.
-Pulmicort «AstraZeneca» inhal.væske
-Puri-Nethol «Aspen Pharma Trading Ltd.» tabl.
-Qlaira «Bayer AB» tabl.
-Qtern «AstraZeneca» tabl.
-Quetiapin Amneal «Amneal Pharma» tabl.
-Quetiapine Accord «Accord Healthcare» depottabl.
-Ramipril «Actavis» tabl.
-Rasagilin Accord «Accord Healthcare» tabl.
-Rasagiline Mylan «Mylan S.A.S.» tabl.
-ReFacto AF «Pfizer» pulv. og væske til inj.
-Rekovelle «Ferring Pharmaceuticals A/S» inj.
-Reltebon Depot «Actavis» depottabl.
-Repaglinide Accord «Accord Healthcare» tabl.
-Repatha «Amgen» inj.
-Resonium-Calcium «sanofi-aventis» pulv.
-Revmatoid artritt
-Rhinocort Turbuhaler «AstraZeneca» nesepulver
-Rilutek «Aventis Pharma» tabl.
-Riluzol «Actavis» tabl.
-Ringer-Acetat Baxter Viaflo «Baxter» inf.
-Ringer-acetat Braun «Braun» inf.
-Ringer-acetat Fresenius Kabi «Fresenius Kabi» inf.
-Risedronat Amneal «Amneal Pharma» tabl.
-Rosazol «Actavis» krem
-Rovamycin «sanofi-aventis» tabl.
-Sabrilex «sanofi-aventis» dosepulv., tabl.
-Salmeterol/Fluticasone Cipla «Cipla» inhal.aerosol
-Scheriproct «Bayer AB» salve, supp.
-sebelipase alfa
-Selo-Zok «AstraZeneca» depottabl.
-Seloken «AstraZeneca» inj.
-Selsun «sanofi-aventis» sjampo
-Septisk artritt
-Seretide «GlaxoSmithKline» inhal.aerosol, inhal.pulv.
-Serevent «GlaxoSmithKline» inhal.aerosol, inhal.pulv
-Serkep «Mylan» inhal.aerosol
-Seroquel Depot «AstraZeneca» depottabl.
-Seroquel «AstraZeneca» tabl.
-Sevorane «AbbVie» inhal.væske
-Sildenafil «Actavis» tabl.
-Sinalfa «Amdipharm» tabl.
-Skilarence «Almirall» enterotabl.
-Skinoren «Bayer AB» krem
-Sofradex «sanofi-aventis» øye-/øredråper
-Solaraze «Almirall» gel
-Solian «sanofi-aventis» tabl.
-Soliris «Alexion» kons. til inf.
-Soluprick, Soluprick SQ «ALK» oppl. til prikktest
-Sprycel «Abacus Medicine» tabl.
-Stemetil «sanofi-aventis» tabl.
-Stesolid prefill «Actavis» rektalvæske
-Stesolid «Actavis» inj., rektalvæske, supp., tabl.
-Stilnoct «sanofi-aventis» tabl.
-Stivarga «Bayer AG» tabl.
-Strensiq «Alexion» inj.
-Suliqua «sanofi-aventis» inj.
-Sumatriptan Amneal «Amneal Pharma» tabl.
-Sumatriptan Aurobindo «Aurobindo» tabl.
-Suprecur «sanofi-aventis» nesespray
-Surmontil «sanofi-aventis» tabl.
-susoktokog alfa
-Symbicort forte Turbuhaler «AstraZeneca» inhal.pulv.
-Symbicort mite Turbuhaler «AstraZeneca» inhal.pulv.
-Symbicort Turbuhaler «AstraZeneca» inhal.pulv.
-Symbicort «AstraZeneca» inhal.aerosol
-Synagis «AbbVie» inj.
-Syntocinon «Alfasigma» nesespray
-Tagrisso «AstraZeneca» tabl.
-Tamsulosin «Actavis» kaps.
-Tardiben «AOP Orphan» tabl.
-Targocid «sanofi-aventis» pulv. til inf./inj., mikstur
-Tarivid «sanofi-aventis» tabl.
-Telfast «sanofi-aventis» tabl.
-Telmisartan «Actavis» tabl.
-Temozolomide Accord «Accord Healthcare» kaps.
-Teofyllin Aurora Medical «2care4» depottabl.
-Tepadina «Adienne» pulv. til kons. til inf.
-Testim «Ferring Legemidler AS» transdermalgel
-Tetracyclin «Actavis» tabl.
-Teveten Comp «Mylan Healthcare Norge AS» tabl.
-Tiacur «Abcur» inj.
-Tiamin Aurora Medical «2care4» inj.
-Tiamin Life Medical «Life Medical ApS» inj.
-Ticlid «sanofi-aventis» tabl.
-Tiopental Life Medical «Life Medical ApS» pulv. til inj.
-Topotecan Accord «Accord Healthcare» kons. til inf.
-Toradol «Atnahs» inj.
-Toujeo «sanofi-aventis» inj.
-Tracleer «Actelion» tabl.
-Tractocile «Ferring Pharmaceuticals A/S» inj., kons. til inf.
-Tramadol «Actavis» kaps.
-Trandate «Aspen Pharma Trading Ltd.» inj., tabl.
-Tranexamic acid «Stragen» inj.
-Transitoriske iskemiske atakker
-Transtyretin (TTR) amyloid polynevropati
-Trental «sanofi-aventis» depottabl.
-Triatec «sanofi-aventis» tabl.
-Trimbow «Chiesi Farmaceutici» inhal.aerosol
-Truberzi «Allergan» tabl.
-TTR familiær amyloid polynevropati (TTR-FAP).
-Twinrix Adult, Twinrix Paediatric «GlaxoSmithKline» inj.
-tyreotropin alfa
-Ultiva «Aspen Pharma Trading Ltd.» pulv. til inf./inj.
-Ultracortenol «AGEPHA» øyesalve
-Ultravist «Bayer AB» inf./inj.
-Uptravi «Actelion» tabl.
-Urizia «Astellas» tabl.
-Ustabil angina
-Valganciclovir Accord «Accord Healthcare» tabl.
-Vallergan «sanofi-aventis» mikst., tabl.
-Valsartan «Actavis» tabl.
-Valsartan/Hydrochlorthiazid «Actavis» tabl.
-Vaniqa «Almirall» krem
-Vectibix «Amgen» kons. til inf.
-velaglucerase alfa
-Venclyxto «AbbVie» tabl.
-Ventavis «Bayer AG» inhal.væske
-Ventoline «GlaxoSmithKline» inhal.aerosol, inhal.pulv., inhal.væske
-Vesicare «Astellas» tabl.
-Viekirax «AbbVie» tabl.
-Vimovo «AstraZeneca» tabl.
-Vinorelbin Accord «Accord Healthcare» kons. til inf.
-Visanne «Bayer AB» tabl.
-Vistabel «Allergan» pulv. til inj.
-Vitalipid Adult, Vitalipid Infant «Fresenius Kabi» kons. til inf.
-vitamin a
-Vival «Actavis» tabl.
-Voltaren Ophtha Abak «Thea Laboratoires» øyedråper
-Voriconazole Accord «Accord Healthcare» tabl.
-Xarelto «Bayer AG» tabl.
-Xerodent «Actavis» sugetabl.
-Xgeva «Amgen» inj.
-Xigduo «AstraZeneca» tabl.
-Xofigo «Bayer AG» inj.
-Xtandi «Astellas» kaps.
-Xylocain 100 mg/ml spray «Aspen Pharma Trading Ltd.» spray
-Xylocain Dental adrenalin «Dentsply» inj.
-Xylocain inj. «Aspen Pharma Trading Ltd.» inj.
-Xylocain «Aspen Pharma Trading Ltd.» gel, salve
-Xylocain-Adrenalin «Aspen Pharma Trading Ltd.» inj.
-Yasmin «Bayer AB» tabl.
-Yasminelle «Bayer AB» tabl.
-Yaz «Bayer AB» tabl.
-Zavesca «Actelion» kaps.
-Zestoretic, Zestoretic mite «AstraZeneca» tabl.
-Zestril «AstraZeneca» tabl.
-Ziprasidon «Actavis» kaps.
-Zoladex 10,8 mg «AstraZeneca» implantat
-Zoladex 3,6 mg «AstraZeneca» implantat
-Zoledronic acid «Actavis» kons. til inf.
-Zolmitriptan «Actavis» smeltetabl., tabl.
-Zolpidem Aurobindo «Aurobindo» tabl.
-Zomacton «Ferring Legemidler AS» pulv. og væske til inj.
-Zomig Nasal «AstraZeneca» nesespray
-Zomig, Zomig Rapimelt «AstraZeneca» smeltetabl., tabl.
-Zonegran «Abacus Medicine» kaps.
-Zopiclone «Actavis» tabl.
-Zyloric «Aspen Pharma Trading Ltd.» tabl.
 bacitracin
 Baclofen Sintetica «Sintetica» inf.
 Bactrim «Roche» mikst., tabl.
@@ -848,6 +356,7 @@ Bakteriell meningitt
 Bakteriell vaginose
 Balance «Fresenius Medical Care» peritonealdialysevæske
 balsalazid
+Bambec «AstraZeneca» tabl.
 bambuterol
 Baraclude «Bristol-Myers Squibb» mikst., tabl.
 Baraclude «Orifarm» tabl.
@@ -857,11 +366,13 @@ Barneleddgikt
 Barneorm
 Basalcellekarsinom
 basiliksimab
+Basiron AC, Basiron AC Wash «Galderma» gel
 Bavencio «Merck» kons. til inf.
 BCC
 bcg-bakterier
 BCG-medac «Medac» pulv. og væske til intravesikal bruk
 bcg-vaksine
+BCG-vaksine SSI «AJ Vaccines» pulv. og væske til inj.
 Beclomet Easyhaler «Orion» inhal.pulv.
 bedakvilin
 Bedøvelse
@@ -872,9 +383,11 @@ beklometason
 beksaroten
 belatacept
 belimumab
+Belkyra «Allergan» inj.
 Bemfola «Gedeon Richter» inj.
 Benbetennelse
 bendamustin
+Bendamustine Accord «Accord Healthcare» pulv. til kons. til inf.
 Bendamustine Fresenius Kabi «Fresenius Kabi» pulv. til kons. til inf.
 Bendelorm
 bendroflumetiazid
@@ -898,24 +411,28 @@ benzydamin
 benzylpenicillin
 Benzylpenicillin «Panpharma» pulv. til inf./inj.
 Berinert «CSL Behring» pulv. og væske til inf./inj., pulv. og væske til inj.
+Berocca «Bayer AS» brusetabl.
 Besponsa «Pfizer» pulv. til kons. til inf.
 Beta-talassemi major
+Betaferon «Bayer AG» pulv. og væske til inj.
 betain
 betaksolol
 Betaloc zok «Orifarm» depottabl.
 betametason
-Betnovat «2care4» lin.
+Betmiga «Astellas» depottabl.
 Betnovat, Betnovat med chinoform «GlaxoSmithKline» krem, lin., salve
+Betnovat «2care4» lin.
 Betoptic, Betoptic S «Novartis» øyedråper
 Bettamousse «RPH Pharmaceuticals» skum til hodebunnen
 betula verrucosa
 bevacizumab
+Bevacomb «Actavis» tabl.
 Bexsero «GlaxoSmithKline» inj.
 bezlotoksumab
-Bicalutamide 150 mg «Teva» tabl.
 Bicalutamide 50 mg «Teva» tabl.
-Bicalutamide Bluefish 150 mg «Bluefish» tabl.
+Bicalutamide 150 mg «Teva» tabl.
 Bicalutamide Bluefish 50 mg «Bluefish» tabl.
+Bicalutamide Bluefish 150 mg «Bluefish» tabl.
 bicaVera 1,5% glukose, 1,75 mmol/l kalsium, bicaVera 2,3% glukose, 1,75 mmol/l kalsium, bicaVera 4,25% glukose, 1,75 mmol/l kalsium «Fresenius Medical Care» peritonealdialysevæske
 Bihulebetennelse
 bikalutamid
@@ -931,6 +448,7 @@ biperiden
 Biphozyl «Gambro» hemodialyse-/hemofiltreringsvæske
 Bipolar lidelse
 bisakodyl
+Bisolvon «sanofi-aventis» mikst., oppl. tabl., tabl.
 bisoprolol
 Bisoprolol Vitabalans «Vitabalans» tabl.
 Bisoprolol «Sandoz» tabl.
@@ -938,6 +456,7 @@ Blefaritt
 bleomycin
 Bleomycin Baxter «Baxter» lyofilisat til inf./inj.
 blinatumomab
+Blincyto «Amgen» pulv. til kons. og væske til inf.
 Bloderstatning
 Blodforgiftning
 Blodkreft
@@ -960,14 +479,17 @@ Bløtvevskreft
 Bløtvevssarkom
 Bondil «Meda» urethralstift
 Bonviva «2care4» inj.
+Bonviva «Atnahs» inj., tabl.
 Bonviva «Orifarm» inj., tabl.
 Boostrix Polio «GlaxoSmithKline» inj.
 Boostrix «GlaxoSmithKline» inj.
 bortezomib
 bosentan
+Bosentan Accord «Accord Healthcare» tabl.
 Bosentan Sandoz «Sandoz» tabl.
 Bosulif «Pfizer» tabl.
 bosutinib
+Botox «Allergan» pulv. til inj.
 botulismetoksin
 Bradykardi
 Brannskade
@@ -979,7 +501,11 @@ Brennmanet
 brentuksimabvedotin
 Brevibloc «Baxter» inf., inj.
 Brexidol «Chiesi Farmaceutici» tabl.
+Bricanyl, Bricanyl Depot «AstraZeneca» depottabl., tabl.
+Bricanyl Turbuhaler «AstraZeneca» inhal.pulv.
+Bricanyl «AstraZeneca» inj.
 Bridion «MSD» inj.
+Brilique «AstraZeneca» tabl.
 brimonidin
 Brinavess «Cardiome» kons. til inf.
 Brintellix «Farmagon» tabl.
@@ -990,6 +516,7 @@ Britaject «Britannia Pharmaceuticals Ltd.» inf., inj.
 brivaracetam
 Briviact «2care4» tabl.
 Briviact «UCB» inj./inf., mikst., tabl.
+brodalumab
 bromfenak
 bromheksin
 Bromheksin Norfri «Evolan Pharma» mikst.
@@ -999,6 +526,7 @@ Bronkyl, Bronkyl forte «Weifa» brusetabl.
 Bronwel Comp «Kwizda Pharma» mikst.
 Bronwel «Kwizda Pharma» sugepastiller
 Brufen Retard «BGP Products» depottabl.
+Brulidine «sanofi-aventis» krem
 Brymont «Blumont Pharma Ltd.» øyedråper
 Brystbetennelse
 Brystcancer
@@ -1016,6 +544,7 @@ Bulimi
 Bulimia nervosa
 bumetanid
 Bunalict «Sandoz» sublingvaltabl.
+Bupivacaine Accord «Accord Healthcare» inj.
 bupivakain
 Buprefarm «Orifarm Generics» depotplaster
 buprenorfin
@@ -1025,6 +554,7 @@ bupropion
 Burinex «2care4» tabl.
 Burinex «LEO» inj., tabl.
 Burinex «Orifarm» tabl.
+Buscopan «sanofi-aventis» inj.
 buserelin
 Busilvex «Pierre Fabre Pharma Norden» kons. til inf.
 buspiron
@@ -1033,250 +563,8 @@ busulfan
 Busulfan Fresenius Kabi «Fresenius Kabi» kons. til inf.
 butylskopolamin
 Buventol Easyhaler «Orion» inhal.pulv.
-Calcium-Sandoz «Sandoz» brusetabl.
-Calciumklorid B. Braun «Braun» kons. til inf.
-Capsina «Bioglan» krem
-Catapresan «Boehringer Ingelheim» tabl.
-Cefuroxim B. Braun «Braun» pulv. og væske til inf.
-Cernevit «Baxter» pulv. til inf./inj.
-Cetirizin Bluefish «Bluefish» tabl.
-Clinoleic «Baxter» inf.
-Cluvot «CSL Behring» pulv. og væske til inf./inj.
-Confidex «CSL Behring» pulv. og væske til inj.
-Cresemba «Basilea» kaps., pulv. til kons. til inf.
-Cyclopentolat Minims «Bausch & Lomb U.K. Ltd.» øyedråper
-Daklinza «Bristol-Myers Squibb» tabl.
-Diacomit «Biocodex» kaps., pulv. til mikst.
-Diclocil «Bristol-Myers Squibb» pulv. til inf./inj.
-Diclofenac Bluefish «Bluefish» enterotabl.
-Dicloxacillin Bluefish «Bluefish» kaps.
-Dukoral «Valneva» mikst. og brusegran.
-Duphalac «BGP Products» mikst.
-Duphalac, med fruktsmak «BGP Products» mikst.
-Egazil «BioPhausia» depottabl.
-Eliquis «Bristol-Myers Squibb» tabl.
-Elocta «Swedish Orphan Biovitrum» pulv. og væske til inj.
-Empliciti «Bristol-Myers Squibb» pulv. til kons. til inf.
-Engerix-B «GlaxoSmithKline» inj.
-Evicel «Omrix Biopharmaceuticals» oppl. til vevslim
-Evotaz «Bristol-Myers Squibb» tabl.
-Extraneal «Baxter» peritonealdialysevæske
-Fampyra «Biogen» depottabl.
-Feiba «Baxalta» pulv. og væske til inf.
-Fevarin «BGP Products» tabl.
-Fibclot «LFB-Biomedicaments» pulv. og væske til inf./inj.
-Firdapse «BioMarin» tabl.
-Fluconazol B. Braun «Braun» inf.
-Fluoresceinnatrium Minims «Bausch & Lomb U.K. Ltd.» øyedråper
-follitropin beta
-Fusidinsyre/Betametason «LEO» krem
-Galieve «Reckitt Benckiser» mikst., tyggetabl.
-Gelaspan «Braun» inf.
-Gentamicin B. Braun «2care4» inf.
-Gentamicin B. Braun «Braun» inf.
-Gentamicin Braun «Orifarm» inf.
-ginkgo biloba (ginkgoblad)
-Giotrif «Boehringer Ingelheim» tabl.
-Glucos B. Braun «Braun» inf.
-Glucos Baxter Viaflo «Baxter» inf.
-Glukose B. Braun «Braun» inj.
-Glukosel «Braun» inf.
-Glyxambi «Boehringer Ingelheim» tabl.
-Granon «Takeda» brusetabl.
-Guillain-Barrés syndrom
-Haemate «CSL Behring» pulv. og væske til inf./inj.
-haemophilus influenzae type b polysakkarid
-Hemofili B
-Hemosol B0 «Gambro» hemodialyse-/hemofiltreringsvæske
-Hepatect «Biotest Pharma» inf.
-Hepatitt B
-hepatitt b-virusvaksine
-Hibitane «Bioglan» vaginalkrem
-Hizentra «CSL Behring» inj.
-Holoxan «Baxter» pulv. til inf./inj.
-Hydroxyzine Bluefish «Bluefish» tabl.
-HyQvia «Baxalta» inf.
-Hårfollikkel betennelse
-Høyt blodtrykk
-Ibuprofen B. Braun «Braun» inf.
-Idelvion «CSL Behring» pulv. og væske til inj.
-immunglobulin mot hepatitt b
-Immunine «Baxalta» pulv. og væske til inf./inj.
-InductOs «Medtronic BioPharma» pulv., væske og matrisk til implantasjon
-Influvac «BGP Products» inj.
-interferon beta-1a
-interferon beta-1b
-Intraabdominal blødning
-Isofluran «Baxter» væske til inhal.damp
-Isoptin, Isoptin Retard «BGP Products» depottabl., tabl.
-Jardiance «Boehringer Ingelheim» tabl.
-Jentadueto «Boehringer Ingelheim» tabl.
-Kalium-Natrium-Glucose «Braun» inf.
-Kaliumklorid B. Braun «Braun» inf.kons.
-Kenacort-T «Bristol-Myers Squibb» inj.
-Kineret «Swedish Orphan Biovitrum» inj.
-Kiovig «Baxalta» inf.
-Klacid, Klacid OD «BGP Products» depottabl., gran. til mikst.
-Kloramfenikol Minims «Bausch & Lomb U.K. Ltd.» øyedråper
-Kronisk bronkitt
-Kuvan «BioMarin International» oppl. tabl.
-Lavt blodsukker
-Lavt blodtrykk
-Laxabon «BioPhausia» pulv. til oral oppl.
-Lipidem «Braun» inf.
-Lithionit «BioPhausia» depottabl.
-Losartan/Hydrochlorothiazide Bluefish «Bluefish» tabl.
-Magnesiumsulfat B. Braun «Braun» kons. til inf.
-Mannitol Baxter Viaflo «Baxter» inf.
-Mb. bekhterev
-Meloxicam Bluefish «Bluefish» tabl.
-meningokokk b, multikomponent vaksine
-Metalyse «Boehringer Ingelheim» pulv. og væske til inj.
-Metaoxedrin Minims «Bausch & Lomb U.K. Ltd.» øyedråper
-metoksypolyetylenglykol-epoetin beta
-Metosyn «Bioglan» salve
-Metronidazol Baxter Viaflo «Baxter» inf.
-Metronidazole Braun «Braun» inf.
-Micardis «Boehringer Ingelheim» tabl.
-MicardisPlus «Boehringer Ingelheim» tabl.
-Microcid «Bioglan» krem
-Midazolam B. Braun «Braun» inj.
-Miglustat Bluefish «Bluefish» kaps.
-Mirtazapin Bluefish «Bluefish» smeltetabl.
-Mixobar Colon «Bracco» mikst./rektalvæske
-Monokaliumfosfat B. Braun «Braun» kons. til inf.
-Morbus bechterew
-Mucomyst «Meda» brusetabl.
-Naglazyme «BioMarin» kons. til inf.
-Naloxon B. Braun «Braun» inj.
-Natriumhydrogenkarbonat B. Braun «Braun» inf., kons. til inf.
-Natriumklorid B. Braun «Braun» inf., kons. til inf., oppl.væske til parenteral bruk
-Natriumklorid Baxter 9 mg/ml «Baxter» inf.
-Natriumklorid Baxter Viaflo «Baxter» inf.
-Natriumklorid Baxter «Baxter» inf.
-Natriumklorid Fresenius Kabi «Fresenius Kabi» inf., oppl.væske til parenteral bruk
-Natriumklorid-Glucos Baxter Viaflo «Baxter» inf.
-Nitrolingual «Pohl Boskamp» munnspray
-Nulojix «Bristol-Myers Squibb» pulv. til kons. til inj.
-Numeta «Baxter» inf.
-Nurofen «Reckitt Benckiser» mikst., tyggekaps.
-Nycoplus B-tonin «Takeda» mikst.
-Nycoplus B-total «Takeda» tabl.
-Nycoplus C-vitamin «Takeda» brusetabl., tabl.
-Obizur «Baxalta» pulv. og væske til inj.
-Ofev «Boehringer Ingelheim» kaps.
-Olimel, Olimel Perifer «Baxter» inf.
-Omeprazol Bluefish «Bluefish» enterokaps.
-Onbrez Breezhaler «Novartis» inhal.pulv.
-Oncaspar «Baxalta» inj./inf.
-OncoTICE «MSD» pulv. til susp. til intravesikal bruk
-Ondansetron Bluefish «Bluefish» smeltetabl.
-Ondansetron Bluefish «Bluefish» tabl.
-Onivyde «Baxalta» kons. til inf.
-Opdivo «Bristol-Myers Squibb» kons. til inf.
-Orencia «Bristol-Myers Squibb» inj., pulv. til kons. til inf.
-Orfadin «Swedish Orphan Biovitrum» kaps., mikst.
-Oxibuprokain Minims «Bausch & Lomb U.K. Ltd.» øyedråper
-Pagets bensykdom
-Paracet «Weifa» brusetabl., mikst., smeltetabl., supp., tabl.
-Paracetamol B. Braun «Braun» inf.
-Paracetduo «Weifa» brusetabl.
-peginterferon beta-1a
-Pentrexyl «Bristol-Myers Squibb» pulv. til inf./inj.
-Persantin Retard «Boehringer Ingelheim» kaps.
-Persantin «Boehringer Ingelheim» tabl.
-Physioneal 35 Glucose, Physioneal 40 Glucose «Baxter» peritonealdialysevæske
-Pilokarpin Minims «Bausch & Lomb U.K. Ltd.» øyedråper
-Plasmalyte «Baxter» inf.
-Plegridy «Biogen» inj.
-polymyksin b
-Pradaxa «Boehringer Ingelheim» kaps.
-Pravachol «Bristol-Myers Squibb» tabl.
-Praxbind «Boehringer Ingelheim» inj./inf.
-Precosa «Biocodex» kaps.
-Priligy «Berlin-Chemie» tabl.
-Primær binyrebarksvikt
-Privigen «CSL Behring» inf.
-Probecid «BioPhausia» tabl.
-ProHance «Bracco» inj.
-Propofol-Lipuro «Braun» inf./inj.
-Questran, Questran Loc «Bristol-Myers Squibb» pulv. til mikst.
-Rastløse ben-syndrom
-Remicade «Janssen Biologics» pulv. til inf.
-Remifemin «Schaper & Brümmer» tabl.
-ReoPro «Janssen Biologics» inf./inj.
-Reyataz «Bristol-Myers Squibb» kaps.
-Rhophylac «CSL Behring» inj.
-Riastap «CSL Behring» pulv. til inf./inj.
-Ringerfundin «Braun» inf.
-Rixubis «Baxalta» pulv. og væske til inj.
-saccharomyces boulardii
-Salidex «Braun» inf.
-Seebri Breezhaler «Novartis» inhal.pulv.
-Sendoxan «Baxter» pulv. til inj., tabl.
-Septopal, Septopal Mini «Zimmer Biomet» kjede til implantasjon
-Sertralin Bluefish «Bluefish» tabl.
-Sevofluran Baxter «Baxter» væske til inhal.damp
-Short bowel-syndrome, SBS
-Sifrol «Boehringer Ingelheim» depottabl., tabl.
-Simponi «Janssen Biologics» inj.
-Simvastatin Bluefish «Bluefish» tabl.
-Solvezink «BioPhausia» brusetabl.
-SonoVue «Bracco» pulv. og væske til inj.
-Spersadex «Blumont Pharma Ltd.» øyedråper
-Spinraza «Biogen» inj.
-Spiolto Respimat «Boehringer Ingelheim» inhal.væske
-Spiriva Respimat «Boehringer Ingelheim» inhal.væske
-Spiriva «Boehringer Ingelheim» inhal.pulv.
-Sprycel «Bristol-Myers Squibb» tabl.
-Sterile water Fresenius Kabi «Fresenius Kabi» oppl.væske til parenteral bruk
-Sterilt vann B. Braun «Braun» oppl.væske til parenteral bruk
-Sterilt Vann Baxter Viaflo «Baxter» oppl.væske til parenteral bruk
-Strefen «Reckitt Benckiser» sugetabl.
-Striverdi Respimat «Boehringer Ingelheim» inhal.væske
-Sumatriptan Bluefish «Bluefish» tabl.
-Suprane «Baxter» væske til inhal.damp
-Synalar med Chinoform «Bioglan» krem
-Synalar «Bioglan» gel, krem, salve
-Synjardy «Boehringer Ingelheim» tabl.
-Såre brystvorter
-Tecfidera «Biogen» enterokaps.
-Terbinafin Bluefish «Bluefish» tabl.
-Terra-Cortril Polymyxin B «Pfizer» øredråper
-Terramycin-Polymyxin B «Pfizer» salve, øyesalve
-Testogel «Besins International» gel i dosepose
-Tetrakain Minims «Bausch & Lomb U.K. Ltd.» øyedråper
-Tetraspan «Braun» inf.
-Teveten «BGP Products» tabl.
-Theo-Dur «BioPhausia» depottabl.
-Tisseel «Baxter» oppl. til vevslim
-Tobramycin B. Braun «Braun» inf.
-Topiramat Bluefish «Bluefish» tabl.
-Trajenta «Boehringer Ingelheim» tabl.
-Tropikamid Minims «Bausch & Lomb U.K. Ltd.» øyedråper
-Tysabri «Biogen» kons. til inf.
-Ultibro Breezhaler «Novartis» inhal.pulv.
-Uromitexan «Baxter» inj., tabl.
-Vargatef «Boehringer Ingelheim» kaps.
-Venlafaxin Bluefish «Bluefish» depotkaps.
-Venofundin «Braun» inf.
-Vepesid «Bristol-Myers Squibb» kaps.
-Vimizim «BioMarin» kons. til inf.
-Viramune «Boehringer Ingelheim» depottabl., tabl.
-vitamin b
-Vitamin B-mangel
-vitamin b12
-Vitamin B12 Depot «Takeda» inj.
-Vitamin B12 «Takeda» inj.
-Vitamin B12-mangel
-Weifa C-vitamin «Weifa» brusetabl.
-Willfact 1000 IE «LFB-Biomedicaments» pulv. og væske til inj.
-Xiapex «Swedish Orphan Biovitrum» pulv. og væske til inj.
-Yervoy «Bristol-Myers Squibb» kons. til inf.
-Zantac «GlaxoSmithKline» brusetabl., inj.
-Zebinix «Bial» tabl.
-Zevtera «Basilea» pulv. til kons. til inf.
-Zutectra «Biotest Pharma» inj.
+Bydureon «AstraZeneca» pulv. og væske til depotinj.
+Byetta «AstraZeneca» inj.
 c1-hemmer
 Cabaser «Pfizer» tabl.
 Cabometyx «Ipsen» tabl.
@@ -1285,7 +573,9 @@ Calcigran Forte «2care4» tyggetabl.
 Calcigran Forte «Orifarm» tyggetabl.
 Calcigran Forte «Takeda» tyggetabl.
 Calcipotriol Sandoz «Sandoz» salve
+Calcium-Sandoz «Sandoz» brusetabl.
 Calciumfolinate «Teva» inj., tabl.
+Calciumklorid B. Braun «Braun» kons. til inf.
 Campral «2care4» enterotabl.
 Campral «Merck» enterotabl.
 canakinumab
@@ -1294,28 +584,37 @@ Cancer mammae
 Cancer ventriculi
 Cancidas «MSD» pulv. til kons. til inf.
 Candemox Comp «Sandoz» tabl.
+Candesartan/Hydrochlorothiazide Krka «KRKA» tabl.
+Candesartan/Hydrochlorotiazide Orion «Orion» tabl.
 Candesartan Krka «KRKA» tabl.
 Candesartan Orion «Orion» tabl.
 Candesartan Sandoz «Sandoz» tabl.
-Candesartan/Hydrochlorothiazide Krka «KRKA» tabl.
-Candesartan/Hydrochlorotiazide Orion «Orion» tabl.
+Canesten «Bayer AB» krem, vaginalkaps., vaginaltabl.
 cannabidiol
+Canoderm «ACO HUD» krem
+Capecitabine Accord «Accord Healthcare» tabl.
 Caprelsa «Genzyme» tabl.
 capsaicin
+Capsina «Bioglan» krem
 Captopril «Mylan» tabl.
 Carbaglu «Orphan Europe» dispergerbare tabl.
 Carbamazepine EssPharma «Essential Pharma» supp.
 Carbocain Dental «Dentsply» inj.
+Carboplatin Accord «Accord Healthcare» kons. til inf.
 Carboplatin Fresenius Kabi «Fresenius Kabi» kons. til inf.
 Cardizem Retard «Pfizer» depottabl.
 Cardizem Uno «Pfizer» depottabl.
 Carduran CR «Pfizer» depottabl.
+Carvedilol Aurobindo «Aurobindo» tabl.
 Carvedilol HEXAL «HEXAL» tabl.
-Casodex 150 mg «Orifarm» tabl.
+Casodex 50 mg «AstraZeneca» tabl.
 Casodex 50 mg «Orifarm» tabl.
+Casodex 150 mg «AstraZeneca» tabl.
+Casodex 150 mg «Orifarm» tabl.
 Caspofungin Mylan «Mylan Hospital» pulv. til kons. til inf.
 Castlemans sykdom
 Cataflam «Novartis» tabl.
+Catapresan «Boehringer Ingelheim» tabl.
 Caverject Dual «Pfizer» pulv. og væske til inj.
 Cayston «Gilead» pulv. og væske til inhal.væske
 cefaleksin
@@ -1342,6 +641,7 @@ Ceftriaxon MIP «MIP Pharma» pulv. til inf., pulv. til inf./inj.
 Ceftriaxon «Stragen» pulv. til inf., pulv. til inj.
 Ceftriaxon «Villerton» pulv. til inf., pulv. til inj.
 cefuroksim
+Cefuroxim B. Braun «Braun» pulv. og væske til inf.
 Cefuroxim Fresenius Kabi «Fresenius Kabi» pulv. til inj.
 Cefuroxim MIP «MIP Pharma» pulv. til inj., pulv. til inf./inj.
 Cefuroxim «Stragen» pulv. til inj., pulv. til inf./inj.
@@ -1360,12 +660,15 @@ Cerazette «MSD» tabl.
 Cerdelga «Genzyme» kaps.
 Cerezyme «Genzyme» pulv. til kons. til inf.
 ceritinib
+Cernevit «Baxter» pulv. til inf./inj.
 Certican «Novartis» dispergerbare tabl., tabl.
 certolizumab pegol
+Cerubidin «sanofi-aventis» inf.subst.
 Cervarix «GlaxoSmithKline» inj.
 Cervixcancer
 Cetimax «Vitabalans» tabl.
 cetirizin
+Cetirizin Bluefish «Bluefish» tabl.
 Cetirizin Sandoz «Sandoz» tabl.
 Cetirizin «Mylan» tabl.
 Cetraxal Comp «Salvat» øredråper
@@ -1391,8 +694,11 @@ Cilox «2care4» øyedråper
 Cilox «Novartis» øredråper
 Cilox «Novartis» øyedråper, øyesalve
 Cilox «Orifarm» øredråper
+cimicifugae rhizoma (rotstokk av klaseormedrue)
 Cimzia «UCB» inj.
 cinacalcet
+Cinacalcet Accord «Accord Healthcare» tabl.
+Cinacalcet Mylan «Mylan S.A.S.» tabl.
 cinkokain
 Cinqaero «Teva» kons. til inf.
 Cinryze «Shire» pulv. og væske til inj.
@@ -1403,15 +709,20 @@ Cipralex «Orifarm» tabl.
 Cipramil «Farmagon» tabl.
 Cipramil «Lundbeck» tabl.
 ciprofloksacin
+Ciprofloxacin Amneal «Amneal Pharma» tabl.
+Ciprofloxacin «Actavis» tabl.
 Ciprofloxacin «Villerton» inf.
+Ciproxin «Bayer AB» tabl.
 Circadin «Neurim» depottabl.
 Cirrhose
 cisatrakurium
+Cisordinol-Acutard «Lundbeck» inj.
 Cisordinol Depot «2care4» inj.
 Cisordinol Depot «Lundbeck» inj.
 Cisordinol Depot «Orifarm» inj.
 Cisordinol «Lundbeck» dråper, tabl.
 cisplatin
+Cisplatin Accord «Accord Healthcare» kons. til inf.
 citalopram
 Citalopram Orion «Orion» tabl.
 Citalopram Sandoz «Sandoz» tabl.
@@ -1420,43 +731,58 @@ Citanest Dental Octapressin «Dentsply» inj.
 CitraFleet «Casen Recordati» pulv. til mikst.
 Clariscan «GE Healthcare» inj.
 Clarithromycin «Teva» tabl.
+Clarityn «Bayer AB» tabl.
 Claudicatio intermittens
 Cleye «Clear Eyes Pharma» øyedråper
 Clindamycin Villerton «Villerton» inj./kons. til inf.
+Clinoleic «Baxter» inf.
 Cliovelle «Dr. Kade Pharmazeutische Fabrik GmbH» tabl.
 Clobex «2care4» sjampo
 Clobex «Galderma» sjampo
+Clopidogrel Accord «Accord Healthcare» tabl.
+Clopidogrel «Actavis» tabl.
 Clopidogrel «Mylan» tabl.
 Cloxacillin «Stragen» pulv. til inf./inj.
 Cloxacillin «Villerton» pulv. til inf./inj.
 Clozapin HEXAL «HEXAL» tabl.
 Clusterhodepine
+Cluvot «CSL Behring» pulv. og væske til inf./inj.
 CMV-infeksjon
 Co-Renitec «Orifarm» tabl.
 CoAprovel «Sanofi Clir SNC» tabl.
+Colazid «Almirall» kaps.
+Colchicine Actavis «Orifarm» tabl.
 colesevelam
 Colobreathe «Teva» inhal.pulv.
-Colon irritabile
 Coloncancer
+Colon irritabile
+Colrefuz «Actavis» tabl.
 Coma hepaticum
+Combigan «Allergan» øyedråper
 Combivir «Orifarm» tabl.
 Combivir «ViiV Healthcare» tabl.
 Cometriq «Ipsen» kaps.
 Competact «Takeda» tabl.
 Comtess «Orion» tabl.
 Concerta «Janssen» depottabl.
-Condylin «Orifarm» lin.
 Condyline «2care4» lin.
 Condyline «Galderma» lin.
+Condylin «Orifarm» lin.
+conestat alfa
+Confidex «CSL Behring» pulv. og væske til inj.
 Conludag «Pfizer» tabl.
+Conoxia «AGA AB» gass
+Constella «Allergan» kaps.
 Copaxone 20 mg/ml «Teva» inj.
 Copaxone 40 mg/ml «Teva» inj.
 Copegus «Orifarm» tabl.
 Copegus «Roche» tabl.
 Copemyl «Mylan» inj.
 Cordarone «2care4» inj.
+Cordarone «sanofi-aventis» inj., tabl.
 Corixil «Farmagon» tabl.
 Corsodyl «GlaxoSmithKline Consumer Healthcare» dental gel, munnskyllevæske
+Cortiment «Ferring Legemidler AS» depottabl.
 Cortimyk «Trimb» krem
 Cortison «Takeda» tabl.
 Corvert «Pfizer» inf.
@@ -1474,6 +800,9 @@ Cozaar Comp, Cozaar Comp Forte «Farmagon» tabl.
 Cozaar Comp, Cozaar Comp Forte «MSD» tabl.
 Cozaar «MSD» pulv. og væske til mikst., tabl.
 Cozaar «Orifarm» tabl.
+Creon 10 000, Creon 25 000, Creon 40 000 «Mylan Healthcare Norge AS» enterokaps.
+Cresemba «Basilea» kaps., pulv. til kons. til inf.
+Crestor «AstraZeneca» tabl.
 Crestor «Farmagon» tabl.
 Crestor «Orifarm» tabl.
 Crinone «Merck» vaginalgel
@@ -1487,7 +816,9 @@ Curosurf «Chiesi Farmaceutici» instill.væske
 Cushings sykdom
 Cushings syndrom
 Cyanidforgiftning
+Cyanokit «SERB S.A.» pulv. til inf.
 cyanokobalamin
+Cyclopentolat Minims «Bausch & Lomb U.K. Ltd.» øyedråper
 cyklofosfamid
 Cyklokapron «2care4» tabl.
 Cyklokapron «Meda» tabl.
@@ -1505,80 +836,6 @@ cytarabin
 Cytarabin Fresenius Kabi «Fresenius Kabi» inf./inj.
 Cytomegalovirusinfeksjon
 Cytotec «Pfizer» tabl.
-Diovan Comp «Farmagon» tabl.
-Diovan Comp «Novartis» tabl.
-Diovan Comp «Orifarm» tabl.
-Donaxyl «CampusPharma» vaginaltabl.
-Emconcor CHF «Merck» tabl.
-Enalapril Comp «ratiopharm» tabl.
-Envarsus «Chiesi Farmaceutici» depottabl.
-Epoprostenol CampusPharma «CampusPharma» pulv. og væske til inf.
-Eurax «GlaxoSmithKline Consumer Healthcare» krem
-Heminevrin «Cheplapharm» kaps., mikst.
-Hepatitt C
-Hydrokortison CCS «Trimb» krem, salve
-Hypoloc Comp «Menarini» tabl.
-Imnovid «Celgene» kaps.
-Imodium Comp «McNeil» tabl.
-Inuxair «Chiesi Farmaceutici» inhal.pulv.
-Kengrexal «Chiesi Farmaceutici» pulv. til kons. til inf./inj.
-Kohle-Compretten «Merck» tabl.
-kollagenase clostridium histolyticum
-Lamisil «GlaxoSmithKline Consumer Healthcare» dermgel, hudspray, krem, lin.
-Lithium Chloride Lidco «Lidco Ltd.» inj.
-Locoid, Locoid Crelo, Locoid Lipid «LEO» krem, lin., salve
-meningokokk c, renset konjugert polysakkaridantigen
-Methotrexate Cipla «Cipla» tabl.
-Methylthioninium chloride Proveblue «Provepharm SAS» inj.
-Morbus Crohn
-Multibic 2 mmol/l kalium, Multibic 4 mmol/l kalium, Multibic kaliumfri «Fresenius Medical Care» hemodialyse-/hemofiltreringsvæske
-Nefropatisk cystinose
-NeisVac-C «Pfizer» inj.
-Neofordex «Laboratoires CTRS» tabl.
-Nicotinell «GlaxoSmithKline Consumer Healthcare» depotplaster, sugetabl., tyggegummi
-Nycoplus Calcigran Forte, Nycoplus Calcigran «Takeda» tyggetabl.
-Olmetec Comp «Daiichi Sankyo» tabl.
-Oralcon «CampusPharma» tabl.
-Otezla «Celgene» tabl.
-Otrivin Comp «GlaxoSmithKline Consumer Healthcare» nesespray
-Otrivin med mentol «GlaxoSmithKline Consumer Healthcare» nesespray
-Otrivin «GlaxoSmithKline Consumer Healthcare» nesespray
-Panodil, Panodil Zapp «GlaxoSmithKline Consumer Healthcare» tabl.
-Paramax Comp «Vitabalans» tabl.
-Peritoneal cancer
-Peyona «Chiesi Farmaceutici» inf. og mikst.
-Phosphoral «Casen Recordati» mikst.
-Pixuvri «CTI Life Sciences» pulv. til kons. til inf.
-Plavix «Sanofi Clir SNC» tabl.
-Procysbi «Chiesi Orphan» enterokaps.
-Pursennid «GlaxoSmithKline Consumer Healthcare» tabl.
-Quinsair «Chiesi Orphan» inhal.væske
-Remsima «Celltrion» pulv. til kons. til inf.
-Renitec Comp Mite «Orifarm» tabl.
-Renitec Comp, Renitec Comp Mite «MSD» tabl.
-Revlimid «Celgene» kaps.
-Risperdal Consta «Janssen» pulv. og væske til depotinj.
-Rispolept Consta «Orifarm» pulv. og væske til depotinj.
-Savene «Clinigen» pulv. til kons. og fortynningsvæske til inf.
-Scopoderm «GlaxoSmithKline Consumer Healthcare» depotplaster
-Solu-Cortef «Pfizer» pulv. og væske til inj.
-Solvipect comp. «Takeda» mikst.
-Somac Control «Takeda» enterotabl.
-Spastisk colon
-Terra-Cortril «Pfizer» salve
-Thalidomide Celgene «Celgene» kaps.
-Ulcus cruris
-Velphoro «Vifor Fresenius Medical Care» tyggetabl.
-Veltassa «Vifor Fresenius Medical Care» pulv. til mikst.
-Vidaza «Celgene» pulv. til inj.
-Vinelle «CampusPharma» tabl.
-vitamin c
-Vitamin C-mangel
-Voltarol Forte «GlaxoSmithKline Consumer Healthcare» gel
-Voltarol «GlaxoSmithKline Consumer Healthcare» gel
-Voltarol «GlaxoSmithKline Consumer Healthcare» kaps., tabl.
-Voltarol «GlaxoSmithKline Consumer Healthcare» plaster
-Zofenil Comp «Menarini» tabl.
 dabigatraneteksilat
 dabrafenib
 Dacarbazine Lipomed «Lipomed» pulv. til inf./inj.
@@ -1587,6 +844,7 @@ Dacogen «Janssen» pulv. til kons. til inf.
 Daivobet «LEO» gel, salve
 dakarbazin
 daklatasvir
+Daklinza «Bristol-Myers Squibb» tabl.
 Daktacort «McNeil» krem
 Daktar «McNeil» krem
 Dalacin «Pfizer» gran. til mikst., inj., kaps.
@@ -1600,6 +858,7 @@ dapson
 Dapson «Scanpharm» tabl.
 daptomycin
 daratumumab
+darbepoetin alfa
 Dariers sykdom
 darifenacin
 darunavir
@@ -1607,6 +866,7 @@ Darzalex «Janssen» kons. til inf.
 dasabuvir
 dasatinib
 daunorubicin
+Daxas «AstraZeneca» tabl.
 decitabin
 deferasiroks
 deferipron
@@ -1623,6 +883,7 @@ dekspantenol
 deksrazoksan
 dekstran
 dekvalin
+Delmosart «Actavis» depottabl.
 denosumab
 deoksykolsyre
 deoksyribonuklease
@@ -1632,8 +893,8 @@ Depresjon
 Dermatitis herpetiformis
 Dermatitt
 Dermatose
-Dermovat «GlaxoSmithKline» krem, oppl., salve
 Dermovat, Dermovate «2care4» krem, oppl.
+Dermovat «GlaxoSmithKline» krem, oppl., salve
 Descovy «Gilead» tabl.
 Desferal «2care4» inf./inj.subst.
 Desferal «Novartis» pulv. til inf./inj.
@@ -1649,6 +910,7 @@ desonid
 Desunin «2care4» tabl.
 Detremin «Renapharma» dråper
 Detrusitol SR «Pfizer» depotkaps.
+Dexametason Abcur «Abcur» tabl.
 Dexamethasone Krka «KRKA» tabl.
 Dexamfetamine EssPharm «Essential Pharmaceuticals» mikst.
 Dexdor «Orion» kons. til inf.
@@ -1658,22 +920,30 @@ Diabetes insipidus
 Diabetes mellitus
 Diabetesnevropati
 Diabetisk nevropati
+Diacomit «Biocodex» kaps., pulv. til mikst.
 Diafer «Pharmacosmos» inj.
 Dialyse
 Diamox «Mercury Pharmaceuticals» tabl.
+Diane «Bayer AB» tabl.
 Diane «Farmagon» tabl.
 Diaré
 diatrizoinsyre
 diazepam
+dibotermin alfa
 dibrompropamidin
 DIC
+Diclocil «Bristol-Myers Squibb» pulv. til inf./inj.
+Diclofenac Bluefish «Bluefish» enterotabl.
 DiclofenacKalium «ratiopharm» tabl.
+Dicloxacillin Bluefish «Bluefish» kaps.
 Dicloxacillin Orion «Orion» kaps.
 Dicuno 25 mg «Vitabalans» tabl.
 Dicuno 50 mg «Vitabalans» tabl.
 dienogest
 Differin «Galderma» gel, krem
+Dificlir «Astellas» tabl.
 Diflucan «2care4» pulv. til mikst.
+Diflucan «Orifarm» kaps.
 Diflucan «Pfizer» inf., kaps., pulv. til mikst.
 Difteri
 difteritoksoid
@@ -1690,8 +960,12 @@ dimetylaminodifenylbutenklorid
 dimetylfumarat
 dinatriumfosfat
 dinatriumfosfatdihydrat
+Diovan Comp «Farmagon» tabl.
+Diovan Comp «Novartis» tabl.
+Diovan Comp «Orifarm» tabl.
 Diovan «Farmagon» tabl.
 Diovan «Novartis» mikst., tabl.
+Dipentum «Atnahs» tabl.
 Dipeptiven «Fresenius Kabi» kons. til inf.
 Diprasorin «Orion» kaps.
 Diprosalic «MSD» lin., salve
@@ -1699,12 +973,16 @@ dipyridamol
 disopyramid
 Disseminert intravaskulær koagulasjon
 disulfiram
+diTeBooster «AJ Vaccines» inj.
+Diural «Actavis» dråper
 Diurese
 Divisun «Meda» tabl.
 dobutamin
 Dobutamin «Hameln» kons. til inf.
 docetaksel
+Docetaxel Accord «Accord Healthcare» kons. til inf.
 Docetaxel Kabi «Fresenius Kabi» kons. til inf.
+Docetaxel «Actavis» kons. til inf.
 dokosaheksaensyreetylester
 doksazosin
 doksepin
@@ -1718,32 +996,49 @@ dolutegravir
 Donacom «2care4» pulv. til mikst.
 Donacom «Meda» pulv. til mikst.
 Donaxyl «2care4» vaginaltabl.
+Donaxyl «CampusPharma» vaginaltabl.
 donepezil
+Donepezil Accord «Accord Healthcare» tabl.
 Donepezil Sandoz «Sandoz» tabl.
+Donepezil «Actavis» tabl.
 dopamin
 Dopamin «Takeda» kons. til inf.
+dornase alfa
 dorzolamid
 Dorzolamid/Timolol Sandoz «Sandoz» øyedråper
 Dostinex «Pfizer» tabl.
 Dotarem «Guerbet» inj.
+Doxorubicin Accord «Accord Healthcare» kons. til inf.
+Doxylin «Actavis» tabl.
 Dridol «Kyowa Kirin Ltd.» inj.
 dronedaron
 droperidol
 Dropizol «Pharmanovia» dråper
 drospirenon
+Duaklir Genuair «AstraZeneca» inhal.pulv.
 Duchenne muskeldystrofi
+Dukoral «Valneva» mikst. og brusegran.
 dulaglutid
+Dulcolax «sanofi-aventis» enterotabl., supp.
 duloksetin
+Duloxetine «Mylan» enterokaps.
 Duloxetin Krka «KRKA» enterokaps.
 Duloxetin Pensa «Pensa Pharma» enterokaps.
-Duloxetine «Mylan» enterokaps.
 Duodart «GlaxoSmithKline» kaps.
 Duodenalsår
+Duodopa «AbbVie» intestinalgel
 Duokopt «Thea Laboratoires» øyedråper
 DuoResp Spiromax «Teva» inhal.pulv.
 DuoTrav «Novartis» øyedråper
+Duphalac, med fruktsmak «Mylan IRE Healthcare Ltd.» mikst.
+Duphalac «Mylan IRE Healthcare Ltd.» mikst.
 dupilumab
+Dupixent «sanofi-aventis» inj.
 Dupuytrens kontraktur
+Duraphat «Colgate Palmolive A/S» dentalvæske
+Duraphat «Colgate Palmolive A/S» tannpasta
+Durbis Retard «sanofi-aventis» depottabl.
+Duroferon depottabletter «ACO HUD» depottabl.
 Durogesic «Janssen» depotplaster
 dutasterid
 Dutasteride Medical Valley «Medical Valley» kaps.
@@ -1753,144 +1048,6 @@ Dyslipidemi
 Dysmenoré
 Dyspepsi
 Dysport «Ipsen» pulv. til inj.
-Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan «Mylan» tabl.
-Efexor Depot «Pfizer» depotkaps.
-Efient «Daiichi Sankyo» tabl.
-Emselex «Merus Labs» depottabl.
-Emtricitabine/Tenofovir disoproxil Sandoz «Sandoz» tabl.
-Enanton Depot Dual «Orion» pulv. og væske til inj.
-Endofalk «Dr. Falk» pulv. til oral oppl.
-Entocort «Tillotts Pharma» depotkaps.
-Equasym Depot «Shire» kaps.
-Erektil dysfunksjon
-Estalis «2care4» depotplaster
-Estalis «Novartis» depotplaster
-Estradot «Novartis» depotplaster
-Etalpha «LEO» dråper, inj., kaps.
-Evra «Janssen» depotplaster
-Exelon «Novartis» depotplaster, kaps., mikst.
-Familiær D-vitaminavhengighet
-Fampyra «Orifarm» depottabl.
-Felodipin HEXAL «HEXAL» depottabl.
-Fentanyl «Sandoz» depotplaster
-Fluanxol, Fluanxol Depot «Lundbeck» inj., tabl.
-Fluoxetin Sandoz «Sandoz» dispergerbare tabl.
-follitropin delta
-Fontex «Lilly» dispergerbare tabl.
-Furix, Furix Retard «Takeda» depotkaps., inj., tabl.
-Galantamin Krka «KRKA» depotkaps.
-Gaviscon «Nordic Drugs» mikst., tyggetabl.
-Haldol, Haldol depot «Janssen» inj., tabl.
-Hepatikolentikulær degenerasjon
-Hiprex «Meda» pulv. i dosepose, tabl.
-Imdur «Orifarm» depottabl.
-Imdur «TopRidge Pharma» depottabl.
-insulin degludec
-insulin detemir
-Intuniv «Shire» depottabl.
-Ismo retard «2care4» depottabl.
-Ismo retard «Orifarm» depottabl.
-Ismo Retard «Riemser» depottabl.
-Isomex «RPH Pharmaceuticals» depottabl.
-Kalcipos-Vitamin D «Meda» tabl.
-Kaleorid «LEO» depottabl.
-Kaliumklorid Orifarm «Orifarm Generics» depottabl.
-Kalydeco «Vertex Pharmaceuticals» dosegran., tabl.
-Kentera «Nicobrand» depotplaster
-Lamictal «GlaxoSmithKline» dispergerbare/tyggetabl.
-Lescol Depot «Farmagon» depottabl.
-Lescol Depot «Novartis» depottabl.
-Lixiana «Daiichi Sankyo» tabl.
-Lomir SRO «2care4» depotkaps.
-Madopar, Madopar Depot, Madopar Solubile «Roche» depotkaps., kaps., oppl. tabl.
-Malfin «Teva» depottabl.
-Manisk-depressiv lidelse
-Metadon DnE «dne pharma» mikst.
-Metadon «Nordic Drugs» mikst.
-Methylphenidate Sandoz «Sandoz» depottabl.
-Metoprolol Sandoz depottabletter «Sandoz» depottabl.
-Monoket OD «2care4» depotkaps.
-Monoket OD «Merus Labs» depotkaps.
-Mysimba «Orexigen» depottabl.
-Neupro «UCB» depotplaster
-Nexodal «Orpha-Devel» inj./inf.
-Nicorette «McNeil» depotplaster, inhalator, munnspray, sugetabl., tyggegummi
-Nobligan, Nobligan Retard «Grünenthal» depottabl., kaps.
-Norspan «Mundipharma» depotplaster
-Nuelin Depot «Meda» depottabl.
-Nycoplus Ferro-Retard «Takeda» depottabl.
-Nycoplus vitamin D3 «Internis» kaps.
-Olmetec «Daiichi Sankyo» tabl.
-Omnic «Orifarm» depottabl.
-Oprymea «KRKA» depottabl., tabl.
-Oramorph «Molteni» dråper, mikst.
-Oraqix «Dentsply» periodontalgel
-Orfiril long «2care4» depotkaps.
-Orfiril, Orfiril Retard, Orfiril long «Desitin» depotgran., depotkaps., depottabl., enterotabl., inj., mikst.
-OxyContin «Mundipharma» depottabl.
-Palexia depot «Grünenthal» depottabl.
-Palladon «Mundipharma» depotkaps.
-Pamorelin «Ipsen» pulv. og væske til depotinj.
-Pevaryl, Pevaryl Depot «Trimb» krem + vagit.
-Plendil «Farmagon» depottabl.
-radium-223-diklorid
-Reminyl «Janssen» depotkaps.
-Reminyl «Orifarm» depotkaps.
-Requip Depot «GlaxoSmithKline» depottabl.
-Respiratorisk distress-syndrom
-Respiratory distress syndrome
-Reversibel iskemisk nevrologisk deffekt
-Rinexin «Meda» depottabl.
-Ropinirol Krka «KRKA» depottabl.
-Salofalk «Dr. Falk» enterodepotgran., rektalskum, supp.
-Salvapar «Ipsen» pulv. og væske til depotinj.
-Sancuso «Kyowa Kirin Ltd.» depotplaster
-Selozok «Farmagon» depottabl.
-Sequidot «Novartis» depotplaster
-Seroquel Depot «Orifarm» depottabl.
-Sevikar «Daiichi Sankyo» tabl.
-Sinemet Depot Mite «MSD» depottabl.
-Singulair 4 mg «MSD» dosegran., tyggetabl.
-Tambocor Retard «Meda» depotkaps.
-Tamsulosin «ratiopharm» depottabl.
-Targiniq «Mundipharma» depottabl.
-Tegretol, Tegretol Retard «Novartis» depottabl., mikst., tabl.
-Tenofovir disoproxil «Sandoz» tabl.
-Tenofovir disoproxil «Teva» tabl.
-Teysuno «Nordic Drugs» kaps.
-Timosan «2care4» depotøyedråper
-Timosan «Santen» depotøyedråper
-Tobrex Depot «Novartis» depotøyedråper
-Toviaz «Farmagon» depottabl.
-Toviaz «Pfizer» depottabl.
-Tramagetic OD, Tramagetic Retard «Mundipharma» depottabl.
-Transiderm-Nitro «Novartis» depotplaster
-Trental «2care4» depottabl.
-Trevicta «Janssen» depotinj.
-Trilafon dekanoat «Orion» inj.
-Trimonil Retard «Desitin» depottabl.
-Trimonil Retard «Orifarm» depottabl.
-Ucedane «Lucane Pharma» dispergerbare tabl.
-Ulcus duodeni
-Ursofalk «Dr. Falk» kaps., mikst., tabl.
-Venlafaxin Krka «KRKA» depotkaps.
-Venlafaxin «ratiopharm» depotkaps.
-Venlazid «Medical Valley» depottabl.
-Venorion «Orion» depotkaps.
-Vi-Siblin «Meda» dosegran., gran.
-Vigantol «2care4» dråper
-vitamin d
-Vitamin D-mangel
-vitamin d2
-vitamin d3
-Votubia «Novartis» dispergerbare tabl., tabl.
-Xanor, Xanor Depot «Pfizer» depottabl., tabl.
-Xeplion «Janssen» depotinj.
-Zuades «Sensidose» dispergerbare tabl.
-Zyban «2care4» depottabl.
-Zyban «GlaxoSmithKline» depottabl.
-ZypAdhera «Lilly» pulv. og væske til depotinj.
-Zyrtec «UCB» dråper, mikst., tabl.
 Eaten-Lamberts syndrom
 ebastin
 Ebastin Orifarm «Orifarm Generics» tabl.
@@ -1904,14 +1061,19 @@ edoksaban
 Edronax «Pfizer» tabl.
 Edurant «Janssen» tabl.
 efavirenz
+Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan «Mylan» tabl.
 Efavirenz Sandoz «Sandoz» tabl.
 efedrin
 Efedrin Stragen «Stragen» inj.
 Efedrin «Takeda» inj.
+Efexor Depot «Pfizer» depotkaps.
 Efient «2care4» tabl.
+Efient «Daiichi Sankyo» tabl.
 eflornitin
+Egazil «BioPhausia» depottabl.
 Eggstokkreft
 eikosapentaensyreetylester
+Eklira Genuair «AstraZeneca» inhal.pulv.
 ekonazol
 Eksem
 eksemestan
@@ -1924,15 +1086,20 @@ elektrolytter
 Elektrolyttforstyrrelser
 Elektrolyttmangel
 eletriptan
+Eletriptan Alternova «Alternova» tabl.
 Elidel «Meda» krem
 Eligard «2care4» pulv. og væske til inj.
+Eligard «Astellas» pulv. og væske til inj.
 eliglustat
+Eliquis «Bristol-Myers Squibb» tabl.
 EllaOne «2care4» tabl.
 EllaOne «HRA Pharma» tabl.
 Elocom «Orifarm» lin.
 Elocon «MSD» krem, lin., salve
+Elocta «Swedish Orphan Biovitrum» pulv. og væske til inj.
 Elonva «MSD» inj.
 Elonva «Orifarm» inj.
+elosulfase alfa
 elotuzumab
 eltrombopag
 eluksadolin
@@ -1941,6 +1108,7 @@ Elveblest
 elvitegravir
 Emadine «Novartis» øyedråper
 Emboli
+Emconcor CHF «Merck» tabl.
 Emconcor «Merck» tabl.
 emedastin
 Emend, Ivemend «MSD» kaps., pulv. til inf.
@@ -1948,13 +1116,21 @@ Emerade «PharmaSwiss» inj.
 Emese
 Emfysem
 emicizumab
+Emla «Aspen Pharma Trading Ltd.» krem
+Emla «Aspen Pharma Trading Ltd.» plaster
 empagliflozin
+Empliciti «Bristol-Myers Squibb» pulv. til kons. til inf.
+Emselex «Merus Labs» depottabl.
 emtricitabin
+Emtricitabine/Tenofovir disoproxil Accord «Accord Healthcare» tabl.
+Emtricitabine/Tenofovir disoproxil Sandoz «Sandoz» tabl.
 Emtriva «Gilead» kaps.
 enalapril
+Enalapril/Lercanidipine Krka «KRKA» tabl.
+Enalapril Comp «ratiopharm» tabl.
 Enalapril Krka «KRKA» tabl.
 Enalapril Sandoz «Sandoz» tabl.
-Enalapril/Lercanidipine Krka «KRKA» tabl.
+Enanton Depot Dual «Orion» pulv. og væske til inj.
 Enbrel «Pfizer» inj., pulv. og væske til inj.
 Encefalitt
 encefalitt, skogflåttbåren, inaktivert helvirus
@@ -1962,10 +1138,12 @@ Endetarmsbetennelse
 Endetarmscancer
 Endetarmskreft
 Endetarmsplager
+Endofalk «Dr. Falk» pulv. til oral oppl.
 Endokarditt
 Endometriecancer
 Endometriose
 Engelsk syke
+Engerix-B «GlaxoSmithKline» inj.
 enoksaparin
 Enstilar «LEO» skum
 entakapon
@@ -1974,12 +1152,15 @@ Entecavir «Teva» tabl.
 entekavir
 Enterobiasis
 Enterokolitt
+Entocort «Tillotts Pharma» depotkaps.
 Entocort «Tillotts Pharma» tabl. til rektalvæske
 Entresto «2care4» tabl.
 Entresto «Novartis» tabl.
 Entyvio «Takeda» pulv. til kons. til inf.
 Enuresis nocturna
+Envarsus «Chiesi Farmaceutici» depottabl.
 enzalutamid
+Eosinofil astma
 Epclusa «Gilead» tabl.
 Epiduo 0,1%/2,5% «Galderma» gel
 Epiduo 0,3%/2,5% «Galderma» gel
@@ -1987,18 +1168,27 @@ Epiduo «2care4» gel
 Epilepsi
 EpiPen, EpiPen Jr. «Meda» inj.
 epirubicin
+Epirubicin Accord «Accord Healthcare» inf./inj.
 Epirubicin medac «Medac» inj.
+Epirubicin «Actavis» inj.
+Epirubicin «Actavis» pulv. til inf./inj.
 Epivir «ViiV Healthcare» mikst., tabl.
 eplerenon
+Eplerenon Accord «Accord Healthcare» tabl.
 Eplerenon Medical Valley «Medical Valley» tabl.
 epoprostenol
+Epoprostenol CampusPharma «CampusPharma» pulv. og væske til inf.
 Eporatio «ratiopharm» inj.
 Eposin «Teva» kons. til inf.
 Eprex «Janssen» inj.
 eprosartan
+eptacog alfa (aktivert)
 eptifibatid
+Eptifibatide Accord «Accord Healthcare» inf., inj.
+Equasym Depot «Shire» kaps.
 Erbitux «Merck» inf.
 Ereksjonssvikt
+Erektil dysfunksjon
 ergokalsiferol
 eribulin
 Erivedge «Roche» kaps.
@@ -2014,6 +1204,7 @@ Esbriet «Roche» kaps., tabl.
 escitalopram
 Escitalopram Mylan «Mylan» tabl.
 Escitalopram Teva «Teva» tabl.
+Escitalopram «Actavis» tabl.
 Esidrex «Laboratoires Juvisé Pharmaceuticals» tabl.
 esketamin
 eslikarbazepin
@@ -2025,12 +1216,17 @@ Esomeprazol Krka «KRKA» enterokaps.
 Esomeprazol Pensa «Pensa Pharma» enterokaps.
 Esomeprazol Sandoz «Sandoz» enterotabl.
 Essensiell pulmonal hemosiderose
+Estalis «2care4» depotplaster
+Estalis «Novartis» depotplaster
+Estradot «Novartis» depotplaster
+Etalpha «LEO» dråper, inj., kaps.
 etambutol
 etanercept
 etekalsetid
 etinyløstradiol
 etonogestrel
 etoposid
+Etoposide Accord «Accord Healthcare» kons. til inf.
 Etoricoxib Krka «KRKA» tabl.
 Etoricoxib Orion «Orion» tabl.
 Etoricoxib Sandoz «Sandoz» tabl.
@@ -2040,119 +1236,65 @@ Etylenglykolforgiftning
 etylmorfin
 Eucreas «Novartis» tabl.
 Eucreas «Orifarm» tabl.
+Eurax «GlaxoSmithKline Consumer Healthcare» krem
 Euthyrox «Merck» tabl.
 everolimus
 Eviana «Novo Nordisk» tabl.
+Evicel «Omrix Biopharmaceuticals» oppl. til vevslim
 Eviplera «Gilead» tabl.
 Evista «Orifarm» tabl.
 evolokumab
 Evoltra «Genzyme» kons. til inf.
+Evotaz «Bristol-Myers Squibb» tabl.
+Evra «Janssen» depotplaster
+Exelon «Novartis» depotplaster, kaps., mikst.
 Exemestan Sandoz «Sandoz» tabl.
 Exforge HCT «Novartis» tabl.
 Exforge «Novartis» tabl.
 Exjade «Novartis» tabl.
 Extavia «Novartis» pulv. og væske til inj.
+Extraneal «Baxter» peritonealdialysevæske
+Exviera «AbbVie» tabl.
+Eylea «Bayer AG» inj.
 ezetimib
-Ezetimib Sandoz «Sandoz» tabl.
 Ezetimib/Simvastatin Sandoz «Sandoz» tabl.
+Ezetimib Krka «KRKA» tabl.
+Ezetimib Sandoz «Sandoz» tabl.
 Ezetrol «MSD» tabl.
-Fomepizole «EUSA Pharma» kons. til inf.
-For tidlig eggløsning
-Fycompa «Eisai Ltd.» tabl.
-Giona Easyhaler «Orion» inhal.pulv.
-GranuPAS «Lucane Pharma» enterogran.
-Halaven «Eisai Ltd.» inj.
-hedera helix (eføyblad)
-Hepatisk encefalopati
-Inovelon «Eisai Ltd.» mikst., tabl.
-Invicorp «Evolan Pharma» inj.
-japansk encefalitt, inaktivert helvirus
-Japansk encefalittvirusinfeksjon
-Keflex «Eurocept International» gran. til mikst., tabl.
-Keflin «Eurocept International» pulv. til inf., pulv. og væske til inf./inj.
-Lambert-Eaton myastenisk syndrom
-Lansoprazol Krka «KRKA» enterokaps.
-Lansoprazol Pensa «Pensa Pharma» enterokaps.
-Lenvima «Eisai Ltd.» kaps.
-Losec MUPS «Farmagon» enterotabl.
-Manglende eggløsning
-Mezavant «2care4» enterodepottabl.
-Mezavant «Shire» enterodepottabl.
-Miacalcic «Essential Pharma» inj.- og infusjonsvæske
-Mifegyne «Exelgyn» tabl.
-Mitoxantron Ebewe «EBEWE» kons. til inf.
-Morfin Epidural «Takeda» inj.
-Napren-E «Takeda» enterotabl.
-Naproxen-E «Mylan» enterotabl.
-Nattlig enurese
-Nebcina «Eurocept International» inj.
-NeuroBloc «Eisai Ltd.» inj.
-Nexium «2care4» enterogran.
-Nexium «Farmagon» enterotabl.
-Nexium «Orifarm» enterogran., enterotabl.
-Niferex «UCB» enterokaps.
-Normosang «Orphan Europe» kons. til inf.
-Novastan «Mitsubishi Pharma Europe» kons. til inf.
-Noxafil «MSD» enterotabl., kons. til inf., mikst.
-Nycoplus E-vitamin «Takeda» kaps.
-Oculac i endosebeholdere «Thea Laboratoires» øyedråper
-Omeprazol Pensa «Pensa Pharma» enterokaps.
-Omeprazol Sandoz «Sandoz» enterokaps.
-Orfiril «Orifarm» enterotabl.
-Ornibel «Exeltis» vaginalinnlegg
-Pantoprazol Krka «KRKA» enterotabl.
-Pantoprazol Pensa «Pensa Pharma» enterotabl.
-Pantoprazol Sandoz «Sandoz» enterotabl., pulv. til inj.
-Parenteral ernæring
-Pedea «Orphan Europe» inj.
-Prematur ejakulasjon
-Pro-Epanutin «Pfizer» kons. til inf./inj.
-Rapydan «Eurocept International» plaster
-Relvar Ellipta «GlaxoSmithKline» inhal.pulv.
-Salazopyrin EN «Pfizer» enterotabl.
-SmofKabiven, SmofKabiven Elektrolytfri, SmofKabiven Perifer, SmofKabiven extra Nitrogen «Fresenius Kabi» inf.
-Somac «Orifarm» enterotabl.
-Somac «Takeda» enterotabl., pulv. til inj.
-Targretin «Eisai Ltd.» kaps.
-Toilax «Orion» enterotabl., rektalvæske
-Topotecan Ebewe «EBEWE» kons. til inf.
-Trelegy Ellipta «GlaxoSmithKline» inhal.pulv.
-Trica «Evolan Pharma» inj.
-Uteblitt eggløsning
-Vamin 14 g N/l Elektrolyttfri, Vamin 18 g N/l Elektrolyttfri «Fresenius Kabi» inf.
-Vedrop «Orphan Europe» mikst.
-Vinorelbin Ebewe «EBEWE» kons. til inf.
-vitamin e
-Vitamin E-mangel
-Vivotif «PaxVax» enterokaps.
-Voltaren «Novartis» enterotabl., inj., supp.
-Wilzin «Orphan Europe» kaps.
-Zollinger-Ellisons syndrom
-Zonegran «Eisai Ltd.» kaps.
 Fabrazyme «Genzyme» pulv. til kons. til inf.
 Fabrys sykdom
 Faktor IX-mangel
 Faktor VII-mangel
+faktor viii-inhibitor bypass-aktivitet
 Faktor VIII-mangel
 Faktor XIII-mangel
+Familiær D-vitaminavhengighet
+Familiær kulde autoinflammatorisk syndrom
 Familiær kulde urticaria
 Familiær kuldeurtikaria
 famotidin
 fampridin
+Fampyra «Biogen» depottabl.
+Fampyra «Orifarm» depottabl.
 Fanalgin «Weifa» tabl.
 Farydak «Novartis» kaps.
 Faryngitt
+Fasenra «AstraZeneca» inj.
+Faslodex «AstraZeneca» inj.
+Fasturtec «sanofi-aventis» pulv. og væske til kons. til inf.
 FCAS
 Feber
 Febril nøytropeni
 febuksostat
 Fedme
+Feiba «Baxalta» pulv. og væske til inf.
 feksofenadin
 felbamat
 felodipin
+Felodipin HEXAL «HEXAL» depottabl.
 felypressin
-Femar «Novartis» tabl.
 Femara «Orifarm» tabl.
+Femar «Novartis» tabl.
 Fenantoin Meda «Meda» tabl.
 fenazon
 Fenazon-Koffein, Fenazon-Koffein sterke «Takeda» tabl.
@@ -2162,10 +1304,13 @@ Fenemal «Takeda» tabl.
 fenobarbital
 fenoksymetylpenicillin
 fentanyl
+Fentanyl «Actavis» inj.
 Fentanyl «Hameln» inj.
+Fentanyl «Sandoz» depotplaster
 fentolaminmesilat
 fenylalanin
 fenylefrin
+Fenylefrin «Abcur» inj.
 Fenylefrin «Stragen» inj.
 Fenylefrin «Unimedic» inj., kons. til inf./inj.
 Fenylketonuri
@@ -2173,6 +1318,7 @@ fenylpropanolamin
 fenytoin
 Feraccru «Shield Therapeutics» kaps.
 Ferinject «Vifor France» inf./inj.
+Ferriprox «Apotex» mikst., tabl.
 ferrofumarat
 ferroglysinsulfat
 Ferromax «Weifa» tabl.
@@ -2180,20 +1326,28 @@ ferrosulfat
 fesoterodin
 fettemulsjoner
 Fevarin «2care4» tabl.
+Fevarin «BGP Products» tabl.
 Fevarin «Orifarm» tabl.
 Fiasp «Novo Nordisk» inj.
+Fibclot «LFB-Biomedicaments» pulv. og væske til inf./inj.
 fibrinogen
 Fibrinogenopeni
 fidaksomicin
 filgrastim
+Finacea «Bayer AB» gel
 finasterid
+Finasterid «Actavis» tabl.
 fingolimod
 Firazyr «Shire» inj.
+Firdapse «BioMarin» tabl.
+Firmagon «Ferring Pharmaceuticals A/S» pulv. og væske til inj.
 Fiskehud
 Fissurer
 FL
+Flagyl «sanofi-aventis» inf., mikst., tabl., vagit.
 Flamazine «2care4» krem
 Flamazine «Smith & Nephew» krem
+Flamexin «2care4» tabl.
 Flammazine «Orifarm» krem
 Flass
 Flatlus
@@ -2201,13 +1355,19 @@ Flatulens
 Flebitt
 Flecainid Sandoz «Sandoz» tabl.
 flekainid
+Flixotide «Orifarm» inhal.aerosol
 Flolan «GlaxoSmithKline» pulv. og væske til inf.
+Florinef «Aspen Pharma Trading Ltd.» tabl.
+Fluanxol, Fluanxol Depot «Lundbeck» inj., tabl.
+Fluconazol B. Braun «Braun» inf.
 Fluconazol Krka «KRKA» kaps.
 Fluconazol «Villerton» inf.
+fludarabin
+Fludarabin «Actavis» kons. til inf./inj.
 Fludara «2care4» tabl.
 Fludara «Genzyme» tabl.
-fludarabin
 fludrokortison
+Fluenz Tetra «AstraZeneca» nesespray
 flukonazol
 flumazenil
 Flumazenil Fresenius Kabi «Fresenius Kabi» inj.
@@ -2216,27 +1376,41 @@ fluocinolonacetonid
 fluocinonid
 fluoksetin
 fluorescein
+Fluoresceinnatrium Minims «Bausch & Lomb U.K. Ltd.» øyedråper
 fluorouracil
-Fluoxetin «Mylan» kaps.
+Fluorouracil Accord «Accord Healthcare» inf./inj.
 Fluoxetine Orion «Orion» kaps.
 Fluoxetine Vitabalans «Vitabalans» tabl.
+Fluoxetin Sandoz «Sandoz» dispergerbare tabl.
+Fluoxetin «Mylan» kaps.
 flupentiksol
 Flurablastin «Pfizer» inj.
 flurbiprofen
 flutamid
 Flutamid «Orion» tabl.
 Flutide Nasal «GlaxoSmithKline» nesedråper, nesespray
+Flutide «GlaxoSmithKline» inhal.aerosol, inhal.pulv.
+Flutiform «2care4» inhal.aerosol
+Flutiform «Mundipharma» inhal.aerosol
 flutikason
+Flutikason Cipla «Cipla» inhal.aerosol
 flutikasonfuroat
 Flutivate «GlaxoSmithKline» krem, salve
 fluvastatin
 fluvoksamin
+Flux «Actavis» sugetabl.
 Flåttsykdom
 Fobier
 Follikulært lymfom
+follitropin alfa
+follitropin beta
+follitropin delta
 folsyre
 fomepizol
+Fomepizole «EUSA Pharma» kons. til inf.
 fondaparinuks
+Fontex «Lilly» dispergerbare tabl.
+Forbigående iskemiske atakker
 Forgiftning
 Forhøyet hjernevolum
 Forkjølelse
@@ -2247,8 +1421,11 @@ Forstoppelse
 Forstrekning
 Forstuing
 Forstørret prostata
+For tidlig eggløsning
+For tidlig utløsning
 Fortum «GlaxoSmithKline» pulv. til inf./inj.
 Forxiga «2care4» tabl.
+Forxiga «AstraZeneca» tabl.
 Fosamax 10 mg «MSD» tabl.
 Fosamax 70 mg «MSD» tabl.
 Fosamax «Farmagon» tabl.
@@ -2267,109 +1444,29 @@ Fragmin «Pfizer» inj.
 framycetin
 Fremre uveitt
 frovatriptan
+Fucidin-Hydrocortison «LEO» krem
 Fucidin «LEO» kompress, krem, salve
 Fucidin «LEO» tabl.
-Fucidin-Hydrocortison «LEO» krem
+Fucithalmic «Amdipharm» øyedråper
 fulvestrant
 Fungoral «2care4» krem
 Fungoral «Trimb» krem, sjampo
 Furadantin «Meda» tabl.
+Furix, Furix Retard «Takeda» depotkaps., inj., tabl.
 furosemid
 Furosemid 500 mg «Orion» tabl.
 Furosemid «Orion» tabl.
 Furunkulose
 fusidinsyre
+Fusidinsyre/Betametason «LEO» krem
+Fycompa «Eisai Ltd.» tabl.
 Fyremadel «SUN Pharma» inj.
 fytomenadion
 Føflekkreft
 Føling
 Føllings sykdom
-Gemkabi «Fresenius Kabi» kons. til inf.
-Ginsana «Soho Flordis» kaps.
-Glavamin «Fresenius Kabi» inf.
-Glucos Fresenius Kabi «Fresenius Kabi» inf.
-GONAL-f Orifarm «Orifarm» inj.
-GONAL-f «Merck» inj., pulv. og væske til inj.
-Hemangiol «Pierre Fabre Pharma Norden» mikst.
-humant fibrinogen
-Imigran «Farmagon» nesespray, tabl.
-Insulatard FlexPen, Insulatard Penfill «Novo Nordisk» inj.
-Intralipid «Fresenius Kabi» inf.
-Irinokabi «Fresenius Kabi» kons. til inf.
-Januvia «Farmagon» tabl.
-Javlor «Pierre Fabre Pharma Norden» kons. til inf.
-Kabiven, Kabiven Perifer «Fresenius Kabi» inf.
-Kandesartan «Farmagon» tabl.
-Karbolytt «Fresenius Kabi» inf.
-Klorhexidin Fresenius Kabi «Fresenius Kabi» lin.
-Klorhexidinsprit Fresenius Kabi, Klorhexidinsprit farget Fresenius Kabi «Fresenius Kabi» lin.
-Klyx «Farmagon» rektalvæske
-Laxabon «Farmagon» pulv. til oppl.
-Leponex «Farmagon» tabl.
-Levolac «Fresenius Kabi» mikst.
-Linezolid Fresenius Kabi «Fresenius Kabi» inf.
-Lipitor «Farmagon» tabl.
-Lutinus «Farmagon» vaginaltabl.
-Lyrica «Farmagon» kaps.
-Mannitol Fresenius Kabi «Fresenius Kabi» inf.
-Meropenem Fresenius Kabi «Fresenius Kabi» pulv. til inf./inj.
-Micardis «Farmagon» tabl.
-Microgynon «Farmagon» tabl.
-Mirena «Farmagon» intrauterint innlegg
-Naramig «Farmagon» tabl.
-Nasonex «Farmagon» nesespray
-Navelbine «Pierre Fabre Pharma Norden» kaps., kons. til inf.
-Nedsatt fordøyelse
-Neurontin «Farmagon» kaps.
-Nevanac «Farmagon» øyedråper
-NovoMix 30 FlexPen, NovoMix 30 Penfill «Novo Nordisk» inj.
-NovoRapid, NovoRapid PumpCart, NovoRapid FlexPen, NovoRapid Penfill «Novo Nordisk» inj.
-Nycoplus Neo-Fer «Takeda» mikst.
-Omacor «Farmagon» kaps.
-Ondansetron Fresenius Kabi «Fresenius Kabi» inj.
-Oxaliplatin Fresenius Kabi «Fresenius Kabi» kons. til inf.
-Paclitaxel Fresenius Kabi «Fresenius Kabi» kons. til inf.
-Palonosetron Fresenius Kabi «Fresenius Kabi» inj.
-Paracetamol Fresenius Kabi «Fresenius Kabi» inf.
-parafin, flytende
-Paralgin forte, Paralgin major «Weifa» supp., tabl.
-Peditrace «Fresenius Kabi» kons. til inf.
-Piperacillin/Tazobactam Fresenius Kabi «Fresenius Kabi» pulv. til inf.
-Prematur fødsel
-Propolipid «Fresenius Kabi» inj./inf.
-Proscar «Farmagon» tabl.
-Pulmaxan «Farmagon» inhal.væske
-Recrea Forte 5% «Meda OTC» lin.
-Rehydrex med glucos «Fresenius Kabi» inf.
-Relpax «Farmagon» tabl.
-Remodulin «Ferrer» inf.
-Ropivacain Fresenius Kabi «Fresenius Kabi» inf., inj.
-Sandimmun Neoral «Farmagon» kaps.
-Septocaine, Septocaine Forte «Septodont» inj.
-Seroquel «Farmagon» tabl.
-Seroxat «Farmagon» tabl.
-SMOFlipid «Fresenius Kabi» inf.
-Soluvit «Fresenius Kabi» pulv. til inf.
-Travatan «Farmagon» øyedråper
-Tribonat «Fresenius Kabi» inf.
-Trulicity «Farmagon» inj.
-Valerina Forte, Valerina Natt «Pharbio Medical» tabl.
-Vaminolac «Fresenius Kabi» inf.
-Vancomycin Fresenius Kabi «Fresenius Kabi» pulv. til kons. til inf.
-Venofer «Vifor France» inj./kons. til inf.
-Viagra «Farmagon» tabl.
-Voluven «Fresenius Kabi» inf.
-von willebrands faktor
-Xenical «Farmagon» kaps.
-Xigduo «Farmagon» tabl.
-Zanidip «Farmagon» tabl.
-Zocor «Farmagon» tabl.
-Zoledronsyre Fresenius Kabi «Fresenius Kabi» kons. til inf.
-Zoloft «Farmagon» tabl.
-Zomig «Farmagon» tabl.
-Zonegran «Farmagon» kaps.
-Zyprexa, Zyprexa Velotab «Farmagon» smeltetabl., tabl.
 gabapentin
+Gabapentin Accord «Accord Healthcare» kaps.
 gadobensyre
 gadobutrol
 gadodiamid
@@ -2377,8 +1474,12 @@ gadoksetinsyre
 gadopentetsyre
 gadoteridol
 gadotersyre
+Gadovist «Bayer AB» inj.
+Galafold «Amicus Therapeutics» kaps.
 Galaktoré
 galantamin
+Galantamin Krka «KRKA» depotkaps.
+Galieve «Reckitt Benckiser» mikst., tyggetabl.
 Gallesten
 Galleveisdyskinesi
 Galleveisinfeksjon
@@ -2388,32 +1489,50 @@ galsulfase
 Galvus «Novartis» tabl.
 Gammanorm «Octapharma» inj.
 ganciklovir
+Ganfort «Allergan» øyedråper
 Gangren
 ganirelix
 Gardasil 9 «MSD Vaccins» inj.
 Gardasil «MSD Vaccins» inj.
 Gastritt
 Gastroenteritt
+Gastrografin «Bayer AB» mikst./rektalvæske
 Gastrointestinal stromal tumor
 Gastroøsofageal reflukssykdom
-Gaucher sykdom
 Gauchers sykdom
+Gaucher sykdom
+Gaviscon «Nordic Drugs» mikst., tyggetabl.
 Gazyvaro «Roche» kons. til inf.
 gefitinib
+Gelaspan «Braun» inf.
 gelatin
-Gem «Takeda» pulv. til mikst.
+Gelisse «Italfarmaco» vaginalgel
 gemcitabin
+Gemcitabine Accord «Accord Healthcare» kons. til inf., pulv. til inf.
+Gemcitabin «Actavis» kons. til inf.
+Gemkabi «Fresenius Kabi» kons. til inf.
+Gem «Takeda» pulv. til mikst.
+Generalisert angstlidelse
 Genotropin «Pfizer» pulv. og væske til inj.
+Gensumycin «sanofi-aventis» inj.
 gentamicin
+Gentamicin B. Braun «2care4» inf.
+Gentamicin B. Braun «Braun» inf.
+Gentamicin Braun «Orifarm» inf.
 Genvoya «Gilead» tabl.
 GERD
 Gilenya «Novartis» kaps.
 gimeracil
 Gingivitt
+ginkgo biloba (ginkgoblad)
+Ginsana «Soho Flordis» kaps.
+Giona Easyhaler «Orion» inhal.pulv.
+Giotrif «Boehringer Ingelheim» tabl.
 GIST
 Glanzmanns trombasteni
 glatirameracetat
 Glaukom
+Glavamin «Fresenius Kabi» inf.
 glekaprevir
 Glibenclamid «ratiopharm» tabl.
 glibenklamid
@@ -2425,168 +1544,102 @@ Gliom
 glipizid
 Glivec «Novartis» tabl.
 Glucagon «Novo Nordisk» pulv. og væske til inj.
+Glucobay «Bayer AB» tabl.
 Glucophage «Merck» tabl.
 Glucosamin Orifarm «Orifarm Generics» tabl.
 Glucosamin Pharma Nord «Pharma Nord» kaps.
+Glucos B. Braun «Braun» inf.
+Glucos Baxter Viaflo «Baxter» inf.
+Glucos Fresenius Kabi «Fresenius Kabi» inf.
 glukagon
 glukosamin
 glukose
+Glukose B. Braun «Braun» inj.
+Glukosel «Braun» inf.
 glukosemonohydrat
 Glycerylnitrat «Takeda» kons. til inf.
 glykopyrroniumbromid
+Glypressin «Ferring Legemidler AS» inj., pulv. og væske til inj.
 glyserol
 glyseroltrinitrat
 glysin
+Glyxambi «Boehringer Ingelheim» tabl.
 golimumab
+GONAL-f Orifarm «Orifarm» inj.
+GONAL-f «Merck» inj., pulv. og væske til inj.
+Gonapeptyl «Ferring Legemidler AS» inj.
 goserelin
 gramicidin
 granisetron
+Granon «Takeda» brusetabl.
+Granpidam «Accord Healthcare» tabl.
 Granulomatøs polyangiitt
+GranuPAS «Lucane Pharma» enterogran.
 Grazax «2care4» smeltetabl.
+Grazax «ALK» smeltetabl.
 Grazax «Orifarm» smeltetabl.
 grazoprevir
 Grønn stær
 guaifenesin
 guanfacin
+Guillain-Barrés syndrom
 Gulfeber
 gulfeber, levende svekket
 guselkumab
 GØRS
-Harvoni «Gilead» tabl.
-Havrix «GlaxoSmithKline» inj.
-Hepsera «Gilead» tabl.
-Hydrochlorothiazide Orifarm «Orifarm Generics» tabl.
-Hydroxyzine Orifarm «Orifarm Generics» tabl.
-Ibumetin gel «Takeda» gel
-Ibux med mentol «Weifa» gel
-Ibux «Weifa» gel
-Imacillin «Teva» gran. til mikst., tabl.
-Imigran «GlaxoSmithKline» inj., nesespray, tabl.
-Incruse «GlaxoSmithKline» inhal.pulv.
-insulin glargin
-insulin glulisin
-Integrilin «GlaxoSmithKline» inf., inj.
-interferon gamma
-Isotretinoin Orifarm «Orifarm Generics» kaps.
-jern(ii)glukonat
-Kronisk granulomatøs sykdom
-Lemtrada «Genzyme» kons. til inf.
-Lennox-Gastaut syndrom
-Lenzetto «Gedeon Richter» transdermalspray
-Letrozol Orifarm «Orifarm Generics» tabl.
-Levosert «Gedeon Richter» intrauterint innlegg
-Loceryl «Galderma» medisinsk neglelakk
-Loratadin Orifarm «Orifarm Generics» tabl.
-Malarone, Malarone Junior «GlaxoSmithKline» tabl.
-Medisinsk luft Praxair Scandinavia «Praxair» gass
-Medisinsk lystgass Praxair Scandinavia «Praxair» gass
-Medisinsk oksygen Praxair Scandinavia «Praxair» gass
-Menveo «GlaxoSmithKline» pulv. og oppl. til inj.
-Metformin Orifarm «Orifarm Generics» tabl.
-Metoclopramide Orifarm «Orifarm Generics» tabl.
-Metvix «Galderma» krem
-Mirvaso «Galderma» gel
-Modigraf «Orifarm» gran. til mikst.
-Montelukast «Teva» gran., tyggetabl.
-Mozobil «Genzyme» inj.
-Myasthenia gravis
-Myozyme «Genzyme» pulv. til kons. til inf.
-Naramig «GlaxoSmithKline» tabl.
-Nucala «GlaxoSmithKline» pulv. til inj.
-Odefsey «Gilead» tabl.
-Omnipaque «GE Healthcare» inj.
-Omniscan «GE Healthcare» inj.
-Optiray «Guerbet» inf./inj.
-Optison «GE Healthcare» inj.
-Oracea «Galderma» kaps.
-Ovixan «Galenica» krem
-Oxytocin Orifarm «Orifarm Generics» kons. til inf./inj.
-Palexia «Grünenthal» tabl.
-panax ginseng (ginsengrot)
-Paracetamol Orifarm «Orifarm Generics» tabl.
-Pheburane «Lucane Pharma» gran.
-Phoxilium «Gambro» hemodialyse-/hemofiltreringsvæske
-Picato «2care4» gel
-Picato «LEO» gel
-Picato «Orifarm» gel
-Postafen «Gen.Orph» tabl.
-Priorix «GlaxoSmithKline» pulv. og væske til inj.
-Prismasol «Gambro» hemodialyse-/hemofiltreringsvæske
-Prolastina «Grifols» pulv. og væske til inf.
-Pyoderma gangrenosum
-Qutenza «Grünenthal» plaster
-Rabipur «GlaxoSmithKline Vaccines» pulv. og væske til inj.
-Rapiscan «GE Healthcare» inj.
-Regiocit «Gambro» hemofiltrasjonsvæske
-Renvela «Genzyme» pulv. til mikst., tabl.
-Rotarix «GlaxoSmithKline» mikst.
-Rozex «Galderma» gel, krem
-Ruconest «Pharming Group» pulv. til inj.
-Sativex «GW Pharma Ltd.» munnspray
-Seroxat «GlaxoSmithKline» tabl.
-Silkis «Galderma» salve
-Sonazoid «GE Healthcare» pulv. og væske til inj.
-Soolantra «Galderma» krem
-Sovaldi «Gilead» tabl.
-Stribild «Gilead» tabl.
-Tapin «Orifarm Generics» krem
-Tapin «Orifarm Generics» plaster
-Terbinafin Orifarm «Orifarm Generics» tabl.
-Tetralysal «Galderma» kaps.
-Thymoglobuline «Genzyme» pulv. til inf.
-Thyrogen «Genzyme» pulv. til inj.
-Tostran «Kyowa Kirin Ltd.» gel
-Translarna «PTC Therapeutics» gran. til mikst.
-Truvada «Gilead» tabl.
-Ursochol «Orifarm Generics» kaps.
-Valtrex «GlaxoSmithKline» tabl.
-Varilrix «GlaxoSmithKline» pulv. og væske til inj.
-vaselin, gul
-Vemlidy «Gilead» tabl.
-Versatis «Grünenthal» plaster
-Verucid «Galderma» lin.
-Visipaque «GE Healthcare» inj.
-Volibris «GlaxoSmithKline» tabl.
-Voltaren «2care4» gel
-Vosevi «Gilead» tabl.
-Wegeners granulomatose
-Wellbutrin Retard «GlaxoSmithKline» tabl.
-Xenetix «Guerbet» inj.
-Zalna «Meda» gel
-Zeffix «GlaxoSmithKline» tabl.
-Zinacef «GlaxoSmithKline» inj.subst.
-Zovirax «GlaxoSmithKline» krem, mikst., tabl., øyesalve
-Zurampic «Grünenthal» tabl.
-Zydelig «Gilead» tabl.
-Zyrona «Orifarm Generics» tabl.
+Haemate «CSL Behring» pulv. og væske til inf./inj.
 Haemophilus influenza-infeksjon
+haemophilus influenzae type b polysakkarid
 Haemophilus influenzainfeksjon
 haemophilusvaksine
 Hakeorm
+Halaven «Eisai Ltd.» inj.
+Haldol, Haldol depot «Janssen» inj., tabl.
 haloperidol
 Halsbetennelse
 Halsbrann
 Halsmandelbetennelse
+Harvoni «Gilead» tabl.
+Havrix «GlaxoSmithKline» inj.
+hedera helix (eføyblad)
 heksaminolevulinat
 Helicobacter pylori
+Helixate NexGen «Bayer AG» pulv. og væske til inj.
 Helvetesild
+Hemangiol «Pierre Fabre Pharma Norden» mikst.
 Hematom
 hemin, humant
+Heminevrin «Cheplapharm» kaps., mikst.
 Hemlibra «Roche» inj.
 Hemodialyse
 Hemofili A
+Hemofili B
 Hemofiltrering
 Hemoglobinuri
 Hemokromatose
 Hemolytisk uremisk syndrom
 Hemoroider
+Hemosol B0 «Gambro» hemodialyse-/hemofiltreringsvæske
 heparin
 Heparin 100 IE/ml «LEO» inj.
 Heparin Leo «Orifarm» inj.
-Heparin «LEO» inj.
 Heparinoverdosering
+Heparin «LEO» inj.
+Hepatect «Biotest Pharma» inf.
+Hepatikolentikulær degenerasjon
+Hepatisk encefalopati
 Hepatitt A
+hepatitt a-virus, inaktivert
+hepatitt a-virusvaksine
+Hepatitt B
+hepatitt b-virusvaksine
+hepatitt b antigen
+Hepatitt C
+Hepsera «Abacus Medicine» tabl.
+Hepsera «Gilead» tabl.
 Herceptin «Roche» inj., pulv. til kons. til inf.
+Hereditært angionevrotisk syndrom
+Hereditært angioødem
 Hereditær tyrosinemi
 Herpes
 Hexvix «Photocure» pulv. og væske til intravesikal oppl.
@@ -2594,11 +1647,15 @@ Hexyon «Sanofi Pasteur» inj.
 Hiatus insuffisiens
 hib-vaksine
 Hibiscrub «Regent Medical» oppl.
+Hibitane «Bioglan» vaginalkrem
 Hidrosadenitt
+Hiprex «Meda» pulv. i dosepose, tabl.
 Hirsutisme
+Hirudoid «Stada Arzneimittel» salve
 histamindihydroklorid
 histidin
 hiv
+Hizentra «CSL Behring» inj.
 Hjernehinnebetennelse
 Hjerneinfarkt
 Hjerneslag
@@ -2614,6 +1671,7 @@ Hjertesvikt
 Hjertetransplantasjon
 Hodelus
 Hodepine
+Holoxan «Baxter» pulv. til inf./inj.
 Homocysteinuri
 Hornhinnebetennelse
 Hoste
@@ -2625,11 +1683,13 @@ Hudkreft
 Hudsykdom
 Hull i tennene
 Humalog, Humalog Mix25 «Lilly» inj.
-human plasminogenaktivator
 humane koagulasjonsfaktorer
 humane plasmaproteiner
+human plasminogenaktivator
+humant fibrinogen
 Humant immunsviktvirus
 Humatrope «Lilly» pulv. og væske til inj.
+Humira «AbbVie» inj.
 Humulin NPH «Lilly» inj.
 Hundegalskap
 Hunters syndrom
@@ -2640,11 +1700,13 @@ hyaluronidase
 Hycamtin «Novartis» kaps., pulv. til kons. til inf.
 hydralazin
 Hydrea «Orifarm» kaps.
+Hydrochlorothiazide Orifarm «Orifarm Generics» tabl.
 Hydrochlorothiazide Orion «Orion» tabl.
 hydrogenperoksid
 hydroklortiazid
 hydrokortison
 hydrokortisonbutyrat
+Hydrokortison CCS «Trimb» krem, salve
 hydroksokobalamin
 hydroksyetylstivelse
 hydroksykarbamid
@@ -2653,11 +1715,14 @@ hydroksyzin
 Hydromed «MediLink» tabl.
 hydromorfon
 Hydroxyurea medac «Medac» kaps.
+Hydroxyzine Bluefish «Bluefish» tabl.
+Hydroxyzine Orifarm «Orifarm Generics» tabl.
 hyoscyamin
 Hyperfenylalaninemi
 Hyperfosfatemi
 Hyperglykemisk koma
 Hyperhidrose
+Hypericum STADA «Stada Arzneimittel» kaps.
 Hyperkalemi
 Hyperkalsemi
 Hyperkatabolisme
@@ -2670,6 +1735,7 @@ Hypersensibilisering
 Hypertensjon
 Hypertyreose
 Hyperurikemi
+Hypoalbuminemi
 Hypofibrinogenemi
 Hypofosfatemi
 Hypofysesvulst
@@ -2679,11 +1745,12 @@ Hypogonadisme
 Hypokalemi
 Hypokalsemi
 Hypoksi
+Hypoloc Comp «Menarini» tabl.
 Hypoloc «Menarini» tabl.
 Hypomagnesemi
 Hyponatremi
-Hypoparatyreoid tetani
 Hypoparatyreoidisme
+Hypoparatyreoid tetani
 Hyposalivasjon
 Hypotensjon
 Hypotrombinemi
@@ -2691,68 +1758,30 @@ Hypotyreose
 Hypovolemi
 hypromellose
 Hyprosan «Santen» øyedråper
+HyQvia «Baxalta» inf.
 Hytacand «Orifarm» tabl.
 Hyzaar «Orifarm» tabl.
 Håravfall
+Hårfollikkel betennelse
 Hårtap
 Høysnue
+Høyt blodtrykk
 Høyt kolesterol
 Høyt stoffskifte
-Idiopatisk pulmonal hemosiderose
-Imukin «Horizon» inj.
-Inflectra «Hospira» pulv. til kons. til inf.
-insulin (human)
-Irbesartan/Hydrochlorothiazide Sandoz «Sandoz» tabl.
-jern(iii)hydroksid-sukrosekompleks
-jern(iii)hydroksiddekstrankompleks
-Ketoconazole «HRA Pharma» tabl.
-Kivexa «ViiV Healthcare» tabl.
-koagulasjonsfaktorer, humane
-kolera, inaktivert, helcelle
-Kreft i hode og hals
-Lidokain «Mylan Hospital» inj.
-Loratadin HEXAL «HEXAL» tabl.
-Losartan/Hydrochlorothiazide Krka «KRKA» tabl.
-Lysodren «HRA Pharma» tabl.
-Metycor «HRA Pharma» kaps.
-Mirtazapin HEXAL «HEXAL» tabl.
-Naloxon «Hameln» inj.
-Nivestim «Hospira» inf./inj.
-Norlevo «HRA Pharma» tabl.
-Okulær hypertensjon
-Ondansetron «Hameln» inj.
-organo-heparinoid
-Paroxetin HEXAL «HEXAL» tabl.
-plasmaproteiner, humane
-poliomyelitt, trivalent, inaktivert helvirus
-Pulmonal hypertensjon
-rabies, inaktivert helvirus
-Ramipril HEXAL «HEXAL» tabl.
-Retacrit «Hospira» inj.
-Røde hunder
-Sertralin HEXAL «HEXAL» tabl.
-Simvastatin HEXAL «HEXAL» tabl.
-Sår hals
-Terbinafin HEXAL «HEXAL» krem
-Terbinafin HEXAL «HEXAL» tabl.
-Tivicay «ViiV Healthcare» tabl.
-Tramadol HEXAL «HEXAL» kaps.
-Triumeq «ViiV Healthcare» tabl.
-Trizivir «ViiV Healthcare» tabl.
-Tørr hud
-Valsartan/Hydrochlorothiazide Sandoz «Sandoz» tabl.
-Yana «Heaton» tabl.
-Ziagen «ViiV Healthcare» tabl.
-Økt hårvekst
 ibandronsyre
 Ibandronsyre Medical Valley «Medical Valley» tabl.
+Ibaril «sanofi-aventis» krem
 IBRANCE «Pfizer» kaps.
 ibritumomabtiuksetan
 ibrutinib
 Ibumax «Vitabalans» tabl.
+Ibumetin gel «Takeda» gel
 Ibumetin «Takeda» tabl.
 ibuprofen
+Ibuprofen B. Braun «Braun» inf.
 ibutilid
+Ibux med mentol «Weifa» gel
+Ibux «Weifa» gel
 Ibux «Weifa» kaps., tabl.
 icatibant
 Iclusig «Incyte» tabl.
@@ -2760,6 +1789,8 @@ idarubicin
 idarusizumab
 idebenon
 idelalisib
+Idelvion «CSL Behring» pulv. og væske til inj.
+Idiopatisk pulmonal hemosiderose
 Idiopatisk trombocytopenisk purpura
 idursulfase
 ifosfamid
@@ -2770,58 +1801,110 @@ iksekizumab
 iktammol
 Iktyose
 Ilaris «Novartis» inj.
+Ilomedin «Bayer AB» kons. til inf.
 iloprost
+Imacillin «Teva» gran. til mikst., tabl.
 imatinib
+Imatinib Accord «Accord Healthcare» tabl.
+Imatinib Actavis Group «Actavis» tabl.
 Imatinib «Mylan» tabl.
 Imbruvica «Janssen» kaps.
+Imdur «Orifarm» depottabl.
+Imdur «TopRidge Pharma» depottabl.
 imiglucerase
 Imigran, Imigran Radis «Orifarm» tabl.
+Imigran «Farmagon» nesespray, tabl.
+Imigran «GlaxoSmithKline» inj., nesespray, tabl.
 imipenem
+Imipenem/Cilastatin «Actavis» pulv. til inf.
 imiquimod
+Imlygic «Amgen» inj.
 immunglobulin
+immunglobulin mot hepatitt b
 immunglobulin mot respiratorisk syncytialvirus
 immunglobulin mot rh-immunisering
+Immunine «Baxalta» pulv. og væske til inf./inj.
+Imnovid «Celgene» kaps.
+Imodium Comp «McNeil» tabl.
 Imodium «McNeil» mikst., tabl.
 Imogas «McNeil» kaps.
 Imovane Orifarm «Orifarm» tabl.
+Imovane «sanofi-aventis» tabl.
 Imovax Polio «Sanofi Pasteur» inj.
 Impetigo
 Impotens
+Imukin «Horizon» inj.
+Imurel «Aspen Pharma Trading Ltd.» tabl.
 Increlex «Ipsen» inj.
+Incruse «GlaxoSmithKline» inhal.pulv.
 indakaterol
 indinavir
 Indivina «Orion» tabl.
+InductOs «Medtronic BioPharma» pulv., væske og matrisk til implantasjon
 Inegy «MSD» tabl.
 Infantile spasmer
 Infertilitet
+Inflectra «Hospira» pulv. til kons. til inf.
 infliksimab
 Influensa
 influensa, levende svekket
+influensa, renset antigen
+Influvac «BGP Products» inj.
 ingenolmebutat
 Inkontinens
 Inlyta «Pfizer» tabl.
 inotuzumabozogamicin
 Inotyol «Mylan Medical SAS» salve
+Inovelon «Eisai Ltd.» mikst., tabl.
 Insektstikk
 Inspra «Orifarm» tabl.
 Inspra «Pfizer» tabl.
 Instanyl «2care4» nesespray
 Instanyl «Orifarm» nesespray
 Instanyl «Takeda» nesespray
+Insulatard FlexPen, Insulatard Penfill «Novo Nordisk» inj.
+insulin (human)
+insulin aspart
+insulin degludec
+insulin detemir
+insulin glargin
+insulin glulisin
 insulin lispro
+Insuman Basal «sanofi-aventis» inj.
+Integrilin «GlaxoSmithKline» inf., inj.
 Intelence «Janssen» tabl.
+interferon alfa-2b
+interferon beta-1a
+interferon beta-1b
+interferon gamma
 Intertrigo
+Intraabdominal blødning
 Intraabdominal infeksjon
+Intralipid «Fresenius Kabi» inf.
 IntronA «MSD» inj.
+Intuniv «Shire» depottabl.
+Inuxair «2care4» inhal.aerosol
+Inuxair «Chiesi Farmaceutici» inhal.aerosol
+Inuxair «Chiesi Farmaceutici» inhal.pulv.
 Invanz «MSD» pulv. til kons. til inf.
+Invicorp «Evolan Pharma» inj.
+Iomeron «Bracco Imaging S.p.A» inj.
 Iopidine «Novartis» øyedråper
 ipilimumab
 ipratropiumbromid
 Ipraxa «Teva» inhal.væske
+Ipstyl Autogel «2care4» inj.
+Ipstyl Autogel «Ipsen» inj.
 Ipstyl «Orifarm» inj.
 irbesartan
+Irbesartan/Hydrochlorothiazide Sandoz «Sandoz» tabl.
+Irbesartan/Hydroklortiazid «Actavis» tabl.
 Irbesartan Sandoz «Sandoz» tabl.
+Irbesartan «Actavis» tabl.
+Iressa «AstraZeneca» tabl.
 Iridosyklitt
+Irinokabi «Fresenius Kabi» kons. til inf.
+Irinotecan Accord «Accord Healthcare» kons. til inf.
 irinotekan
 Iritt
 Irritabel mage-tarm syndrom
@@ -2829,243 +1912,59 @@ Irritabel tarmsyndrom
 isavukonazol
 Isentress «MSD» tabl., tyggetabl.
 Iskemisk slag
+Ismo retard «2care4» depottabl.
+Ismo retard «Orifarm» depottabl.
+Ismo Retard «Riemser» depottabl.
 Ismo «Riemser» tabl.
 isofluran
+Isofluran «Baxter» væske til inhal.damp
 isoleucin
+Isomex «RPH Pharmaceuticals» depottabl.
 isoniazid
 isopropylalkohol
+Isoptin, Isoptin Retard «BGP Products» depottabl., tabl.
 Isopto-Maxidex «Novartis» øyedråper
 isosorbidmononitrat
 Isosorbidmononitrat «Mylan» tabl.
 isotretinoin
+Isotretinoin Orifarm «Orifarm Generics» kaps.
 ispaghula
 isradipin
 ITP
 itrakonazol
 ivabradin
+Ivabradine Accord «Accord Healthcare» tabl.
 ivakaftor
 ivermektin
 IXIARO «Valneva» inj.
 Izba «Novartis» øyedråper
-jern(iii)isomaltosid
-jern(iii)karboksymaltose
-jern(iii)klorid
-Jetrea «ThromboGenics» kons. til inj.
-Kadcyla «Roche» pulv. til kons. til inf.
-Kalsiumfolinat «Pfizer» inj.
-Kenacort «Orifarm» inj.
-Kenacort-T «2care4» inj.
-Keppra «UCB» kons. til inf., mikst., tabl.
-Ketalar «Pfizer» inj.
-Ketanest «Pfizer» inf./inj.
-Ketorax «Pfizer» inj., tabl.
-Kevesy «Stragen» inf.
-Keytruda «MSD» kons. til inf., pulv. til kons. til inf.
-Kiovig «Orifarm» inf.
-Klorheksidin «Sage» impregnert pute
-koagulasjonsfaktor ii
-koagulasjonsfaktor ix
-Konakion Novum «Roche» inj.
-Kramper i mage-tarmkanal
-Kreft i livmorslimhinnen
-Lantus SoloStar «Orifarm» inj.
-Lartruvo «Lilly» kons. til inf.
-Lederspan «Meda» inj.
-Leptanal «Janssen» inj.
-Leuprorelin Sandoz «Sandoz» implantat
-Levemir «Novo Nordisk» inj.
-Litak «Lipomed» inj.
-Lonquex «Teva» inj.
-Lucentis «Novartis» inj.
-M-M-RVAXPRO «MSD Vaccins» pulv. og væske til inj.
-MabThera «Roche» inj., kons. til inf.
-Macrodex 60 mg/ml med natriumklorid «Meda» inf.
-Marcaine «Orifarm» inj.
-Mepact «Takeda» pulv. til kons. til inf.
-Meropur «2care4» pulv. og væske til inj.
-Metalyse «Orifarm» pulv. og væske til inj.
-Metex «Medac» inj.
-Methotrexate Orion «Orion» inj.
-Methotrexate «Pfizer» inf./inj.
-Methotrexate «Teva» kons. til inf.
-Midazolam Panpharma «Panpharma» inj.
-Mircera «Roche» inj.
-Mitomycin medac «Medac» pulv. og væske til intravesikaloppl., pulv. til intravesikaloppl./inj./inf.
-Monofer «Pharmacosmos» inf./inj.
-Morfin «Takeda» inj., tabl.
-Morphine Orion «Orion» inj.
-Mucomyst «Meda» inhal.væske
-Mukopolysakkaridose I
-Mukopolysakkaridose II
-Mydane «Thea Laboratoires» inj.
-Natpar «Shire» pulv. og væske til inj.
-Navirel «Medac» kons. til inf.
-Navoban «Primius Lab» inj./kons. til inf., kaps.
-Nebido «Orifarm» inj.
-Neonatal-onset multisystem inflammatorisk sykdom
-NeoRecormon «Roche» inj.
-Nexplanon «MSD» implantat
-Nexplanon «Orifarm» implantat
-Nimenrix «Pfizer» pulv. og væske til inj.
-Norditropin NordiFlex, Norditropin SimpleXx «Novo Nordisk» inj.
-Novantrone «Meda» kons. til inf.
-NovoEight «Novo Nordisk» pulv. og væske til inj.
-NovoSeven «Novo Nordisk» pulv. og væske til inj.
-NovoThirteen «Novo Nordisk» pulv. og væske til inj.
-NutropinAq «Ipsen» inj.
-Nuwiq «Octapharma» pulv. og væske til inj.
-Ocaliva «Intercept» tabl.
-Ocrevus «Roche» kons. til inf.
-Octagam «Octapharma» inf.
-Octanate «Octapharma» pulv. og væske til inj.
-Octanine «Octapharma» pulv. og væske til inj.
-Octaplasma «Octapharma» inf.
-Octaplex «Octapharma» pulv. og væske til inf.
-Oksaliplatin SUN «SUN Pharma» kons. til inf.
-Oktreotid SUN «SUN Pharma» inj.
-Omnitrope «Sandoz» inj.
-Orgalutran «MSD» inj.
-Ovaleap «Teva» inj.
-Ovitrelle «2care4» inj.
-Ovitrelle «Merck» inj.
-OxyNorm «Mundipharma» inf./inj.
-Palladon «Mundipharma» inf./inj.
-Pamidronatdinatrium Pfizer «Pfizer» kons. til inf.
-Pantoprazol SUN «SUN Pharma» pulv. til inj.
-Panzyga «Octapharma» inf.
-Pegasys «Roche» inj.
-PegIntron «MSD» pulv. og væske til inj.
-Pemetrexed «Sandoz» pulv. til kons. til inf.
-Pergoveris «Merck» inj., pulv. og væske til inj.
-Perjeta «Roche» kons. til inf.
-Perkutan koronar intervensjon
-Petidin «Takeda» inj., supp.
-Pilexam «Pilum Pharma» inj.
-Piperacillin/Tazobactam «Stragen» pulv. til inf.
-Plasmodex «Meda» inf.
-Pneumovax «MSD» inj.
-Prevenar 13 «Pfizer» inj.
-Primær immun trombocytopeni
-Primær immunsvikt
-Promiten «Meda» inj.
-Promixin «2care4» pulv. til inhal.væske
-Promixin «Orifarm» pulv. til inhal.væske
-Promixin «Zambon» pulv. til inf.
-Promixin «Zambon» pulv. til inhal.væske
-Prostivas «Pfizer» kons. til inf.
-Protaminsulfat «LEO» inf./inj.
-Pulmozyme «Roche» inhal.væske
-Puregon «MSD» inj.
-Rabies-Imovax «Sanofi Pasteur» pulv. og væske til inj.
-Rapifen «Janssen» inj.
-Rebif «Merck» inj.
-Relistor «PharmaSwiss» inj.
-ReoPro «2care4» inf./inj.
-Repevax «Sanofi Pasteur» inj.
-Replagal «Orifarm» kons. til inf.
-Replagal «Shire» kons. til inf.
-RescueFlow «Pharmanovia» inf.
-Respiratorisk syncytialtvirus-infeksjon
-Revestive «Shire Pharmaceuticals Ireland Ltd.» pulv. og væske til inj.
-Rheomacrodex 100 mg/ml med natriumklorid «Meda» inf.
-Rhesonativ «Octapharma» inj.
-Rixathon «Sandoz» kons. til inf.
-RoActemra «Roche» inj., kons. til inf.
-Robinul «Meda» inj.
-Robinul-Neostigmin «Meda» inj.
-RSV-infeksjon
-Saizen «Merck» inj.
-Sandimmun, Sandimmun Neoral «Novartis» kaps., kons. til inf., mikst.
-Sandostatin, Sandostatin LAR «Novartis» inf./inj., pulv. og væske til inj.
-Scandonest Plain «Septodont» inj.
-Selexid «LEO» pulv. til inj., tabl.
-Signifor «Novartis» inj., pulv. og væske til inj.
-Silgard «Orifarm» inj.
-Simdax «Orion» kons. til inf.
-Simulect «Novartis» pulv. og væske til inf./inj.
-Sivextro «MSD» pulv. til kons. til inf., tabl.
-Smerter i muskler
-Solu-Medrol «Pfizer» pulv. og væske til inj.
-Somavert «Pfizer» pulv. og væske til inj.
-Spasmer i mage-tarmkanal
-Spiriva «Orifarm» inhal.pulv.
-Stamaril «Sanofi Pasteur» pulv. og væske til inj.
-Stelara «Janssen» inj., kons. til inf.
-Suboxone «Indivior» sublingvaltabl.
-Subutex «Indivior» sublingvaltabl.
-Sufenta «Janssen» inj.
-sukrojern(iii)oksyhydroksid
-Sumatriptan SUN «SUN Pharma» inj.
-Sylvant «Janssen» pulv. til kons. til inf.
-Taltz «Lilly» inj.
-Tambocor «Meda» inj., tabl.
-Tecentriq «Roche» kons. til inf.
-Temgesic «Indivior» inj., resoribl.
-Temodal «MSD» kaps., pulv. til inf.
-Tetavax «Sanofi Pasteur» inj.
-Tetravac «Sanofi Pasteur» inj.
-Tevagrastim «Teva» inf./inj.
-TicoVac, TicoVac Junior «Pfizer» inj.
-Tienam «MSD» pulv. til inf.
-Tobi Podhaler «Novartis» inhal.pulv.
-Tobi «Novartis» inhal.væske
-Toradol «2care4» inj.
-Torisel «Pfizer» kons. og væske til inf.
-Trandate «Orifarm» inj.
-Tremfya «Janssen» inj.
-Tresiba «Novo Nordisk» inj.
-Triesence «Novartis» inj.
-Trisenox «Teva» kons. til inf.
-Trulicity «Lilly» inj.
-Trulicity «Orifarm» inj.
-Trumenba «Pfizer» inj.
-Tygacil «Pfizer» pulv. til inf.
-Typhim Vi «Sanofi Pasteur» inj.
-Vancomycin «MIP Pharma» pulv. til inf.
-Vancomycin «Xellia» pulv. til inf.
-Vaqta «MSD» inj.
-Varivax «MSD» pulv. og væske til inj.
-Vaxigrip «Sanofi Pasteur» inj.
-Velbe «PharmaCoDane» pulv. til inj.
-Velcade «Janssen» pulv. til inj.
-Venofer «2care4» inj./kons. til inf.
-VFEND «Pfizer» pulv. til inf., pulv. til mikst., tabl.
-Victoza «Novo Nordisk» inj.
-Vimpat «UCB» inf., sirup, tabl.
-Vincristine «Pfizer» inj.
-Visudyne «Novartis» pulv. til inf.
-VPRIV «Shire» pulv. til inf.
-Wilate «Octapharma» pulv. og væske til inj.
-Xeomin «Merz» pulv. til inj.
-Xeomin «Orifarm» pulv. til inj.
-Xermelo «Ipsen» tabl.
-Xolair «Novartis» inj.
-Xultophy «Novo Nordisk» inj.
-Yondelis «Pharma Mar» pulv. til kons. til inf.
-Zarzio «Sandoz» inf./inj.
-Zavedos «Pfizer» pulv. til inj.
-Zavicefta «Pfizer» pulv. til kons. til inf.
-Zerbaxa «MSD» pulv. til kons. til inf.
-Zinforo «Pfizer» pulv. til kons. til inf.
-Zinplava «MSD» kons. til inf.
-Zofran «Novartis» inj., mikst., smeltetabl., supp., tabl.
-Zoladex 10,8 mg «Orifarm» implantat
-Zoladex 3,6 mg «Orifarm» implantat
-Zometa «Novartis» inf.
-Zonnic «Niconovum» munnpulver i porsjonspose, munnspray, sugetabl.
-Zostavax «MSD Vaccins» pulv. og væske til inj.
-Zyprexa, Zyprexa Velotab «Lilly» pulv. til inj., smeltetabl., tabl.
 Jakavi «Novartis» tabl.
 Janumet «MSD» tabl.
 Janumet «Orifarm» tabl.
+Januvia «Farmagon» tabl.
 Januvia «MSD» tabl.
 Januvia «Orifarm» tabl.
+japansk encefalitt, inaktivert helvirus
+Japansk encefalittvirusinfeksjon
+Jardiance «Boehringer Ingelheim» tabl.
+Javlor «Pierre Fabre Pharma Norden» kons. til inf.
+Jaydess «Bayer AB» intrauterint innlegg
 Jentadueto «2care4» tabl.
+Jentadueto «Boehringer Ingelheim» tabl.
+jern(ii)glukonat
+jern(iii)hydroksid-sukrosekompleks
+jern(iii)hydroksiddekstrankompleks
+jern(iii)isomaltosid
+jern(iii)karboksymaltose
+jern(iii)klorid
 Jernforgiftning
 jernmaltol
 Jernmangel
 Jernmangelanemi
 Jernoverskudd
+Jetrea «ThromboGenics» kons. til inj.
+Jevtana «sanofi-aventis» kons. og væske til inf.
+Jext «ALK» inj.
 Jinarc «Otsuka Pharmaceutical» tabl.
 jobitridol
 jodiksanol
@@ -3074,25 +1973,23 @@ joheksol
 jomeprol
 jopromid
 joversol
-Kan Jang «Midsona» mikst.
-Movicol Junior «Norgine» pulv. til mikst.
-Olysio «Janssen» kaps.
-Pevisone «Janssen» krem
-Prezista «Janssen» tabl.
-Rezolsta «Janssen» tabl.
-Risperdal «Janssen» mikst., tabl.
-Sirturo «Janssen» tabl.
-Sporanox «Janssen» kaps.
-Symtuza «Janssen» tabl.
-Topimax «Janssen» kaps., tabl.
-Zytiga «Janssen» tabl.
+Junyelt «Aguettant» kons. til inf.
+Juvenil artritt
 kabazitaksel
 kabergolin
+Kabiven, Kabiven Perifer «Fresenius Kabi» inf.
 kabozantinib
+Kadcyla «Roche» pulv. til kons. til inf.
 Kajos «Meda» mikst.
+Kalcipos-Vitamin D «Meda» tabl.
+Kaleorid «LEO» depottabl.
+Kaletra «AbbVie» mikst., tabl.
+Kalium-Natrium-Glucose «Braun» inf.
 kaliumdihydrogenfosfat
 kaliumjodid
 kaliumklorid
+Kaliumklorid B. Braun «Braun» inf.kons.
+Kaliumklorid Orifarm «Orifarm Generics» depottabl.
 Kaliummangel
 Kaliumoverskudd
 kaliumsitrat
@@ -3100,14 +1997,19 @@ kalsipotriol
 kalsitriol
 kalsium
 kalsiumfolinat
+Kalsiumfolinat «Pfizer» inj.
 kalsiumkarbonat
 kalsiumklorid
 kalsiumlaktoglukonat
 Kalsiummangel
 Kalsiumoverskudd
 kalsiumpantotenat
+Kalydeco «Vertex Pharmaceuticals» dosegran., tabl.
 kandesartan
+Kandesartan «Farmagon» tabl.
 kangrelor
+Kan Jang «Midsona» mikst.
+Kanuma «Alexion» kons. til inf.
 kapecitabin
 kaptopril
 karbamazepin
@@ -3118,6 +2020,7 @@ karbidopa
 karbimazol
 karbohydrater
 Karbohydratmangel
+Karbolytt «Fresenius Kabi» inf.
 karbomer
 Karbonmonoksidforgiftning
 karboplatin
@@ -3129,27 +2032,50 @@ karvedilol
 kaspofungin
 katridekakog
 Kawasakis sykdom
+Keflex «Eurocept International» gran. til mikst., tabl.
+Keflin «Eurocept International» pulv. til inf., pulv. og væske til inf./inj.
+Kenacort-T «2care4» inj.
+Kenacort-T «Bristol-Myers Squibb» inj.
+Kenacort «Orifarm» inj.
+Kengrexal «Chiesi Farmaceutici» pulv. til kons. til inf./inj.
+Kentera «Nicobrand» depotplaster
+Keppra «UCB» kons. til inf., mikst., tabl.
 Keratitt
 Keratose
+Kestine «Almirall» tabl.
+Ketalar «Pfizer» inj.
 ketamin
+Ketamin «Abcur» inj.
+Ketanest «Pfizer» inf./inj.
 Ketesse «Menarini» tabl.
 Ketoacidose
 ketobemidon
+Ketoconazole «HRA Pharma» tabl.
 Ketogan «Pfizer» supp.
 ketokonazol
 ketoprofen
+Ketorax «Pfizer» inj., tabl.
 ketorolak
 ketotifen
+Kevesy «Stragen» inf.
+Keytruda «MSD» kons. til inf., pulv. til kons. til inf.
 Kikhoste
+kikhoste, renset antigen, kombinert med toksoider
 kikhostevaksine
+Kineret «Swedish Orphan Biovitrum» inj.
+Kiovig «Baxalta» inf.
+Kiovig «Orifarm» inf.
 Kisqali «Novartis» tabl.
+Kivexa «ViiV Healthcare» tabl.
 Kjemisk kastrasjon
 Kjempecelletumor
 Kjønnsvorter
+Klacid, Klacid OD «BGP Products» depottabl., gran. til mikst.
 kladribin
 Klamydia
 klaritromycin
 klavulansyre
+Klexane «sanofi-aventis» inj.
 Klimakterie
 klindamycin
 kliokinol
@@ -3165,19 +2091,29 @@ klonidin
 klopidogrel
 klorambucil
 kloramfenikol
+Kloramfenikol Aurora Medical «2care4» øyesalve
+Kloramfenikol Minims «Bausch & Lomb U.K. Ltd.» øyedråper
 Kloramfenikol Santen «Santen» øyedråper, øyesalve
 Kloramfenikol «Takeda» øyedråper, øyesalve
 klorheksidin
+Klorheksidin «Sage» impregnert pute
+Klorhexidin Fresenius Kabi «Fresenius Kabi» lin.
+Klorhexidinsprit Fresenius Kabi, Klorhexidinsprit farget Fresenius Kabi «Fresenius Kabi» lin.
 klorprotiksen
 klotrimazol
 Klotrimazol «Mylan» krem
 klozapin
+Klyx «Farmagon» rektalvæske
+Klyx «Ferring Legemidler AS» rektalvæske
 Kløe
+koagulasjonsfaktorer, humane
+koagulasjonsfaktor ii
+koagulasjonsfaktor ix
+Koagulasjonsfaktormangel
 koagulasjonsfaktor vii
 koagulasjonsfaktor viii
 koagulasjonsfaktor x
 koagulasjonsfaktor xiii
-Koagulasjonsfaktormangel
 Koagulasjonsforstyrrelse
 Koagulasjonshemming
 kobberacetat
@@ -3188,9 +2124,12 @@ kobimetinib
 kodein
 Kodein «Takeda» tabl.
 koffein
+Kogenate «Bayer AG» pulv. og væske til inj.
+Kohle-Compretten «Merck» tabl.
 Koldbrann
 kolekalsiferol
 Kolera
+kolera, inaktivert, helcelle
 kolestipol
 kolestyramin
 Kolikk
@@ -3198,123 +2137,87 @@ Kolinesterasehemmerforgiftning
 kolistimetatnatrium
 kolistin
 kolkisin
+kollagenase clostridium histolyticum
 Koloncancer
 Kolorektalcancer
 Kolorektalkreft
 Kolpitt
 kols
+Komboglyze «AstraZeneca» tabl.
+Konakion Novum «Roche» inj.
 Kondylomer
 Konjunktivitt
+korifollitropin alfa
+koriongonadotropin alfa
 Koronarsyndrom
-Kort tarm-syndrom
 Kortikal myoklonus
 kortison
+Kort tarm-syndrom
+Kovaltry «Bayer AG» pulv. og væske til inj.
 Kraftig menstruasjonsblødning
+Kramper i mage-tarmkanal
 Kreft
+Kreft i hode og hals
+Kreft i livmorslimhinnen
 kromklorid
+Kronisk bronkitt
+Kronisk granulomatøs sykdom
+Kronisk infantil nevrologisk, kutant, artikulært syndrom
 Kronisk lymfatisk leukemi
 Kronisk obstruktiv lungesykdom
 krotamiton
 kull
+Kull «Abigo» mikst.
 Kusma
 kusmavirusvaksine
+Kuvan «BioMarin International» oppl. tabl.
 Kvalme
 kvetiapin
 kvinagolid
 Kviser
-Lescol «Orifarm» kaps.
-Loperamid «Mylan» kaps.
-Losartan Krka «KRKA» tabl.
-Lyrica «Orifarm» kaps., mikst.
-Lyrica «Pfizer» kaps., mikst.
-Medikinet «2care4» kaps.
-Medikinet «Medice» kaps., tabl.
-medisinsk kull
-Microlax «McNeil» klyster
-Mikroskopisk kolitt
-Miktosan «Sandoz» kaps.
-Mildison Lipid «LEO» krem
-Moventig «Kyowa Kirin Ltd.» tabl.
-Myfenax «Teva» kaps., tabl.
-Neotigason «2care4» kaps.
-Neurontin «Pfizer» kaps., tabl.
-Ninlaro «Takeda» kaps.
-Nitisinone MDK «MDK Mendelikabs» kaps.
-Ofev «Orifarm» kaps.
-Olmesartan medoxomil Krka «KRKA» tabl.
-Olopeg «MIP Pharma» kons. til mikst.
-Omacor «Pronova» kaps.
-OxyNorm «Mundipharma» kaps., mikst.
-PecFent «Kyowa Kirin Ltd.» nesespray
-pneumokokk, renset polysakkaridantigen konjugert
-Precosa «2care4» kaps.
-Prograf «Orifarm» kaps.
-Rebetol «MSD» kaps., mikst.
-Rectogesic «Kyowa Kirin Ltd.» rektalsalve
-Reyataz «Orifarm» kaps.
-Rimactan «2care4» kaps.
-Rimactan «Sandoz» kaps.
-Ritalin «Novartis» kaps., tabl.
-Rivastigmin Orion «Orion» kaps.
-Rocaltrol «2care4» kaps.
-Rocaltrol «Roche» kaps.
-Rydapt «Novartis» kaps.
-Sinequan «Orifarm» kaps.
-Solar keratose
-Soolantra «Orifarm» krem
-Spersadex med kloramfenikol «Thea Laboratoires» øyedråper
-Strattera «Lilly» kaps., mikst.
-Sutent «Pfizer» kaps.
-Tacni «Teva» kaps.
-Tafinlar «Novartis» kaps.
-Tamiflu «Roche» kaps.
-Tamsulosin «Mylan» kaps.
-Tasigna «Novartis» kaps.
-Tears Naturale Uten konserveringsmiddel «Novartis» øyedråper
-Temozolomide SUN «SUN Pharma» kaps.
-Toctino «Stiefel» kaps.
-Triolif «Karo Pharma» sugetabl.
-Ulcerøs kolitt
-Ursofalk «Orifarm» kaps.
-Vancomycin «Xellia» kaps.
-Vectatone «Omega Pharma» krem
-Vectavir «Omega Pharma» krem
-Vepesid «2care4» kaps.
-vitamin k
-Vyndaqel «Pfizer» kaps.
-Xagrid «Shire» kaps.
-Xalkori «Pfizer» kaps.
-Xenical «Orifarm» kaps.
-Zeldox «Orifarm» kaps.
-Zeldox «Pfizer» kaps.
-Zemplar «2care4» kaps.
-Zoloft «2care4» kons. til mikst.
-Zonegran Orifarm «Orifarm» kaps.
-Zyclara «Meda» krem
-Zykadia «Novartis» kaps.
-Abacavir/Lamivudin «Mylan» tabl.
+Kyleena «Bayer AB» intrauterint innlegg
+Kyntheum «LEO» inj.
+Kyprolis «Amgen» pulv. til inf.
 labetalol
+Labetalol S.A.L.F. «S.A.L.F.» inf./inj.
 lakosamid
 laksekalsitonin
 Laktasjonshemming
 laktulose
 Laktulose MIP Pharma «MIP Pharma» mikst.
+Lambert-Eaton myastenisk syndrom
+Lamictal «GlaxoSmithKline» dispergerbare/tyggetabl.
+Lamisil «GlaxoSmithKline Consumer Healthcare» dermgel, hudspray, krem, lin.
 Lamisil «Novartis» tabl.
 lamivudin
 lamotrigin
+Lanoxin «Aspen Pharma Trading Ltd.» inj., mikst., tabl.
 lanreotid
 lansoprazol
+Lansoprazol Krka «KRKA» enterokaps.
+Lansoprazol Pensa «Pensa Pharma» enterokaps.
 lantanumkarbonat
+Lantus SoloStar «Orifarm» inj.
+Lantus «sanofi-aventis» inj.
 Lanzo Melt «Pfizer» smeltetabl.
 lapatinib
 Lariam «Roche» tabl.
 laronidase
+Lartruvo «Lilly» kons. til inf.
+Lasix Retard «sanofi-aventis» depotkaps.
 latanoprost
 Latiotim «Sandoz» øyedråper
+Latuda «Aziende» tabl.
+Lavt blodsukker
+Lavt blodtrykk
 Lavt stoffskifte
+Laxabon «BioPhausia» pulv. til mikst.
+Laxabon «Farmagon» pulv. til oppl.
+Laxoberal «sanofi-aventis» dråper
 Lecrolyn, Lecrolyn sine «Santen» øyedråper
 Leddbetennelse
 Leddgikt
+Lederspan «Meda» inj.
 ledipasvir
 leflunomid
 Leflunomide medac «Medac» tabl.
@@ -3322,82 +2225,135 @@ Legemiddelassistert rehabilitering
 Leggsår
 Leishmaniasis
 LEMS
+Lemtrada «Genzyme» kons. til inf.
 lenalidomid
+Lennox-Gastaut syndrom
 lenvatinib
+Lenvima «Eisai Ltd.» kaps.
+Lenzetto «Gedeon Richter» transdermalspray
+Leponex «Farmagon» tabl.
+Leponex «Mylan Healthcare Norge AS» tabl.
 Leponex «Orifarm» tabl.
 Lepra
+Leptanal «Janssen» inj.
 lerkanidipin
+Lerkanidipin «Actavis» tabl.
+Lescol Depot «Farmagon» depottabl.
+Lescol Depot «Novartis» depottabl.
+Lescol «Orifarm» kaps.
 lesinurad
 Lestid «Pfizer» pulv.
 letrozol
+Letrozol Accord «Accord Healthcare» tabl.
+Letrozol Orifarm «Orifarm Generics» tabl.
 leucin
 Leukemi
+Leukeran «Aspen Pharma Trading Ltd.» tabl.
 leuprorelin
+Leuprorelin Sandoz «Sandoz» implantat
+Levact «Astellas» pulv. til kons. til inf.
 Levaxin «Takeda» tabl.
+Levemir «Novo Nordisk» inj.
 Leveravstøtning
 Leverkoma
 Levertransplantasjon
 levetiracetam
+Levetiracetam Accord «Accord Healthcare» tabl.
+Levetiracetam Amneal «Amneal Pharma» mikst.
+Levitra «Bayer AG» tabl.
 Levkemi
 levocetirizin
 levodopa
 levofloksacin
 levokabastin
+Levolac «Fresenius Kabi» mikst.
 levomepromazin
 Levomepromazine Orion «Orion» tabl.
 levonorgestrel
+Levosert «Gedeon Richter» intrauterint innlegg
 levosimendan
 levotyroksinnatrium
 LH-stigning, prematur
 Lichen ruber planus
+Lidocaine Accord «Accord Healthcare» inj.
 lidokain
+Lidokain «Mylan Hospital» inj.
 linagliptin
 linaklotid
 linezolid
+Linezolid Accord «Accord Healthcare» tabl.
+Linezolid Fresenius Kabi «Fresenius Kabi» inf.
 Linezolid Orion «Orion» tabl.
 Linezolid «Sandoz» tabl.
+Lionova «Alternova» inj./inf.
 Lioresal «Novartis» tabl.
 Liothyronin «Takeda» tabl.
 liotyroninnatrium
 lipase
-lipefilgrastim
+lipegfilgrastim
+Lipidem «Braun» inf.
+Lipitor «Farmagon» tabl.
 Lipitor «Pfizer» tabl.
 liraglutid
 lisdeksamfetamin
 lisinopril
+Lisinopril/Hydroklortiazid «Actavis» tabl.
 Lisinopril «ratiopharm» tabl.
+Litak «Lipomed» inj.
+Lithionit «BioPhausia» depottabl.
+Lithium Chloride Lidco «Lidco Ltd.» inj.
 litium
 litiumklorid
 Livial «MSD» tabl.
 Livmorhalskreft
 Livmorhalsmodning
 Livmorkreft
+Livopan «AGA AB» gass
 Livostin «2care4» nesespray
 Livostin «McNeil» nesespray
 Livostin «McNeil» øyedråper
+Lixiana «Daiichi Sankyo» tabl.
 lixisenatid
 Loceryl «2care4» medisinsk neglelakk
+Loceryl «Galderma» medisinsk neglelakk
+Locoid, Locoid Crelo, Locoid Lipid «LEO» krem, lin., salve
 Lodoz «Merck» tabl.
 Loette 28 «Orifarm» tabl.
 Loette 28 «Pfizer» tabl.
+Lojuxta «Aegerion» kaps.
 Lokalanestesi
 Lokalanestetika
 Lokalbedøvelse
 Lokalbedøvende
 loksapin
+Lomir SRO «2care4» depotkaps.
 lomitapid
+Lomudal Nasal «sanofi-aventis» nesespray
+Lomudal «sanofi-aventis» øyedråper
+Lonquex «Teva» inj.
 Lonsurf «Les Laboratoires Servier» tabl.
 Lopacut «Vitabalans» tabl.
 loperamid
+Loperamid «Mylan» kaps.
 lopinavir
 loppefrø
 loratadin
+Loratadin HEXAL «HEXAL» tabl.
+Loratadin Orifarm «Orifarm Generics» tabl.
 losartan
+Losartan/Hydrochlorothiazide Bluefish «Bluefish» tabl.
+Losartan/Hydrochlorothiazide Krka «KRKA» tabl.
+Losartan Krka «KRKA» tabl.
+Losec MUPS «AstraZeneca» enterotabl.
+Losec MUPS «Farmagon» enterotabl.
 lovastatin
 Lovastatin «ratiopharm» tabl.
+Lucentis «Novartis» inj.
 Luftstrømsobstruksjon
 Luftveisinfeksjon
 lumakaftor
+Lumigan 0,1 mg/ml «Allergan» øyedråper
+Lumigan 0,3 mg/ml «Allergan» øyedråper
 Lunelax «Meda» pulv.
 Lungebetennelse
 Lungecancer
@@ -3408,46 +2364,32 @@ Lupus
 lurasidon
 Lus
 Lutinus «2care4» vaginaltabl.
+Lutinus «Farmagon» vaginaltabl.
+Lutinus «Ferring Legemidler AS» vaginaltabl.
 Lutinus «Orifarm» vaginaltabl.
+lutropin alfa
+Lymecyclin «Actavis» kaps.
 lymesyklin
 Lymfekreft
 Lymfom
 Lymfosarkom
+Lynparza «AstraZeneca» kaps.
+Lyrica «Farmagon» kaps.
+Lyrica «Orifarm» kaps., mikst.
+Lyrica «Pfizer» kaps., mikst.
 Lysdermatose
 lysinacetat
 lysinhydroklorid
+Lysodren «HRA Pharma» tabl.
 Lysutslett
-Maroteaux-Lamy syndrom
-medisinsk luft
-Mifepristone «Linepharma» tabl.
-Monopex «Thea Laboratoires» øyedråper
-Monoprost «Thea Laboratoires» øyedråper
-Noritren «Lundbeck» tabl.
-Oculac «Thea Laboratoires» øyedråper
-Olumiant «Lilly» tabl.
-Perindoprilarginin Servier «Les Laboratoires Servier» tabl.
-Procoralan «Les Laboratoires Servier» tabl.
-Protopic «LEO» salve
-Restless legs-syndrom
-rotavirus, levende svekket
-rotavirus, pentavalent, levende, reassortert
-Sarotex «Lundbeck» tabl.
-Selincro «Lundbeck» tabl.
-Serdolect «Lundbeck» tabl.
-Softacort «Thea Laboratoires» øyedråper
-Spersallerg «Thea Laboratoires» øyedråper
-Truxal «Lundbeck» tabl.
-varicella, levende svekket
-Venookklusiv leversykdom
-Viscotears «Thea Laboratoires» øyegel
-Voltaren Ophtha «Thea Laboratoires» øyedråper
-Xaluprine «Nova Laboratories» mikst.
-Zaditen «Thea Laboratoires» øyedråper
-Zevalin «Spectrum Pharmaceuticals» preparasjonssett til radioaktive legemidler
-Abacavir/Lamivudin «Mylan» tabl.
+Lyxumia «sanofi-aventis» inj.
+M-M-RVAXPRO «MSD Vaccins» pulv. og væske til inj.
+MabThera «Roche» inj., kons. til inf.
 macitentan
+Macrodex 60 mg/ml med natriumklorid «Meda» inf.
 Maculadegenerasjon
 Maculaødem
+Madopar, Madopar Depot, Madopar Solubile «Roche» depotkaps., kaps., oppl. tabl.
 Magekatarr
 Magekreft
 Magesår
@@ -3459,35 +2401,61 @@ magnesiumkloridheksahydrat
 Magnesiummangel
 magnesiumoksid
 magnesiumsulfat
+Magnesiumsulfat B. Braun «Braun» kons. til inf.
 Magnettomografi
+Magnevist 1,88 mg/ml «Bayer AB» inj.
 Makroglobulinemi
 makrogol
 Makuladegenerasjon
 Makulaødem
 Malabsorpsjon
 Malaria
+Malarone, Malarone Junior «GlaxoSmithKline» tabl.
 Maldigestion
+Malfin «Teva» depottabl.
 Malignt melanom
 manganglukonat
 manganklorid
+Manglende eggløsning
 Manglende menstruasjonsblødning
+Manisk-depressiv lidelse
 mannitol
+Mannitol Baxter Viaflo «Baxter» inf.
+Mannitol Fresenius Kabi «Fresenius Kabi» inf.
 maraviroc
+Marcain-Adrenalin «Aspen Pharma Trading Ltd.» inj.
+Marcaine «Orifarm» inj.
+Marcain spinal tung «Aspen Pharma Trading Ltd.» inj.
+Marcain spinal «Aspen Pharma Trading Ltd.» inj.
+Marcain «Aspen Pharma Trading Ltd.» inj.
 Marevan «Takeda» tabl.
 Marie-Strümpells syndrom
 Mark
+Maroteaux-Lamy syndrom
 Marvelon «MSD» tabl.
 Marzine «Meda» tabl.
 Mastitt
 Matforgiftning
 Mavenclad «Merck» tabl.
-Maxalt «2care4» tabl.
+Maviret «AbbVie» tabl.
 Maxalt, Maxalt Rapitab «MSD» smeltetabl., tabl.
+Maxalt «2care4» tabl.
 Maxitrol «Novartis» øyedråper
+Mb. bekhterev
 MCC
 mebendazol
 mecasermin
 mecillinam
+Medikinet «2care4» kaps.
+Medikinet «Medice» kaps., tabl.
+medisinsk kull
+medisinsk luft
+Medisinsk luft Praxair Scandinavia «Praxair» gass
+Medisinsk Luft «Air Liquide» gass
+Medisinsk lystgass Praxair Scandinavia «Praxair» gass
+Medisinsk lystgass «Air Liquide» gass
+Medisinsk oksygen Praxair Scandinavia «Praxair» gass
+Medisinsk Oksygen «Air Liquide» gass
 medroksyprogesteron
 Medrol «Orifarm» tabl.
 Medrol «Pfizer» tabl.
@@ -3503,80 +2471,156 @@ melkesyre
 Mellomgulvsbrokk
 Mellomørebetennelse
 meloksikam
+Meloxicam Bluefish «Bluefish» tabl.
 memantin
+Memantin Accord «Accord Healthcare» tabl.
 Menieres sykdom
 Menieres syndrom
 Meningitt
+meningokokk a, c, y, w-135, tetravalent renset konjugert polysakkaridantigen
+meningokokk b, multikomponent vaksine
+meningokokk c, renset konjugert polysakkaridantigen
 Meningokokksykdom
 Menopause
 menopausegonadotropin
+Menopur «Ferring Legemidler AS» pulv. og væske til inj.
 Menoragi
 Menstruasjonsforskyvning
 Menstruasjonsforstyrrelse
 Menstruasjonssmerter
+Menveo «GlaxoSmithKline» pulv. og oppl. til inj.
+Mepact «Takeda» pulv. til kons. til inf.
 mepivakain
 mepolizumab
 Mercilon «MSD» tabl.
 merkaptamin
 merkaptopurin
 meropenem
+Meropenem Fresenius Kabi «Fresenius Kabi» pulv. til inf./inj.
+Meropur «2care4» pulv. og væske til inj.
 mesalazin
+Mesasal «sanofi-aventis» supp.
 Meslinger
 meslingvirusvaksine
 mesna
 Mestinon «Meda» tabl.
 Mestinon «Orifarm» tabl.
+Metabolsk hypokloremisk alkalose
 metadon
+Metadon Abcur «Abcur» tabl.
+Metadon DnE «dne pharma» mikst.
 Metadon Martindale «Martindale Pharma» mikst.
 Metadon Pharmadone «Pharmadone» mikst.
+Metadon «Nordic Drugs» mikst.
+Metalyse «Boehringer Ingelheim» pulv. og væske til inj.
+Metalyse «Orifarm» pulv. og væske til inj.
+Metaoxedrin Minims «Bausch & Lomb U.K. Ltd.» øyedråper
 metenamin
+Metex «Medac» inj.
 metformin
+Metformin Orifarm «Orifarm Generics» tabl.
 Metformin Vitabalans «Vitabalans» tabl.
 Metformin «Mylan» tabl.
 Metformin «Weifa» tabl.
 Methemglobinemi
+Methofill «Accord Healthcare» inj.
+Methotrexat Accord «Accord Healthcare» inj.
+Methotrexat Accord «Accord Healthcare» kons. til inf.
+Methotrexate Cipla «Cipla» tabl.
+Methotrexate Orion «Orion» inj.
 Methotrexate «Pfizer» tabl.
+Methotrexate «Teva» kons. til inf.
 Methotrexate «Teva» tabl.
+Methylphenidate Sandoz «Sandoz» depottabl.
 Methylprednisolone Orion «Orion» tabl.
+Methylthioninium chloride Proveblue «Provepharm SAS» inj.
 metionin
+Metoclopramide Orifarm «Orifarm Generics» tabl.
 metoklopramid
+metoksypolyetylenglykol-epoetin beta
 metoprolol
+Metoprolol Sandoz depottabletter «Sandoz» depottabl.
 Metoprolol «Mylan» tabl.
+Metosyn «Bioglan» salve
 metotreksat
 Metotreksatoverdosering
 metronidazol
+Metronidazol Baxter Viaflo «Baxter» inf.
+Metronidazole Braun «Braun» inf.
+Metronidazol «Actavis» tabl.
+Metvix «Galderma» krem
+Metycor «HRA Pharma» kaps.
 metylaminolevulinat
 metylfenidat
+Metylfenidat Aurora Medical «2care4» tabl.
 metylnaltreksonbromid
 metylprednisolon
 metyltioniniumklorid
 metyrapon
+Mezavant «2care4» enterodepottabl.
+Mezavant «Shire» enterodepottabl.
+Miacalcic «Essential Pharma» inj.- og infusjonsvæske
 mianserin
 Mianserin «Mylan» tabl.
 MicardisPlus «2care4» tabl.
+MicardisPlus «Boehringer Ingelheim» tabl.
+Micardis «Boehringer Ingelheim» tabl.
+Micardis «Farmagon» tabl.
+Microcid «Bioglan» krem
+Microgynon «Bayer AB» tabl.
+Microgynon «Farmagon» tabl.
+Microlax «McNeil» klyster
 midazolam
+Midazolam Accord «Accord Healthcare» inf./inj.
+Midazolam B. Braun «Braun» inj.
+Midazolam Panpharma «Panpharma» inj.
 midostaurin
 mifamurtid
+Mifegyne «Exelgyn» tabl.
 mifepriston
+Mifepristone «Linepharma» tabl.
 migalastat
 Migard «Menarini» tabl.
 Migea «Sandoz» tabl.
 miglustat
+Miglustat Bluefish «Bluefish» kaps.
 Migrene
 mikafungin
 mikonazol
+Mikroskopisk kolitt
+Miktosan «Sandoz» kaps.
+Mildison Lipid «LEO» krem
+Mimpara «Amgen» tabl.
 Mindiab «Pfizer» tabl.
+Miniderm «ACO HUD» krem
+Minifom «ACO HUD» dråper, kaps.
+Minirin «Ferring Legemidler AS» nesedråper, nesespray
+Minirin «Ferring Legemidler AS» smeltetabl.
 minoksidil
 mirabegron
+Mircera «Roche» inj.
+Mirena «Bayer AB» intrauterint innlegg
+Mirena «Farmagon» intrauterint innlegg
 mirtazapin
+Mirtazapin Bluefish «Bluefish» smeltetabl.
+Mirtazapin HEXAL «HEXAL» tabl.
 Mirtazapin Orion «Orion» smeltetabl., tabl.
+Mirvaso «Galderma» gel
+Misodel «Ferring Legemidler AS» vaginalinnlegg
 misoprostol
 mitoksantron
 mitomycin
+Mitomycin medac «Medac» pulv. og væske til intravesikaloppl., pulv. til intravesikaloppl./inj./inf.
 mitotan
+Mitoxantron Ebewe «EBEWE» kons. til inf.
+Mivacron «Aspen Pharma Trading Ltd.» inj.
 mivakuriumklorid
+Mixobar Colon «Bracco» mikst./rektalvæske
 mmr-virusvaksine
 modafinil
+Modifenac «Actavis» kaps.
+Modigraf «Astellas» gran. til mikst.
+Modigraf «Orifarm» gran. til mikst.
 Modiodal «2care4» tabl.
 Modiodal «Orifarm» tabl.
 Modiodal «Teva» tabl.
@@ -3585,24 +2629,48 @@ moklobemid
 moksonidin
 mometason
 Mometasone Sandoz «Sandoz» nesespray
+Monofer «Pharmacosmos» inf./inj.
 monokaliumfosfat
+Monokaliumfosfat B. Braun «Braun» kons. til inf.
+Monoket OD «2care4» depotkaps.
+Monoket OD «Merus Labs» depotkaps.
+Monopex «Thea Laboratoires» øyedråper
+Monoprost «Thea Laboratoires» øyedråper
 montelukast
+Montelukast «Teva» gran., tyggetabl.
 Montelukast «Teva» tabl., tyggetabl.
 Morbilli
+Morbus bechterew
+Morbus Crohn
 Morbus Ménière
 morfin
+Morfin Abcur «Abcur» inj.
+Morfin Epidural «Takeda» inj.
+Morfin «Takeda» inj., tabl.
+Morphine Orion «Orion» inj.
+Moventig «Kyowa Kirin Ltd.» tabl.
+Movicol, med sjokoladesmak «Norgine» pulv. til mikst.
+Movicol Junior «Norgine» pulv. til mikst.
 Movicol «Norgine» mikst.
 Movicol «Norgine» pulv. til mikst.
-Movicol, med sjokoladesmak «Norgine» pulv. til mikst.
 Moviprep «Norgine» pulv. til mikst.
 Moxalole «Meda» pulv. til oppl.
+Moxonidin «Actavis» tabl.
+Mozobil «Genzyme» inj.
 MPI
 MR
 MS
 Muckle-Wells Syndrom
+Mucomyst «Meda» brusetabl.
+Mucomyst «Meda» inhal.væske
 Mukopolysakkaridose
+Mukopolysakkaridose I
+Mukopolysakkaridose II
 Mukopolysakkaridose VI
+Multaq «sanofi-aventis» tabl.
+Multibic 2 mmol/l kalium, Multibic 4 mmol/l kalium, Multibic kaliumfri «Fresenius Medical Care» hemodialyse-/hemofiltreringsvæske
 Multifokal motorisk nevropati
+MultiHance «Bracco Imaging S.p.A» inj.
 Multippel sklerose
 Multippelt myelom
 Munnhulebetennelse
@@ -3614,103 +2682,63 @@ Muskelkramper
 Muskelsmerter
 Muskelspasmer
 MWS
+Myasthenia gravis
+Mycamine «Astellas» pulv. til inf.
+Mycophenolatemofetil Accord «Accord Healthcare» tabl.
 Mycostatin «2care4» mikst.
 Mycostatin «Orifarm» mikst.
+Mydane «Thea Laboratoires» inj.
 Myelofibrose
 Myelomatose
+Myfenax «Teva» kaps., tabl.
 Myfortic «Novartis» tabl.
+Mykofenolat Accord «Accord Healthcare» kaps.
+Mykofenolatmofetil Accord «Accord Healthcare» pulv. til kons. til inf.
 mykofenolsyre
 Myokardinfarkt
-Naproxen «Mylan» tabl.
-Nasonex «MSD» nesespray
-Normorix mite «Takeda» tabl.
-Noskapin «Takeda» mikst., tabl.
-Novaluzid «Meda» tyggetabl.
-Nozinan «Meda» tabl.
-NuvaRing «MSD» vaginalring
-Nycoplus Magnesium «Takeda» tyggetabl.
-Nystimex «RPH Pharmaceuticals» mikst.
-Orfiril «2care4» mikst.
-Orodek «Menarini» tabl.
-Otitis media
-Parlodel «Meda» tabl.
-Pepcid «McNeil» tabl.
-perflubutanpolymer mikrosfærer
-Phosphoral «2care4» mikst.
-Piroxicam «Mylan» tabl.
-Plenvu «Norgine» pulv. til mikst.
-Proscar «MSD» tabl.
-Provaqomyl «Mylan» tabl.
-Radionuklid myokardial perfusjonsavbildning
-Rapamune «Pfizer» mikst., tabl.
-Relifex «Meda» oppl. tabl., tabl.
-Remeron, Remeron-S «MSD» smeltetabl., tabl.
-Renitec «MSD» tabl.
-Revatio «Pfizer» pulv. til mikst., tabl.
-Rhinocort «McNeil» nesespray
-Ropinirol «Mylan» tabl.
-Rosuvastatin Xiromed «Medical Valley» tabl.
-RotaTeq «MSD Vaccins» mikst.
-Rupafin «Uriach» mikst., tabl.
-Sativex «2care4» munnspray
-Selukos «Meda» sjampo
-Sevelamer Mylan «Mylan» tabl.
-Sinemet «MSD» tabl.
-Singulair 4 mg «Orifarm» tyggetabl.
-Singulair 5 mg og 10 mg «MSD» tabl., tyggetabl.
-Singulair 5 mg og 10 mg «Orifarm» tabl., tyggetabl.
-Smertefull menstruasjon
-Solvipect «Takeda» mikst.
-Sotalol «Mylan» tabl.
-Spedra «Menarini» tabl.
-Spinal muskelatrofi
-Stayveer «Marklas» tabl.
-Stocrin «MSD» tabl.
-TachoSil «Takeda» matriks til vevslim
-Taloxa «MSD» tabl.
-Tamoxifen «Mylan» tabl.
-Tolvon «MSD» tabl.
-Trileptal «2care4» mikst., tabl.
-Trileptal «Novartis» mikst., tabl.
-Trileptal «Orifarm» mikst., tabl.
-Trimetoprim «Orion» mikst., tabl.
-TrioBe «Meda» tabl.
-Tussin «Weifa» mikst.
-Tørr munn
-Vanquin «Meda» tabl.
-Vermox «McNeil» mikst., tabl.
-Vibranord «Pharmanovia» mikst.
-Waldenströms makroglobulinemi
-Weifapenin «Meda» pulv. til mikst., tabl.
-Xyrem «UCB» mikst.
-Zanidip «Meda» tabl.
-Zepatier «MSD» tabl.
-Zidoval «Meda» vaginalgel
-Zilas «Menarini» tabl.
-Zocor «MSD» tabl.
-Zofenil «Menarini» tabl.
-Zopiklon «Mylan» tabl.
-Zyx «Meda OTC» sugetabl.
+Myozyme «Genzyme» pulv. til kons. til inf.
+Mysimba «Orexigen» depottabl.
 nabumeton
 nafarelin
 nafazolin
+Naglazyme «BioMarin» kons. til inf.
 nalmefen
 naloksegol
 nalokson
+Naloxon B. Braun «Braun» inj.
+Naloxon «Hameln» inj.
 naltrekson
 Naltrexone POA Pharma «POA Pharma» tabl.
+Napren-E «Takeda» enterotabl.
 naproksen
+Naproxen-E «Mylan» enterotabl.
+Naproxen Orion «Aurobindo» tabl.
+Naproxen «Mylan» tabl.
+Naramig «Farmagon» tabl.
+Naramig «GlaxoSmithKline» tabl.
 naratriptan
 Narkolepsi
 Narkotikaabstinens
+Nasacort «sanofi-aventis» nesespray
+Nasonex «Farmagon» nesespray
+Nasonex «MSD» nesespray
 natalizumab
+Natpar «Shire» pulv. og væske til inj.
 natriumacetat
 natriumdihydrogenfosfat
 natriumfenylbutyrat
 natriumfluorid
 natriumfosfat
 natriumhydrogenkarbonat
+Natriumhydrogenkarbonat B. Braun «Braun» inf., kons. til inf.
 natriumklorid
+Natriumklorid-Glucos Baxter Viaflo «Baxter» inf.
+Natriumklorid B. Braun «Braun» inf., kons. til inf., oppl.væske til parenteral bruk
+Natriumklorid Baxter 9 mg/ml «Baxter» inf.
+Natriumklorid Baxter Viaflo «Baxter» inf.
+Natriumklorid Baxter «Baxter» inf.
+Natriumklorid Fresenius Kabi «Fresenius Kabi» inf., oppl.væske til parenteral bruk
+Natriumklorid «Abcur» tabl.
 natriumkromoglikat
 natriumlaktat
 natriumlaurylsulfat
@@ -3722,58 +2750,146 @@ natriumpantotenat
 natriumpikosulfat
 natriumselenitt
 natriumsitrat
+Nattlig enurese
+Navelbine «Pierre Fabre Pharma Norden» kaps., kons. til inf.
+Navirel «Medac» kons. til inf.
+Navoban «Primius Lab» inj./kons. til inf., kaps.
 Nazaren «Weifa» nesespray
+Nebcina «Eurocept International» inj.
+Nebido «Bayer AB» inj.
+Nebido «Orifarm» inj.
 nebivolol
+Nedsatt fordøyelse
 Nedsatt spyttsekresjon
+Nefropatisk cystinose
 Nefrose
 Nefrotisk syndrom
 Neglebyll
 Neglesopp
+NeisVac-C «Pfizer» inj.
 nelarabin
+Nemdatine «Actavis» tabl.
+Neo-Mercazole «Amdipharm» tabl.
+Neofordex «Laboratoires CTRS» tabl.
 neomycin
+Neonatal-onset multisystem inflammatorisk sykdom
+NeoRecormon «Roche» inj.
 neostigmin
+Neotigason «2care4» kaps.
+Neotigason «Actavis» kaps.
 nepafenak
 Nervesmerter
 Nesepolypper
 Nesetetthet
 netupitant
+Neulasta «Amgen» inj.
+Neupogen «Amgen» inj./kons. til inf.
+Neupro «UCB» depotplaster
+NeuroBloc «Eisai Ltd.» inj.
+Neurontin «Farmagon» kaps.
+Neurontin «Pfizer» kaps., tabl.
+Nevanac «Farmagon» øyedråper
 Nevanac «Novartis» øyedråper
 nevirapin
 Nevralgi
 Nevroblastom
 Nevrodermatose
+Nexavar «Bayer AG» tabl.
+Nexium «2care4» enterogran.
+Nexium «AstraZeneca» enterogran., enterotabl., pulv. til inf./inj.
+Nexium «Farmagon» enterotabl.
+Nexium «Orifarm» enterogran., enterotabl.
+Nexodal «Orpha-Devel» inj./inf.
+Nexplanon «MSD» implantat
+Nexplanon «Orifarm» implantat
+Nicorette «McNeil» depotplaster, inhalator, munnspray, sugetabl., tyggegummi
+Nicotinell «GlaxoSmithKline Consumer Healthcare» depotplaster, sugetabl., tyggegummi
 Niemann-Picks sykdom
 nifedipin
+Nifenova «Alternova» depottabl.
+Niferex «UCB» enterokaps.
 nikotin
 Nikotinabstinens
 nikotinamid
 nilotinib
+Nimbex «Aspen Pharma Trading Ltd.» inj.
+Nimenrix «Pfizer» pulv. og væske til inj.
 nimodipin
+Nimotop «Bayer AB» inf., tabl.
+Ninlaro «Takeda» kaps.
 nintedanib
+Niontix «AGA AB» gass
 nitisinon
+Nitisinone MDK «MDK Mendelikabs» kaps.
 nitrazepam
 nitrofurantoin
 nitrogenoksid
 Nitroglycerin Nycomed «Orifarm» sublingvaltabl.
 Nitroglycerin Takeda «Takeda» sublingvaltabl.
+Nitrolingual «Pohl Boskamp» munnspray
+Nivestim «Hospira» inf./inj.
 nivolumab
+Nix «ACO HUD» krem, sjampo
+Nobligan, Nobligan Retard «Grünenthal» depottabl., kaps.
+Nocdurna «Ferring Legemidler AS» smeltetabl.
 Nokturi
 Nolvadex «2care4» tabl.
+Nolvadex «AstraZeneca» tabl.
 Nolvadex «Orifarm» tabl.
 nomegestrol
 Nootropil «Orifarm» tabl.
 Nootropil «UCB» tabl.
 noradrenalin
+Noradrenalin «Abcur» kons. til inf.
+Norditropin NordiFlex, Norditropin SimpleXx «Novo Nordisk» inj.
 norelgestromin
 noretisteron
+Noritren «Lundbeck» tabl.
+Norlevo «HRA Pharma» tabl.
+Normorix mite «Takeda» tabl.
+Normosang «Orphan Europe» kons. til inf.
+Norprolac «Ferring Legemidler AS» tabl.
+Norspan «Mundipharma» depotplaster
 nortriptylin
 Norvasc «2care4» tabl.
 Norvasc «Orifarm» tabl.
 Norvasc «Pfizer» tabl.
+Norvir «AbbVie» tabl.
 noskapin
+Noskapin «Takeda» mikst., tabl.
+Novaluzid «Meda» tyggetabl.
+Novantrone «Meda» kons. til inf.
+Novastan «Mitsubishi Pharma Europe» kons. til inf.
+NovoEight «Novo Nordisk» pulv. og væske til inj.
 Novofem «Novo Nordisk» tabl.
+NovoMix 30 FlexPen, NovoMix 30 Penfill «Novo Nordisk» inj.
 NovoNorm «Novo Nordisk» tabl.
+NovoRapid, NovoRapid PumpCart, NovoRapid FlexPen, NovoRapid Penfill «Novo Nordisk» inj.
+NovoSeven «Novo Nordisk» pulv. og væske til inj.
+NovoThirteen «Novo Nordisk» pulv. og væske til inj.
+Noxafil «MSD» enterotabl., kons. til inf., mikst.
+Nozinan «Meda» tabl.
+Nplate «Amgen» pulv. til inj.
+Nucala «GlaxoSmithKline» pulv. til inj.
+Nuelin Depot «Meda» depottabl.
+Nulojix «Bristol-Myers Squibb» pulv. til kons. til inj.
+Numeta «Baxter» inf.
+Nurofen «Reckitt Benckiser» mikst., tyggekaps.
 nusinersen
+Nutrineal PD4 med aminosyrer 1,1% «Baxter» peritonealdialysevæske
+NutropinAq «Ipsen» inj.
+Nutryelt «Aguettant» kons. til inf.
+NuvaRing «MSD» vaginalring
+Nuwiq «Octapharma» pulv. og væske til inj.
+Nycoplus B-tonin «Takeda» mikst.
+Nycoplus B-total «Takeda» tabl.
+Nycoplus C-vitamin «Takeda» brusetabl., tabl.
+Nycoplus Calcigran Forte, Nycoplus Calcigran «Takeda» tyggetabl.
+Nycoplus E-vitamin «Takeda» kaps.
+Nycoplus Ferro-Retard «Takeda» depottabl.
+Nycoplus Magnesium «Takeda» tyggetabl.
+Nycoplus Neo-Fer «Takeda» mikst.
+Nycoplus vitamin D3 «Internis» kaps.
 Nyreavstøtning
 Nyrebekkenbetennelse
 Nyrecancer
@@ -3784,38 +2900,38 @@ Nyresten
 Nyresvikt
 Nyretransplantasjon
 nystatin
+Nystimex «RPH Pharmaceuticals» mikst.
+Nyxoid «Mundipharma» nesespray
 Nødprevensjon
 Nøytropeni
-Opatanol «Novartis» øyedråper
-Postherpetisk nevralgi
-Rennende nese
-Revolade «Novartis» tabl.
-Rhinox «Takeda» nesedråper, nesespray
-Simbrinza «Novartis» øyedråper
-Synarela «Pfizer» nesespray
-Tears Naturale «Novartis» øyedråper
-Tett nese
-Tobrasone «Novartis» øyedråper
-Travatan «Novartis» øyedråper
-Trisekvens «Novo Nordisk» tabl.
-Tyverb «Novartis» tabl.
-Vagifem 10 µg «Novo Nordisk» vaginaltabl.
-Votrient «Novartis» tabl.
-Xifaxan «Norgine» tabl.
-Zycomb «Takeda» nesespray
-Zymelin «Takeda» nesespray
 obetikolsyre
 obinutuzumab
+Obizur «Baxalta» pulv. og væske til inj.
 Obsessive tilstander
 Obstipasjon
+Ocaliva «Intercept» tabl.
 OCD
+Ocrevus «Roche» kons. til inf.
+Octagam «Octapharma» inf.
+Octanate «Octapharma» pulv. og væske til inj.
+Octanine «Octapharma» pulv. og væske til inj.
+Octaplasma «Octapharma» inf.
+Octaplex «Octapharma» pulv. og væske til inf.
+Octostim «Ferring Legemidler AS» inj.
+Octostim «Ferring Legemidler AS» nesespray
+Oculac i endosebeholdere «Thea Laboratoires» øyedråper
+Oculac «Thea Laboratoires» øyedråper
+Odefsey «Gilead» tabl.
 ofatumumab
+Ofev «Boehringer Ingelheim» kaps.
+Ofev «Orifarm» kaps.
 ofloksacin
 Oftagel «Santen» øyegel
 Oftan «Santen» øyedråper
 okrelizumab
 okriplasmin
 oksaliplatin
+Oksaliplatin SUN «SUN Pharma» kons. til inf.
 oksazepam
 okskarbazepin
 oksybuprokain
@@ -3826,36 +2942,89 @@ oksymetazolin
 oksytetrasyklin
 oksytocin
 oktreotid
+Oktreotid SUN «SUN Pharma» inj.
+Okulær hypertensjon
 olanzapin
+Olanzapine Accord «Accord Healthcare» tabl.
 Olanzapine Teva «Teva» smeltetabl., tabl.
 olaparib
 olaratumab
 Oliguri
+Olimel, Olimel Perifer «Baxter» inf.
 olmesartan
 olmesartanmedoksomil
+Olmesartan medoxomil Krka «KRKA» tabl.
+Olmetec Comp «Daiichi Sankyo» tabl.
+Olmetec «Daiichi Sankyo» tabl.
 olodaterol
 olopatadin
+Olopeg «MIP Pharma» kons. til mikst.
 olsalazin
+Olumiant «Lilly» tabl.
+Omacor «Farmagon» kaps.
+Omacor «Pronova» kaps.
 omalizumab
 ombitasvir
 omeprazol
+Omeprazol Bluefish «Bluefish» enterokaps.
+Omeprazol Pensa «Pensa Pharma» enterokaps.
+Omeprazol Sandoz «Sandoz» enterokaps.
 Omgangssyke
+Omnic «Astellas» depottabl.
+Omnic «Orifarm» depottabl.
+Omnipaque «GE Healthcare» inj.
+Omniscan «GE Healthcare» inj.
+Omnitrope «Sandoz» inj.
+Onbrez Breezhaler «Novartis» inhal.pulv.
+Oncaspar «Baxalta» inj./inf.
+OncoTICE «MSD» pulv. til susp. til intravesikal bruk
 ondansetron
+Ondansetron Accord «Accord Healthcare» inf./inj.
+Ondansetron Bluefish «Bluefish» smeltetabl.
+Ondansetron Bluefish «Bluefish» tabl.
+Ondansetron Fresenius Kabi «Fresenius Kabi» inj.
+Ondansetron «Hameln» inj.
+Onglyza «AstraZeneca» tabl.
+Onivyde «Baxalta» kons. til inf.
 Onykomykose
+Onytec «Almirall» medisinsk neglelakk
+Opatanol «Novartis» øyedråper
 Opatanol «Orifarm» øyedråper
+Opdivo «Bristol-Myers Squibb» kons. til inf.
 Opiatavhengighet
 Opioidoverdosering
 opium
 Oppblåsthet
 Oppkast
+Oprymea «KRKA» depottabl., tabl.
+Opsumit «Actelion» tabl.
+Optinate Septimum «Actavis» tabl.
 Optinate Septimum «Orifarm» tabl.
+Optiray «Guerbet» inf./inj.
+Optison «GE Healthcare» inj.
+Oracea «Galderma» kaps.
+Oralcon «CampusPharma» tabl.
+Oramorph «Molteni» dråper, mikst.
+Oraqix «Dentsply» periodontalgel
+Orencia «Bristol-Myers Squibb» inj., pulv. til kons. til inf.
+Orfadin «Swedish Orphan Biovitrum» kaps., mikst.
+Orfiril, Orfiril Retard, Orfiril long «Desitin» depotgran., depotkaps., depottabl., enterotabl., inj., mikst.
+Orfiril long «2care4» depotkaps.
+Orfiril «2care4» mikst.
+Orfiril «Orifarm» enterotabl.
+Orgalutran «MSD» inj.
 Organavstøtning
+organo-heparinoid
 Organrejeksjon
 Organtransplantasjon
 Orisild «Orion» tabl.
 Orkambi «Vertex Pharmaceuticals» tabl.
 orlistat
+Ornibel «Exeltis» vaginalinnlegg
 Ornitintranskarbamylasemangel
+Orodek «Menarini» tabl.
+Orudis «sanofi-aventis» depotkaps.
+Orudis «sanofi-aventis» gel
 oseltamivir
 osimertinib
 Osteodystrofi
@@ -3863,135 +3032,224 @@ Osteomalasi
 Osteomyelitt
 Osteoporose
 oteracil
+Otezla «Celgene» tabl.
+Otitis media
 Otitt
+Otrivin Comp «GlaxoSmithKline Consumer Healthcare» nesespray
+Otrivin med mentol «GlaxoSmithKline Consumer Healthcare» nesespray
+Otrivin «GlaxoSmithKline Consumer Healthcare» nesespray
+Ovaleap «Teva» inj.
 Ovarialcancer
 Overdreven svetting
 Overgangsalder
 Overvekt
+Ovesterin «Aspen Pharma Trading Ltd.» tabl., vaginalkrem, vagit.
+Ovitrelle «2care4» inj.
+Ovitrelle «Merck» inj.
+Ovixan «Galenica» krem
+Oxaliplatin Fresenius Kabi «Fresenius Kabi» kons. til inf.
+Oxibuprokain Minims «Bausch & Lomb U.K. Ltd.» øyedråper
+Oxis Turbuhaler «AstraZeneca» inhal.pulv.
+Oxycodone Actavis «Actavis» kaps.
 Oxycodone Vitabalans «Vitabalans» tabl.
-Penomax «Orion» tabl.
-Polycystisk ovariesyndrom
-Pramipexole Orion «Orion» tabl.
-Pravachol «Orifarm» tabl.
-Prematur ovulasjon
-Pyrisept «Weifa» oppl., salve
-Rectogesic «Orifarm» rektalsalve
-Renvela «Orifarm» tabl.
-Samsca «Orifarm» tabl.
-Samsca «Otsuka Pharmaceutical» tabl.
-Seroquel «Orifarm» tabl.
-Simbrinza «Orifarm» øyedråper
-Simplex øyesalve «Ophtha» øyesalve
-Sinemet «Orifarm» tabl.
-Sinusoid obstruksjonssyndrom
-Spironolactone Orion «Orion» tabl.
-Stalevo «Orion» tabl.
-Stesolid «Orifarm» rektalvæske
-Stocrin «Orifarm» tabl.
-Sure oppstøt
-Topamax «Orifarm» tabl.
-Tramadol/Paracetamol Orion «Orion» tabl.
-Triatec «Orifarm» tabl.
-Tynn- og tykktarmsbetennelse
-Valium «Orifarm» tabl.
-Vesikur «Orifarm» tabl.
-Viagra «Orifarm» tabl.
-Warfarin Orion «Orion» tabl.
-Xeloda «Orifarm» tabl.
-Xyzal «Orifarm» tabl.
-Zebinix «Orifarm» tabl.
-Zofran «Orifarm» supp.
-Zomig «Orifarm» tabl.
-Zyrtec «Orifarm» tabl.
+OxyContin «Mundipharma» depottabl.
+OxyNorm «Mundipharma» inf./inj.
+OxyNorm «Mundipharma» kaps., mikst.
+Oxytocin Orifarm «Orifarm Generics» kons. til inf./inj.
+Ozurdex «Allergan» intravitrealt implantat
+Pabal «Ferring Legemidler AS» inj.
+Paclitaxel Accord «Accord Healthcare» kons. til inf.
+Paclitaxel Fresenius Kabi «Fresenius Kabi» kons. til inf.
 Padviram «Sandoz» tabl.
+Pagets bensykdom
 paklitaksel
 palbociklib
+Palexia depot «Grünenthal» depottabl.
+Palexia «Grünenthal» tabl.
 paliperidon
 palivizumab
+Palladon «Mundipharma» depotkaps.
+Palladon «Mundipharma» inf./inj.
 palonosetron
+Palonosetron Accord «Accord Healthcare» inj.
+Palonosetron Fresenius Kabi «Fresenius Kabi» inj.
+Pamidronatdinatrium Pfizer «Pfizer» kons. til inf.
 pamidronsyre
+Pamorelin «Ipsen» pulv. og væske til depotinj.
+panax ginseng (ginsengrot)
 Panikksyndrom
 panitumumab
 Pankreascancer
 Pankreasfibrose
 Pankreasinsuffisiens
 panobinostat
+Panodil, Panodil Zapp «GlaxoSmithKline Consumer Healthcare» tabl.
 pantoprazol
+Pantoprazol Krka «KRKA» enterotabl.
+Pantoprazol Pensa «Pensa Pharma» enterotabl.
+Pantoprazol Sandoz «Sandoz» enterotabl., pulv. til inj.
+Pantoprazol SUN «SUN Pharma» pulv. til inj.
 pantotensyre
+Panzyga «Octapharma» inf.
 Papillomavirusinfeksjon
 papillomavirusvaksine
+para-aminosalisylsyre
 paracetamol
+Paracetamol B. Braun «Braun» inf.
 Paracetamolforgiftning
+Paracetamol Fresenius Kabi «Fresenius Kabi» inf.
+Paracetamol Orifarm «Orifarm Generics» tabl.
+Paracetduo «Weifa» brusetabl.
 Paracetduo «Weifa» tabl.
+Paracet «Weifa» brusetabl., mikst., smeltetabl., supp., tabl.
+parafin, flytende
+Paralen «sanofi-aventis» tabl.
+Paralgin forte, Paralgin major «Weifa» supp., tabl.
+Paramax Comp «Vitabalans» tabl.
 Paramax «Vitabalans» tabl.
 parathyreoideahormon
 parekoksib
+Parenteral ernæring
+Paricalcitol Alternova «Alternova» kaps.
 parikalsitol
 paritaprevir
 Parkinsons sykdom
+Parlodel «Meda» tabl.
 paroksetin
 Paronyki
 Parotitt
+Paroxetin HEXAL «HEXAL» tabl.
+Paroxetin «Actavis» tabl.
+Parsabiv «Amgen» inj.
 Pascoflair «Pascoe» tabl.
 pasireotid
 pasjonsblomst
 patiromer
 pazopanib
 PCOS
+PecFent «Kyowa Kirin Ltd.» nesespray
+Pedea «Orphan Europe» inj.
+Peditrace «Fresenius Kabi» kons. til inf.
 pegaspargase
+Pegasys «Roche» inj.
 pegfilgrastim
+peginterferon alfa-2a
+peginterferon alfa-2b
+peginterferon beta-1a
+PegIntron «MSD» pulv. og væske til inj.
 pegvisomant
 pembrolizumab
 pemetreksed
+Pemetrexed Accord «Accord Healthcare» pulv. til kons. til inf.
+Pemetrexed «Sandoz» pulv. til kons. til inf.
 penciklovir
 penicillin
+Penicillin «Actavis» pulv. til inf./inj.
+Penomax «Orion» tabl.
+Pentasa, Pentasa Sachet «Ferring Legemidler AS» depotgran., depottabl., rektalvæske, supp.
+Pentocur «Abcur» pulv. til inj.
 pentoksyfyllin
+Pentrexyl «Bristol-Myers Squibb» pulv. til inf./inj.
+Pepcid «McNeil» tabl.
 Peptisk sår
 perampanel
 perfenazin
+perflubutanpolymer mikrosfærer
 perflutren
+Pergoveris «Merck» inj., pulv. og væske til inj.
+Perifer arteriell sykdom
 Perifer sirkulasjonsinsuffisiens
 perindopril
+Perindoprilarginin Servier «Les Laboratoires Servier» tabl.
 Periodontitt
+Peritoneal cancer
 Peritonealdialyse
 Peritonealkreft
 Peritonitt
+Perjeta «Roche» kons. til inf.
+Perkutan koronar intervensjon
 permetrin
+Permetrin Aurora Medical «2care4» krem
+Pernisiøs anemi
+Persantin Retard «Boehringer Ingelheim» kaps.
+Persantin «Boehringer Ingelheim» tabl.
+Persisterende ductus arteriosus
 Pertussis
 pertuzumab
 petidin
+Petidin «Takeda» inj., supp.
+Pevaryl, Pevaryl Depot «Trimb» krem + vagit.
 Pevaryl «Trimb» pudder
+Pevisone «Janssen» krem
+Peyona «Chiesi Farmaceutici» inf. og mikst.
+Pheburane «Lucane Pharma» gran.
+Phenergan «sanofi-aventis» tabl.
 phleum pratense
+Phosphoral «2care4» mikst.
+Phosphoral «Casen Recordati» mikst.
+Phoxilium «Gambro» hemodialyse-/hemofiltreringsvæske
 Phthirus pubis
+Physioneal 35 Glucose, Physioneal 40 Glucose «Baxter» peritonealdialysevæske
 Physiotens «2care4» tabl.
+Physiotens «Mylan Healthcare Norge AS» tabl.
 pibrentasvir
+Picato «2care4» gel
+Picato «LEO» gel
+Picato «Orifarm» gel
+Picoprep «Ferring Legemidler AS» pulv. til mikst.
 piksantron
+Pilexam «Pilum Pharma» inj.
 pilokarpin
+Pilokarpin Minims «Bausch & Lomb U.K. Ltd.» øyedråper
 pimecrolimus
+Pinex Forte, Pinex Major «Actavis» brusetabl., supp., tabl.
+Pinex «Actavis» brusetabl., mikst., supp., tabl.
+Pinex «Actavis» dosegran.
+Pinex «Actavis» smeltetabl.
 pioglitazon
+Pioglitazone Accord «Accord Healthcare» tabl.
 Pioglitazone «Teva» tabl.
 piperacillin
+Piperacillin/Tazobactam Fresenius Kabi «Fresenius Kabi» pulv. til inf.
+Piperacillin/Tazobactam «Stragen» pulv. til inf.
 piracetam
 pirfenidon
 piroksikam
+Piroxicam «Mylan» tabl.
 Piskeorm
+pitolisant
 Pityriasis rubra pilaris
 Pityriasis versicolor
 pivmecillinam
+Pixuvri «CTI Life Sciences» pulv. til kons. til inf.
 Plakk
+Plaquenil «sanofi-aventis» tabl.
 Plasmacellekreft
 Plasmaerstatning
+Plasmalyte «Baxter» inf.
+plasmaproteiner, humane
+Plasmodex «Meda» inf.
+Plavix «Sanofi Clir SNC» tabl.
+Plegridy «Biogen» inj.
 Plenadren «Shire» tabl.
+Plendil «AstraZeneca» depottabl.
+Plendil «Farmagon» depottabl.
+Plenvu «Norgine» pulv. til mikst.
 plerixafor
 pneumokokk, renset polysakkaridantigen
+pneumokokk, renset polysakkaridantigen konjugert
 Pneumoni
+Pneumovax «MSD» inj.
 Podagra
 podofyllotoksin
 Polio
 Poliomyelitt
+poliomyelitt, trivalent, inaktivert helvirus
 poliomyelittvirusvaksine
+Polycystisk ovariesyndrom
 Polycytemia vera
 polymyksin
+polymyksin b
 Polypper
 polystyrensulfonat
 Polyuri
@@ -4000,37 +3258,90 @@ Pompes sykdom
 ponatinib
 Porfyri
 posakonazol
+Postafen «Gen.Orph» tabl.
+Postherpetisk nevralgi
 povidon
+Pradaxa «Boehringer Ingelheim» kaps.
 Prader-Willis syndrom
+Praluent «sanofi-aventis» inj.
 pramipeksol
+Pramipexole Orion «Orion» tabl.
+Pranolol «Actavis» tabl.
 prasugrel
 Pravachol «2care4» tabl.
+Pravachol «Bristol-Myers Squibb» tabl.
+Pravachol «Orifarm» tabl.
 pravastatin
 Pravastatin Sandoz «Sandoz» tabl.
+Praxbind «Boehringer Ingelheim» inj./inf.
+Precosa «2care4» kaps.
+Precosa «Biocodex» kaps.
 prednisolon
+Prednisolon Alternova «Alternova» tabl.
 Prednisolon «Takeda» tabl.
 pregabalin
+Prematur ejakulasjon
+Prematur fødsel
+Prematur ovulasjon
+Prevenar 13 «Pfizer» inj.
 Prevensjon
+Prezista «Janssen» tabl.
 prikkperikum
+Priligy «Berlin-Chemie» tabl.
 prilokain
+Primolut-N «Bayer AB» tabl.
+Primovist «Bayer AB» inj.
+Primær binyrebarksvikt
+Primær immunsvikt
+Primær immun trombocytopeni
+Prinzmetals angina
+Priorix «GlaxoSmithKline» pulv. og væske til inj.
+Prismasol «Gambro» hemodialyse-/hemofiltreringsvæske
+Privigen «CSL Behring» inf.
+Pro-Epanutin «Pfizer» kons. til inf./inj.
+Probecid «BioPhausia» tabl.
 probenecid
+Procoralan «Les Laboratoires Servier» tabl.
+Procren Depot «AbbVie» pulv. og væske til inj.
+Proctosedyl «sanofi-aventis» rektalsalve
+Procysbi «Chiesi Orphan» enterokaps.
 progesteron
 Progesteronmangel
+Prograf «Astellas» kaps., kons. til inf.
+Prograf «Orifarm» kaps.
 proguanil
+Progynova «Bayer AB» tabl.
+ProHance «Bracco» inj.
 proklorperazin
 proksymetakain
 Proktitt
 Proktosigmoiditt
 Prolaktinom
+Prolastina «Grifols» pulv. og væske til inf.
+Prolia «Amgen» inj.
 prolin
 prometazin
+Promiten «Meda» inj.
+Promixin «2care4» pulv. til inhal.væske
+Promixin «Orifarm» pulv. til inhal.væske
+Promixin «Zambon» pulv. til inf.
+Promixin «Zambon» pulv. til inhal.væske
 propofol
+Propofol-Lipuro «Braun» inf./inj.
+Propolipid «Fresenius Kabi» inj./inf.
 propranolol
+Proscar «Farmagon» tabl.
+Proscar «MSD» tabl.
+Prospan «Engelhard Arzneimittel» mikst.
 Prostatacancer
 Prostatahyperplasi
 Prostatakreft
+Prostivas «Pfizer» kons. til inf.
 protamin
+Protaminsulfat «LEO» inf./inj.
 protease
+Protopic «LEO» salve
+Provaqomyl «Mylan» tabl.
 Provera «Pfizer» tabl.
 Proxan «Weifa» tabl.
 prukaloprid
@@ -4038,140 +3349,322 @@ Pruritus
 Psoriasis
 Psoriasisartritt
 Psykoser
+Pulmaxan «Farmagon» inhal.væske
+Pulmicort Turbuhaler «AstraZeneca» inhal.pulv.
+Pulmicort «AstraZeneca» inhal.væske
+Pulmonal hypertensjon
+Pulmozyme «Roche» inhal.væske
+Puregon «MSD» inj.
+Puri-Nethol «Aspen Pharma Trading Ltd.» tabl.
+Pursennid «GlaxoSmithKline Consumer Healthcare» tabl.
 Pustulosis palmoplantaris
 Pyelonefritt
+Pyoderma gangrenosum
 pyrazinamid
 pyridoksin
 pyridoksinhydroklorid
 pyridostigmin
+Pyrisept «Weifa» oppl., salve
 Pyrose
 pyrvin
-Relpax «Pfizer» tabl.
-Sobril «Pfizer» tabl.
-Synfase «Pfizer» tabl.
-tyfoid, renset polysakkaridantigen
-Ulcus pepticum
-Viagra «Pfizer» tabl.
-Xalatan «Pfizer» øyedråper
-Xalcom «Pfizer» øyedråper
-Xeljanz «Pfizer» tabl.
-Yellox «PharmaSwiss» øyedråper
-Zoloft «Pfizer» tabl.
-Zyvoxid «Pfizer» tabl.
+Qlaira «Bayer AB» tabl.
+Qtern «AstraZeneca» tabl.
+Questran, Questran Loc «Bristol-Myers Squibb» pulv. til mikst.
+Quetiapin Amneal «Amneal Pharma» tabl.
+Quetiapine Accord «Accord Healthcare» depottabl.
 Quetiapin Sandoz «Sandoz» tabl.
+Quinsair «Chiesi Orphan» inhal.væske
+Qutenza «Grünenthal» plaster
 Rabies
+rabies, inaktivert helvirus
+Rabies-Imovax «Sanofi Pasteur» pulv. og væske til inj.
+Rabipur «GlaxoSmithKline Vaccines» pulv. og væske til inj.
+Radionuklid myokardial perfusjonsavbildning
+radium-223-diklorid
 Rakitt
 raloksifen
 raltegravir
 ramipril
+Ramipril HEXAL «HEXAL» tabl.
+Ramipril «Actavis» tabl.
 ramucirumab
 ranibizumab
 ranitidin
 Ranitidin «ratiopharm» tabl.
+Rapamune «Pfizer» mikst., tabl.
+Rapifen «Janssen» inj.
+Rapiscan «GE Healthcare» inj.
+Rapydan «Eurocept International» plaster
 rasagilin
+Rasagilin Accord «Accord Healthcare» tabl.
+Rasagiline Mylan «Mylan S.A.S.» tabl.
 rasburikase
+Rastløse ben-syndrom
 Raxone «Santhera» tabl.
 Raynauds sykdom
 RDS
+Rebetol «MSD» kaps., mikst.
+Rebif «Merck» inj.
 reboksetin
+Recrea Forte 5% «Meda OTC» lin.
+Rectogesic «Kyowa Kirin Ltd.» rektalsalve
+Rectogesic «Orifarm» rektalsalve
+ReFacto AF «Pfizer» pulv. og væske til inj.
 Refluksøsofagitt
 regadenoson
+Regiocit «Gambro» hemofiltrasjonsvæske
 Regnbuehinnebetennelse
 regorafenib
+Rehydrex med glucos «Fresenius Kabi» inf.
 Reisesyke
+Rekovelle «Ferring Pharmaceuticals A/S» inj.
 Rektalcancer
+Relifex «Meda» oppl. tabl., tabl.
+Relistor «PharmaSwiss» inj.
+Relpax «Farmagon» tabl.
+Relpax «Pfizer» tabl.
+Reltebon Depot «Actavis» depottabl.
+Relvar Ellipta «GlaxoSmithKline» inhal.pulv.
+Remeron, Remeron-S «MSD» smeltetabl., tabl.
+Remicade «Janssen Biologics» pulv. til inf.
+Remifemin «Schaper & Brümmer» tabl.
 remifentanil
+Reminyl «Janssen» depotkaps.
+Reminyl «Orifarm» depotkaps.
+Remodulin «Ferrer» inf.
+Remsima «Celltrion» pulv. til kons. til inf.
 Renal rakitt
+Renitec Comp, Renitec Comp Mite «MSD» tabl.
+Renitec Comp Mite «Orifarm» tabl.
+Renitec «MSD» tabl.
+Rennende nese
+Renvela «Genzyme» pulv. til mikst., tabl.
+Renvela «Orifarm» tabl.
+ReoPro «2care4» inf./inj.
+ReoPro «Janssen Biologics» inf./inj.
 repaglinid
+Repaglinide Accord «Accord Healthcare» tabl.
+Repatha «Amgen» inj.
+Repevax «Sanofi Pasteur» inj.
+Replagal «Orifarm» kons. til inf.
+Replagal «Shire» kons. til inf.
+Requip Depot «GlaxoSmithKline» depottabl.
+RescueFlow «Pharmanovia» inf.
 reslizumab
 Resolor «Shire» tabl.
+Resonium-Calcium «sanofi-aventis» pulv.
+Respiratorisk distress-syndrom
+Respiratorisk syncytialtvirus-infeksjon
+Respiratory distress syndrome
+Restless legs-syndrom
+Retacrit «Hospira» inj.
+Revatio «Pfizer» pulv. til mikst., tabl.
+Reversibel iskemisk nevrologisk deffekt
+Revestive «Shire Pharmaceuticals Ireland Ltd.» pulv. og væske til inj.
+Revlimid «Celgene» kaps.
+Revmatoid artritt
+Revolade «Novartis» tabl.
+Reyataz «Bristol-Myers Squibb» kaps.
+Reyataz «Orifarm» kaps.
+Rezolsta «Janssen» tabl.
+Rheomacrodex 100 mg/ml med natriumklorid «Meda» inf.
+Rhesonativ «Octapharma» inj.
 Rhinitt
+Rhinocort Turbuhaler «AstraZeneca» nesepulver
 Rhinoré
+Rhinox «Takeda» nesedråper, nesespray
+Rhophylac «CSL Behring» inj.
+Riastap «CSL Behring» pulv. til inf./inj.
 ribavirin
 riboflavin
 ribosiklib
 rifaksimin
 rifampicin
 rilpivirin
+Rilutek «Aventis Pharma» tabl.
 riluzol
+Riluzol «Actavis» tabl.
+Rimactan «2care4» kaps.
+Rimactan «Sandoz» kaps.
 Rimactazid «Sandoz» tabl.
 Rimstar «Sandoz» tabl.
+Rinexin «Meda» depottabl.
+Ringer-Acetat Baxter Viaflo «Baxter» inf.
+Ringer-acetat Braun «Braun» inf.
+Ringer-acetat Fresenius Kabi «Fresenius Kabi» inf.
+Ringerfundin «Braun» inf.
 riociguat
+Risedronat Amneal «Amneal Pharma» tabl.
 risedronsyre
+Risperdal Consta «Janssen» pulv. og væske til depotinj.
+Risperdal «Janssen» mikst., tabl.
 risperidon
 Risperidon Sandoz «Sandoz» tabl.
+Rispolept Consta «Orifarm» pulv. og væske til depotinj.
+Ritalin «Novartis» kaps., tabl.
 ritonavir
 rituksimab
 rivaroksaban
 rivastigmin
+Rivastigmin Orion «Orion» kaps.
 Rivotril «2care4» tabl.
 Rivotril «Roche» tabl.
+Rixathon «Sandoz» kons. til inf.
+Rixubis «Baxalta» pulv. og væske til inj.
 rizatriptan
+RoActemra «Roche» inj., kons. til inf.
+Robinul-Neostigmin «Meda» inj.
+Robinul «Meda» inj.
+Rocaltrol «2care4» kaps.
+Rocaltrol «Roche» kaps.
 roflumilast
 rokuroniumbromid
 romiplostim
 ropinirol
+Ropinirol Krka «KRKA» depottabl.
+Ropinirol «Mylan» tabl.
+Ropivacain Fresenius Kabi «Fresenius Kabi» inf., inj.
 ropivakain
 Rosacea
+Rosazol «Actavis» krem
 rosuvastatin
 Rosuvastatin Sandoz «Sandoz» tabl.
+Rosuvastatin Xiromed «Medical Valley» tabl.
+Rotarix «GlaxoSmithKline» mikst.
+RotaTeq «MSD Vaccins» mikst.
+rotavirus, levende svekket
+rotavirus, pentavalent, levende, reassortert
 Rotavirusinfeksjon
 rotigotin
+Rovamycin «sanofi-aventis» tabl.
+Rozex «Galderma» gel, krem
 RS-virusinfeksjon
+RSV-infeksjon
 Rubella
 rubellavirusvaksine
+Ruconest «Pharming Group» pulv. til inj.
 rufinamid
 ruksolitinib
+Rupafin «Uriach» mikst., tabl.
 rupatadin
 russisk rot
+Rydapt «Novartis» kaps.
 Rynker
-rød solhatt
+Røde hunder
 Røde øyne
+rød solhatt
 Røntgen
 Røntgenfotografering
 Røykeavvenning
 Røykeben
-Tarceva «Roche» tabl.
-Valcyte «Roche» tabl.
-Valium «Roche» tabl.
-Venlix «ratiopharm» tabl.
-Xeloda «Roche» tabl.
-Zanipress «Recordati» tabl.
-Zelboraf «Roche» tabl.
+Sabrilex «sanofi-aventis» dosepulv., tabl.
+saccharomyces boulardii
 safinamid
 Saflutan «2care4» øyedråper
+Saizen «Merck» inj.
 saksagliptin
 sakubitril
+Salazopyrin EN «Pfizer» enterotabl.
 salbutamol
+Salidex «Braun» inf.
 salisylsyre
 salmeterol
+Salmeterol/Fluticasone Cipla «Cipla» inhal.aerosol
+Salofalk «Dr. Falk» enterodepotgran., rektalskum, supp.
+Salvapar «Ipsen» pulv. og væske til depotinj.
 Samin «Weifa» tabl.
+Samsca «Orifarm» tabl.
+Samsca «Otsuka Pharmaceutical» tabl.
+Sancuso «Kyowa Kirin Ltd.» depotplaster
+Sandimmun, Sandimmun Neoral «Novartis» kaps., kons. til inf., mikst.
+Sandimmun Neoral «Farmagon» kaps.
+Sandostatin, Sandostatin LAR «Novartis» inf./inj., pulv. og væske til inj.
 sapropterin
+Sarotex «Lundbeck» tabl.
+Sativex «2care4» munnspray
+Sativex «GW Pharma Ltd.» munnspray
+Savene «Clinigen» pulv. til kons. og fortynningsvæske til inf.
+Scandonest Plain «Septodont» inj.
+Scheriproct «Bayer AB» salve, supp.
 Schizofreni
+Scopoderm «GlaxoSmithKline Consumer Healthcare» depotplaster
+sebelipase alfa
 Seboré
 Sedix «Tilman» tabl.
+Seebri Breezhaler «Novartis» inhal.pulv.
 sekukinumab
 selegilin
 seleksipag
 selen
+Selexid «LEO» pulv. til inj., tabl.
+Selincro «Lundbeck» tabl.
+Selo-Zok «AstraZeneca» depottabl.
+Seloken «AstraZeneca» inj.
+Selozok «Farmagon» depottabl.
+Selsun «sanofi-aventis» sjampo
+Selukos «Meda» sjampo
+Sendoxan «Baxter» pulv. til inj., tabl.
 Senebetennelse
 Sengevæting
 sennaglykosider
 Sepsis
+Septisk artritt
+Septocaine, Septocaine Forte «Septodont» inj.
+Septopal, Septopal Mini «Zimmer Biomet» kjede til implantasjon
+Sequidot «Novartis» depotplaster
+Serdolect «Lundbeck» tabl.
+Seretide «GlaxoSmithKline» inhal.aerosol, inhal.pulv.
+Serevent «GlaxoSmithKline» inhal.aerosol, inhal.pulv
 serin
+Serkep «Mylan» inhal.aerosol
+Seroquel Depot «AstraZeneca» depottabl.
+Seroquel Depot «Orifarm» depottabl.
+Seroquel «AstraZeneca» tabl.
+Seroquel «Farmagon» tabl.
+Seroquel «Orifarm» tabl.
+Seroxat «Farmagon» tabl.
+Seroxat «GlaxoSmithKline» tabl.
 sertindol
 sertralin
+Sertralin Bluefish «Bluefish» tabl.
+Sertralin HEXAL «HEXAL» tabl.
 sevelamer
+Sevelamer Mylan «Mylan» tabl.
 Sevelamer Sandoz «Sandoz» tabl.
+Sevikar «Daiichi Sankyo» tabl.
 sevofluran
+Sevofluran Baxter «Baxter» væske til inhal.damp
+Sevorane «AbbVie» inhal.væske
+Short bowel-syndrome, SBS
+Sifrol «Boehringer Ingelheim» depottabl., tabl.
+Signifor «Novartis» inj., pulv. og væske til inj.
 sildenafil
+Sildenafil «Actavis» tabl.
+Silgard «Orifarm» inj.
 silikonforbindelser
+Silkis «Galderma» salve
 siltuksimab
 Simbrinza «2care4» øyedråper
-simeprevir
+Simbrinza «Novartis» øyedråper
+Simbrinza «Orifarm» øyedråper
+Simdax «Orion» kons. til inf.
 simetikon
+Simplex øyesalve «Ophtha» øyesalve
+Simponi «Janssen Biologics» inj.
+Simulect «Novartis» pulv. og væske til inf./inj.
 simvastatin
+Simvastatin Bluefish «Bluefish» tabl.
+Simvastatin HEXAL «HEXAL» tabl.
 Simvastatin Sandoz «Sandoz» tabl.
+Sinalfa «Amdipharm» tabl.
+Sinemet Depot Mite «MSD» depottabl.
+Sinemet «MSD» tabl.
+Sinemet «Orifarm» tabl.
+Sinequan «Orifarm» kaps.
+Singulair 4 mg «MSD» dosegran., tyggetabl.
+Singulair 4 mg «Orifarm» tyggetabl.
+Singulair 5 mg og 10 mg «MSD» tabl., tyggetabl.
+Singulair 5 mg og 10 mg «Orifarm» tabl., tyggetabl.
 sink
 sinkacetat
 sinkglukonat
@@ -4180,13 +3673,18 @@ Sinkmangel
 sinkoksid
 sinksulfat
 Sinusitt
+Sinusoid obstruksjonssyndrom
 sirolimus
+Sirturo «Janssen» tabl.
 sitagliptin
 sitronsyre
+Sivextro «MSD» pulv. til kons. til inf., tabl.
 Sjokk
 Sjøgrens syndrom
 Skabb
 Skallethet
+Skilarence «Almirall» enterotabl.
+Skinoren «Bayer AB» krem
 Skjedebetennelse
 Skjedeinfeksjon
 Skjedekatarr
@@ -4200,42 +3698,121 @@ Slag
 Slimhoste
 Slitasjegikt
 SMA
+Smertefull menstruasjon
 Smerter
+Smerter i muskler
+SmofKabiven, SmofKabiven Elektrolytfri, SmofKabiven Perifer, SmofKabiven extra Nitrogen «Fresenius Kabi» inf.
+SMOFlipid «Fresenius Kabi» inf.
 Småmark
+Sobril «Pfizer» tabl.
 sofosbuvir
+Sofradex «sanofi-aventis» øye-/øredråper
+Softacort «Thea Laboratoires» øyedråper
+Solaraze «Almirall» gel
+Solar keratose
 Solbrenthet
 Solforbrenning
+Solian «sanofi-aventis» tabl.
 solifenacin
+Soliris «Alexion» kons. til inf.
+Solu-Cortef «Pfizer» pulv. og væske til inj.
+Solu-Medrol «Pfizer» pulv. og væske til inj.
+Soluprick, Soluprick SQ «ALK» oppl. til prikktest
+Soluvit «Fresenius Kabi» pulv. til inf.
+Solvezink «BioPhausia» brusetabl.
+Solvipect comp. «Takeda» mikst.
+Solvipect «Takeda» mikst.
 Solvivo «Weifa» sugetabl.
+Somac Control «Takeda» enterotabl.
+Somac «Orifarm» enterotabl.
+Somac «Takeda» enterotabl., pulv. til inj.
 somatropin
+Somavert «Pfizer» pulv. og væske til inj.
+Sonazoid «GE Healthcare» pulv. og væske til inj.
+SonoVue «Bracco» pulv. og væske til inj.
+Soolantra «Galderma» krem
+Soolantra «Orifarm» krem
 Sopp
 Soppinfeksjon
 sorafenib
 sorbitol
 SOS
 sotalol
+Sotalol «Mylan» tabl.
+Sovaldi «Gilead» tabl.
 Sovesyke
+Spasmer i mage-tarmkanal
+Spastisk colon
 Spedalskhet
+Spedra «Menarini» tabl.
+Spersadex med kloramfenikol «Thea Laboratoires» øyedråper
+Spersadex «Blumont Pharma Ltd.» øyedråper
+Spersallerg «Thea Laboratoires» øyedråper
+Spinal muskelatrofi
+Spinraza «Biogen» inj.
+Spiolto Respimat «Boehringer Ingelheim» inhal.væske
 spiramycin
+Spiriva Respimat «Boehringer Ingelheim» inhal.væske
+Spiriva «Boehringer Ingelheim» inhal.pulv.
+Spiriva «Orifarm» inhal.pulv.
 Spirix «Takeda» tabl.
+Spironolactone Orion «Orion» tabl.
 spironolakton
 Spiserørsbetennelse
 Spiserørskreft
 Spissfot
 Spolorm
+Sporanox «Janssen» kaps.
+Sprycel «Abacus Medicine» tabl.
+Sprycel «Bristol-Myers Squibb» tabl.
+Stalevo «Orion» tabl.
+Stamaril «Sanofi Pasteur» pulv. og væske til inj.
 Stamcelletransplantasjon
+Stayveer «Marklas» tabl.
+Stelara «Janssen» inj., kons. til inf.
+Stemetil «sanofi-aventis» tabl.
+Sterile water Fresenius Kabi «Fresenius Kabi» oppl.væske til parenteral bruk
 sterilt vann
+Sterilt vann B. Braun «Braun» oppl.væske til parenteral bruk
+Sterilt Vann Baxter Viaflo «Baxter» oppl.væske til parenteral bruk
+Stesolid prefill «Actavis» rektalvæske
+Stesolid «Actavis» inj., rektalvæske, supp., tabl.
+Stesolid «Orifarm» rektalvæske
+Stilnoct «sanofi-aventis» tabl.
 stiripentol
+Stivarga «Bayer AG» tabl.
 Stivkrampe
+Stocrin «MSD» tabl.
+Stocrin «Orifarm» tabl.
 Stomatitt
+Strattera «Lilly» kaps., mikst.
+Strefen «Reckitt Benckiser» sugetabl.
+Strensiq «Alexion» inj.
+Stribild «Gilead» tabl.
+Striverdi Respimat «Boehringer Ingelheim» inhal.væske
+Suboxone «Indivior» sublingvaltabl.
+Subutex «Indivior» sublingvaltabl.
 sufentanil
+Sufenta «Janssen» inj.
 sugammadex
 sukralfat
+sukrojern(iii)oksyhydroksid
 suksametonium
 sulfametoksazol
 sulfasalazin
+Suliqua «sanofi-aventis» inj.
 sumatriptan
+Sumatriptan Amneal «Amneal Pharma» tabl.
+Sumatriptan Aurobindo «Aurobindo» tabl.
+Sumatriptan Bluefish «Bluefish» tabl.
+Sumatriptan SUN «SUN Pharma» inj.
 sunitinib
+Suprane «Baxter» væske til inhal.damp
+Suprecur «sanofi-aventis» nesespray
+Sure oppstøt
+Surmontil «sanofi-aventis» tabl.
+susoktokog alfa
+Sutent «Pfizer» kaps.
 Suturstøtte
 Svangerskapsavbrudd
 Sveiseblink
@@ -4245,166 +3822,322 @@ svovelheksafluorid
 syklizin
 syklofosfamid
 syklopentolat
+Sylvant «Janssen» pulv. til kons. til inf.
+Symbicort forte Turbuhaler «AstraZeneca» inhal.pulv.
+Symbicort mite Turbuhaler «AstraZeneca» inhal.pulv.
+Symbicort Turbuhaler «AstraZeneca» inhal.pulv.
+Symbicort «AstraZeneca» inhal.aerosol
+Symtuza «Janssen» tabl.
+Synagis «AbbVie» inj.
+Synalar med Chinoform «Bioglan» krem
+Synalar «Bioglan» gel, krem, salve
+Synarela «Pfizer» nesespray
+Synfase «Pfizer» tabl.
+Synjardy «Boehringer Ingelheim» tabl.
+Syntocinon «Alfasigma» nesespray
 Sår
+Såre brystvorter
+Sår hals
 Sårinfeksjon
 Sårtilheling
 sølvsulfadiazin
 Søvnforstyrrelser
 Søvnvansker
-Tadalafil Sandoz «Sandoz» tabl.
-Taflotan «Santen» øyedråper
-Taptiqom «Santen» øyedråper
-Trusopt «Santen» øyedråper
-Turners syndrom
-Valaciclovir Sandoz «Sandoz» tabl.
-Valganciclovir Sandoz «Sandoz» tabl.
-Valsartan Sandoz «Sandoz» tabl.
-Von Willebrands sykdom
-Voriconazole Sandoz «Sandoz» tabl.
-West syndrom
-Wilsons sykdom
-Zolmitriptan Sandoz «Sandoz» smeltetabl., tabl.
-Abacavir/Lamivudin «Mylan» tabl.
-For tidlig utløsning
+TachoSil «Takeda» matriks til vevslim
+Tacni «Teva» kaps.
 tadalafil
+Tadalafil Sandoz «Sandoz» tabl.
 tafamidis
+Tafinlar «Novartis» kaps.
+Taflotan «Santen» øyedråper
 tafluprost
+Tagrisso «AstraZeneca» tabl.
 takrolimus
 talidomid
 talimogenlaherparepvek
+Taloxa «MSD» tabl.
+Taltz «Lilly» inj.
+Tambocor Retard «Meda» depotkaps.
+Tambocor «Meda» inj., tabl.
+Tamiflu «Roche» kaps.
 tamoksifen
+Tamoxifen «Mylan» tabl.
 tamsulosin
+Tamsulosin «Actavis» kaps.
+Tamsulosin «Mylan» kaps.
+Tamsulosin «ratiopharm» depottabl.
 Tannkjøttbetennelse
 Tannpine
 Tannråte
 Tannsmerter
 tapentadol
+Tapin «Orifarm Generics» krem
+Tapin «Orifarm Generics» plaster
+Taptiqom «Santen» øyedråper
+Tarceva «Roche» tabl.
+Tardiben «AOP Orphan» tabl.
+Targiniq «Mundipharma» depottabl.
+Targocid «sanofi-aventis» pulv. til inf./inj., mikstur
+Targretin «Eisai Ltd.» kaps.
+Tarivid «sanofi-aventis» tabl.
 Tarmatoni
 Tarmkatarr
 Tarmslapphet
 Tarmtømming
+Tasigna «Novartis» kaps.
 tazobaktam
+Tears Naturale Uten konserveringsmiddel «Novartis» øyedråper
+Tears Naturale «Novartis» øyedråper
+Tecentriq «Roche» kons. til inf.
+Tecfidera «Biogen» enterokaps.
 tedizolidfosfat
 teduglutid
 tegafur
+Tegretol, Tegretol Retard «Novartis» depottabl., mikst., tabl.
 teikoplanin
+Telfast «sanofi-aventis» tabl.
 telmisartan
+Telmisartan «Actavis» tabl.
 telotristat
+Temgesic «Indivior» inj., resoribl.
+Temodal «MSD» kaps., pulv. til inf.
 temozolomid
+Temozolomide Accord «Accord Healthcare» kaps.
+Temozolomide SUN «SUN Pharma» kaps.
 temsirolimus
 Tendinitt
 tenecteplase
 tenofovir
 tenofoviralafenamid
 tenofovirdisoproksil
+Tenofovir disoproxil «Sandoz» tabl.
+Tenofovir disoproxil «Teva» tabl.
 teofyllin
+Teofyllin Aurora Medical «2care4» depottabl.
+Tepadina «Adienne» pulv. til kons. til inf.
 terazosin
 terbinafin
+Terbinafin Bluefish «Bluefish» tabl.
+Terbinafin HEXAL «HEXAL» krem
+Terbinafin HEXAL «HEXAL» tabl.
+Terbinafin Orifarm «Orifarm Generics» tabl.
 terbutalin
 teriflunomid
 teriparatid
 terlipressin
+Terra-Cortril Polymyxin B «Pfizer» øredråper
+Terra-Cortril «Pfizer» salve
+Terramycin-Polymyxin B «Pfizer» salve, øyesalve
 Testikkelcancer
 Testikkelkreft
+Testim «Ferring Legemidler AS» transdermalgel
+Testogel «Besins International» gel i dosepose
 testosteron
 Testosteronmangel
 Tetanus
 tetanustoksoid
 tetanusvaksine
+Tetavax «Sanofi Pasteur» inj.
 tetrabenazin
+Tetracyclin «Actavis» tabl.
 Tetrahydrobiopterinmangel
 tetrahydrocannabinol
 tetrakain
+Tetrakain Minims «Bausch & Lomb U.K. Ltd.» øyedråper
+Tetralysal «Galderma» kaps.
+Tetraspan «Braun» inf.
 tetrasyklin
+Tetravac «Sanofi Pasteur» inj.
 tetryzolin
+Tett nese
+Tevagrastim «Teva» inf./inj.
+Teveten Comp «Mylan Healthcare Norge AS» tabl.
 Teveten «2care4» tabl.
+Teveten «BGP Products» tabl.
+Teysuno «Nordic Drugs» kaps.
+Thalidomide Celgene «Celgene» kaps.
+Theo-Dur «BioPhausia» depottabl.
+Thymoglobuline «Genzyme» pulv. til inf.
 Thyreoideacancer
 Thyreoideakarsinom
+Thyrogen «Genzyme» pulv. til inj.
+Tiacur «Abcur» inj.
 tiamin
+Tiamin Aurora Medical «2care4» inj.
+Tiamin Life Medical «Life Medical ApS» inj.
 tibolon
+Ticlid «sanofi-aventis» tabl.
+TicoVac, TicoVac Junior «Pfizer» inj.
+Tienam «MSD» pulv. til inf.
 tigesyklin
 tikagrelor
 tiklopidin
 timian
 timolol
+Timosan «2care4» depotøyedråper
+Timosan «Santen» depotøyedråper
 tiopental
+Tiopental Life Medical «Life Medical ApS» pulv. til inj.
 tiotepa
 tiotropiumbromid
 tipiracil
+Tisseel «Baxter» oppl. til vevslim
 Titralac «Takeda» tabl.
+Tivicay «ViiV Healthcare» tabl.
+Tobi Podhaler «Novartis» inhal.pulv.
+Tobi «Novartis» inhal.væske
 tobramycin
+Tobramycin B. Braun «Braun» inf.
+Tobrasone «Novartis» øyedråper
+Tobrex Depot «Novartis» depotøyedråper
 tocilizumab
+Toctino «Stiefel» kaps.
 tofacitinib
+Toilax «Orion» enterotabl., rektalvæske
 tokoferol
 tokofersolan
 tolfenamsyre
 tolterodin
 tolvaptan
 Tolvfingertarmsår
+Tolvon «MSD» tabl.
 Tonsillitt
+Topamax «Orifarm» tabl.
 Topimax «2care4» tabl.
+Topimax «Janssen» kaps., tabl.
 topiramat
+Topiramat Bluefish «Bluefish» tabl.
+Topotecan Accord «Accord Healthcare» kons. til inf.
+Topotecan Ebewe «EBEWE» kons. til inf.
 topotekan
+Toradol «2care4» inj.
+Toradol «Atnahs» inj.
+Torisel «Pfizer» kons. og væske til inf.
+Tostran «Kyowa Kirin Ltd.» gel
+Toujeo «sanofi-aventis» inj.
+Toviaz «Farmagon» depottabl.
+Toviaz «Pfizer» depottabl.
 trabektedin
+Tracleer «Actelion» tabl.
+Tractocile «Ferring Pharmaceuticals A/S» inj., kons. til inf.
+Trajenta «Boehringer Ingelheim» tabl.
 Trakom
 tramadol
+Tramadol/Paracetamol Orion «Orion» tabl.
+Tramadol HEXAL «HEXAL» kaps.
 Tramadol Vitabalans «Vitabalans» tabl.
+Tramadol «Actavis» kaps.
+Tramagetic OD, Tramagetic Retard «Mundipharma» depottabl.
 trametinib
 Trampalgin «Weifa» tabl.
+Trandate «Aspen Pharma Trading Ltd.» inj., tabl.
+Trandate «Orifarm» inj.
 traneksamsyre
+Tranexamic acid «Stragen» inj.
+Transiderm-Nitro «Novartis» depotplaster
+Transitoriske iskemiske atakker
+Translarna «PTC Therapeutics» gran. til mikst.
+Transtyretin (TTR) amyloid polynevropati
 trastuzumab
 trastuzumabemtansin
+Travatan «Farmagon» øyedråper
+Travatan «Novartis» øyedråper
 travoprost
+Trelegy Ellipta «GlaxoSmithKline» inhal.pulv.
+Tremfya «Janssen» inj.
 Tremor
+Trental «2care4» depottabl.
+Trental «sanofi-aventis» depottabl.
 treonin
 treprostinil
+Tresiba «Novo Nordisk» inj.
 tretinoin
+Trevicta «Janssen» depotinj.
 triamcinolon
+Triatec «Orifarm» tabl.
+Triatec «sanofi-aventis» tabl.
+Tribonat «Fresenius Kabi» inf.
+Trica «Evolan Pharma» inj.
+Triesence «Novartis» inj.
 trifluridin
 Trigeminusnevralgi
+Trilafon dekanoat «Orion» inj.
+Trileptal «2care4» mikst., tabl.
+Trileptal «Novartis» mikst., tabl.
+Trileptal «Orifarm» mikst., tabl.
+Trimbow «Chiesi Farmaceutici» inhal.aerosol
 trimetoprim
+Trimetoprim «Orion» mikst., tabl.
 trimipramin
+Trimonil Retard «Desitin» depottabl.
+Trimonil Retard «Orifarm» depottabl.
+TrioBe «Meda» tabl.
+Triolif «Karo Pharma» sugetabl.
 triptorelin
+Trisekvens «Novo Nordisk» tabl.
+Trisenox «Teva» kons. til inf.
+Triumeq «ViiV Healthcare» tabl.
+Trizivir «ViiV Healthcare» tabl.
 trombin
 Trombocytemi
 Trombocytopeni
 Trombose
 trometamol
 tropikamid
+Tropikamid Minims «Bausch & Lomb U.K. Ltd.» øyedråper
 tropisetron
+Truberzi «Allergan» tabl.
+Trulicity «Farmagon» inj.
+Trulicity «Lilly» inj.
+Trulicity «Orifarm» inj.
+Trumenba «Pfizer» inj.
+Trusopt «Santen» øyedråper
+Truvada «Gilead» tabl.
+Truxal «Lundbeck» tabl.
 tryptofan
 Trådorm
 Trøske
+TTR familiær amyloid polynevropati (TTR-FAP).
 Tuberkulose
 tuberkulosevaksine
+Turners syndrom
+Tussin «Weifa» mikst.
 Tussis
 Tvangslidelser
+Twinrix Adult, Twinrix Paediatric «GlaxoSmithKline» inj.
+tyfoid, renset polysakkaridantigen
 Tyfoidfeber
 tyfoidvaksine
 Tyfus
+Tygacil «Pfizer» pulv. til inf.
 Tykktarmscancer
 Tykktarmskreft
+Tynn- og tykktarmsbetennelse
+Typhim Vi «Sanofi Pasteur» inj.
 Tyreotoksikose
+tyreotropin alfa
 tyrosin
+Tysabri «Biogen» kons. til inf.
+Tyverb «Novartis» tabl.
 Tørre øyne
 Tørrhoste
-Vesicare «2care4» tabl.
-Viread «2care4» tabl.
-Vitreomakulært traksjonssyndrom
-Xadago «Zambon» tabl.
-Xigduo «2care4» tabl.
-Xyzal «UCB» tabl.
-Yasmin «2care4» tabl.
-Zoely «Teva» tabl.
-Zolpidem Vitabalans «Vitabalans» tabl.
-Zonat «Weifa» tabl.
-Zopitin «Vitabalans» tabl.
-Økt tissetrang
+Tørr hud
+Tørr munn
+Ucedane «Lucane Pharma» dispergerbare tabl.
+Ulcerøs kolitt
+Ulcus cruris
+Ulcus duodeni
+Ulcus pepticum
 Ulcus ventriculi
 ulipristal
+Ultibro Breezhaler «Novartis» inhal.pulv.
+Ultiva «Aspen Pharma Trading Ltd.» pulv. til inf./inj.
+Ultracortenol «AGEPHA» øyesalve
 Ultralyd
+Ultravist «Bayer AB» inf./inj.
 umeklidinium
 umeklidiniumbromid
+Uptravi «Actelion» tabl.
 urea 13c
 Ureasyklusforstyrrelse
 Uremi
@@ -4418,79 +4151,356 @@ Urinveisinfeksjon
 Urinveiskramper
 Urinveiskreft
 Urinveisspasme
+Urizia «Astellas» tabl.
 urofollitropin
+Uromitexan «Baxter» inj., tabl.
+Ursochol «Orifarm Generics» kaps.
 ursodeoksykolsyre
+Ursofalk «Dr. Falk» kaps., mikst., tabl.
+Ursofalk «Orifarm» kaps.
 Urticaria
+Ustabil angina
 ustekinumab
+Uteblitt eggløsning
 Uteruscancer
 UVI
+Vagifem 10 µg «Novo Nordisk» vaginaltabl.
 Vaginitt
+Valaciclovir Sandoz «Sandoz» tabl.
 valaciklovir
+Valcyte «Roche» tabl.
 valerianarot
+Valerina Forte, Valerina Natt «Pharbio Medical» tabl.
+Valganciclovir Accord «Accord Healthcare» tabl.
+Valganciclovir Sandoz «Sandoz» tabl.
 valganciklovir
 valin
+Valium «Orifarm» tabl.
+Valium «Roche» tabl.
+Vallergan «sanofi-aventis» mikst., tabl.
 valproinsyre
 valsartan
+Valsartan/Hydrochlorothiazide Sandoz «Sandoz» tabl.
+Valsartan/Hydrochlorthiazid «Actavis» tabl.
+Valsartan Sandoz «Sandoz» tabl.
+Valsartan «Actavis» tabl.
+Valtrex «GlaxoSmithKline» tabl.
+Vamin 14 g N/l Elektrolyttfri, Vamin 18 g N/l Elektrolyttfri «Fresenius Kabi» inf.
+Vaminolac «Fresenius Kabi» inf.
+Vancomycin Fresenius Kabi «Fresenius Kabi» pulv. til kons. til inf.
+Vancomycin «MIP Pharma» pulv. til inf.
+Vancomycin «Xellia» kaps.
+Vancomycin «Xellia» pulv. til inf.
 vandetanib
+Vaniqa «Almirall» krem
 vankomycin
 Vannkopper
+Vanquin «Meda» tabl.
+Vaqta «MSD» inj.
 vardenafil
 vareniklin
+Vargatef «Boehringer Ingelheim» kaps.
 Variantangina
 Varicella
+varicella, levende svekket
+Varilrix «GlaxoSmithKline» pulv. og væske til inj.
+Varivax «MSD» pulv. og væske til inj.
+vaselin, gul
+Vaxigrip «Sanofi Pasteur» inj.
+Vectatone «Omega Pharma» krem
+Vectavir «Omega Pharma» krem
+Vectibix «Amgen» kons. til inf.
 vedolizumab
+Vedrop «Orphan Europe» mikst.
 Vekstforstyrrelse
 Veksthemming
 Veksthormonmangel
 Veksthormonoverproduksjon
 Vekstretardasjon
 Vektreduksjon
+velaglucerase alfa
+Velbe «PharmaCoDane» pulv. til inj.
+Velcade «Janssen» pulv. til inj.
 velpatasvir
+Velphoro «Vifor Fresenius Medical Care» tyggetabl.
+Veltassa «Vifor Fresenius Medical Care» pulv. til mikst.
+Vemlidy «Gilead» tabl.
 vemurafenib
+Venclyxto «AbbVie» tabl.
 venetoklaks
 Venetrombose
 venlafaksin
+Venlafaxin Bluefish «Bluefish» depotkaps.
+Venlafaxin Krka «KRKA» depotkaps.
+Venlafaxin «ratiopharm» depotkaps.
+Venlazid «Medical Valley» depottabl.
+Venlix «ratiopharm» tabl.
+Venofer «2care4» inj./kons. til inf.
+Venofer «Vifor France» inj./kons. til inf.
+Venofundin «Braun» inf.
+Venookklusiv leversykdom
+Venorion «Orion» depotkaps.
+Ventavis «Bayer AG» inhal.væske
+Ventoline «GlaxoSmithKline» inhal.aerosol, inhal.pulv., inhal.væske
 Ventrikkelcancer
 Ventrikkelkreft
 Ventrikkelsår
+Vepesid «2care4» kaps.
+Vepesid «Bristol-Myers Squibb» kaps.
 verapamil
+Vermox «McNeil» mikst., tabl.
 vernakalant
+Versatis «Grünenthal» plaster
 verteporfin
+Verucid «Galderma» lin.
+Vesicare «2care4» tabl.
+Vesicare «Astellas» tabl.
+Vesikur «Orifarm» tabl.
 Vevslim
+VFEND «Pfizer» pulv. til inf., pulv. til mikst., tabl.
+Vi-Siblin «Meda» dosegran., gran.
+Viagra «Farmagon» tabl.
+Viagra «Orifarm» tabl.
+Viagra «Pfizer» tabl.
+Vibranord «Pharmanovia» mikst.
+Victoza «Novo Nordisk» inj.
+Vidaza «Celgene» pulv. til inj.
+Viekirax «AbbVie» tabl.
 vigabatrin
+Vigantol «2care4» dråper
 vilanterol
 vildagliptin
+Vimizim «BioMarin» kons. til inf.
+Vimovo «AstraZeneca» tabl.
+Vimpat «UCB» inf., sirup, tabl.
 vinblastin
+Vincristine «Pfizer» inj.
+Vinelle «CampusPharma» tabl.
 vinflunin
 vinkristin
 vinorelbin
+Vinorelbin Accord «Accord Healthcare» kons. til inf.
+Vinorelbin Ebewe «EBEWE» kons. til inf.
+Viramune «Boehringer Ingelheim» depottabl., tabl.
+Viread «2care4» tabl.
+Visanne «Bayer AB» tabl.
+Viscotears «Thea Laboratoires» øyegel
+Visipaque «GE Healthcare» inj.
 vismodegib
+Vistabel «Allergan» pulv. til inj.
+Visudyne «Novartis» pulv. til inf.
+Vitalipid Adult, Vitalipid Infant «Fresenius Kabi» kons. til inf.
+vitamin a
+vitamin b
+Vitamin B-mangel
+vitamin b12
+Vitamin B12 Depot «Takeda» inj.
+Vitamin B12 «Takeda» inj.
+Vitamin B12-mangel
+vitamin c
+Vitamin C-mangel
+vitamin d
+Vitamin D-mangel
+vitamin d2
+vitamin d3
+vitamin e
+Vitamin E-mangel
+vitamin k
 Vitaminmangel
+Vitreomakulært traksjonssyndrom
+Vival «Actavis» tabl.
+Vivotif «PaxVax» enterokaps.
 VMT
 VOD
 voksilaprevir
+Volibris «GlaxoSmithKline» tabl.
+Voltaren Ophtha Abak «Thea Laboratoires» øyedråper
+Voltaren Ophtha «Thea Laboratoires» øyedråper
+Voltaren «2care4» gel
+Voltaren «Novartis» enterotabl., inj., supp.
+Voltarol Forte «GlaxoSmithKline Consumer Healthcare» gel
+Voltarol «GlaxoSmithKline Consumer Healthcare» gel
+Voltarol «GlaxoSmithKline Consumer Healthcare» kaps., tabl.
+Voltarol «GlaxoSmithKline Consumer Healthcare» plaster
+Voluven «Fresenius Kabi» inf.
+von willebrands faktor
+Von Willebrands sykdom
+Voriconazole Accord «Accord Healthcare» tabl.
+Voriconazole Sandoz «Sandoz» tabl.
 vorikonazol
 Vorter
 vortioksetin
+Vosevi «Gilead» tabl.
+Votrient «Novartis» tabl.
+Votubia «Novartis» dispergerbare tabl., tabl.
+VPRIV «Shire» pulv. til inf.
 Vulvitt
 Vulvovaginitt
+Vyndaqel «Pfizer» kaps.
 Væskeansamling
 Væskemangel
 Væskeretensjon
 Væsketap
+Wakix «Bioprojet Pharma» tabl.
+Waldenströms makroglobulinemi
 warfarin
+Warfarin Orion «Orion» tabl.
 Warfarinoverdosering
+Wegeners granulomatose
+Weifa C-vitamin «Weifa» brusetabl.
+Weifapenin «Meda» pulv. til mikst., tabl.
+Wellbutrin Retard «GlaxoSmithKline» tabl.
+West syndrom
+Wilate «Octapharma» pulv. og væske til inj.
+Willfact 1000 IE «LFB-Biomedicaments» pulv. og væske til inj.
+Wilsons sykdom
+Wilzin «Orphan Europe» kaps.
+Xadago «Zambon» tabl.
+Xagrid «Shire» kaps.
+Xalatan «Pfizer» øyedråper
+Xalcom «Pfizer» øyedråper
+Xalkori «Pfizer» kaps.
+Xaluprine «Nova Laboratories» mikst.
+Xanor, Xanor Depot «Pfizer» depottabl., tabl.
+Xarelto «Bayer AG» tabl.
+Xeljanz «Pfizer» tabl.
+Xeloda «Orifarm» tabl.
+Xeloda «Roche» tabl.
+Xenetix «Guerbet» inj.
+Xenical «Farmagon» kaps.
+Xenical «Orifarm» kaps.
+Xeomin «Merz» pulv. til inj.
+Xeomin «Orifarm» pulv. til inj.
+Xeplion «Janssen» depotinj.
+Xermelo «Ipsen» tabl.
+Xerodent «Actavis» sugetabl.
 Xerostomi
+Xgeva «Amgen» inj.
+Xiapex «Swedish Orphan Biovitrum» pulv. og væske til inj.
+Xifaxan «Norgine» tabl.
+Xigduo «2care4» tabl.
+Xigduo «AstraZeneca» tabl.
+Xigduo «Farmagon» tabl.
+Xofigo «Bayer AG» inj.
+Xolair «Novartis» inj.
+Xtandi «Astellas» kaps.
+Xultophy «Novo Nordisk» inj.
+Xylocain-Adrenalin «Aspen Pharma Trading Ltd.» inj.
+Xylocain 100 mg/ml spray «Aspen Pharma Trading Ltd.» spray
+Xylocain Dental adrenalin «Dentsply» inj.
+Xylocain inj. «Aspen Pharma Trading Ltd.» inj.
+Xylocain «Aspen Pharma Trading Ltd.» gel, salve
 xylometazolin
+Xyrem «UCB» mikst.
+Xyzal «Orifarm» tabl.
+Xyzal «UCB» tabl.
+Yana «Heaton» tabl.
+Yasminelle «Bayer AB» tabl.
+Yasmin «2care4» tabl.
+Yasmin «Bayer AB» tabl.
+Yaz «Bayer AB» tabl.
 Yellox «2care4» øyedråper
+Yellox «PharmaSwiss» øyedråper
+Yervoy «Bristol-Myers Squibb» kons. til inf.
+Yondelis «Pharma Mar» pulv. til kons. til inf.
+Zaditen «Thea Laboratoires» øyedråper
+Zalna «Meda» gel
+Zanidip «Farmagon» tabl.
+Zanidip «Meda» tabl.
+Zanipress «Recordati» tabl.
+Zantac «GlaxoSmithKline» brusetabl., inj.
+Zarzio «Sandoz» inf./inj.
+Zavedos «Pfizer» pulv. til inj.
+Zavesca «Actelion» kaps.
+Zavicefta «Pfizer» pulv. til kons. til inf.
+Zebinix «Bial» tabl.
+Zebinix «Orifarm» tabl.
+Zeffix «GlaxoSmithKline» tabl.
+Zelboraf «Roche» tabl.
+Zeldox «Orifarm» kaps.
+Zeldox «Pfizer» kaps.
+Zemplar «2care4» kaps.
+Zepatier «MSD» tabl.
+Zerbaxa «MSD» pulv. til kons. til inf.
+Zestoretic, Zestoretic mite «AstraZeneca» tabl.
+Zestril «AstraZeneca» tabl.
+Zevalin «Spectrum Pharmaceuticals» preparasjonssett til radioaktive legemidler
+Zevtera «Basilea» pulv. til kons. til inf.
+Ziagen «ViiV Healthcare» tabl.
+Zidoval «Meda» vaginalgel
 zidovudin
+Zilas «Menarini» tabl.
+Zinacef «GlaxoSmithKline» inj.subst.
+Zinforo «Pfizer» pulv. til kons. til inf.
+Zinplava «MSD» kons. til inf.
 ziprasidon
+Ziprasidon «Actavis» kaps.
+Zocor «Farmagon» tabl.
+Zocor «MSD» tabl.
+Zoely «Teva» tabl.
+Zofenil Comp «Menarini» tabl.
+Zofenil «Menarini» tabl.
 zofenopril
+Zofran «Novartis» inj., mikst., smeltetabl., supp., tabl.
+Zofran «Orifarm» supp.
+Zoladex 3,6 mg «AstraZeneca» implantat
+Zoladex 3,6 mg «Orifarm» implantat
+Zoladex 10,8 mg «AstraZeneca» implantat
+Zoladex 10,8 mg «Orifarm» implantat
+Zoledronic acid «Actavis» kons. til inf.
 zoledronsyre
+Zoledronsyre Fresenius Kabi «Fresenius Kabi» kons. til inf.
+Zollinger-Ellisons syndrom
 zolmitriptan
+Zolmitriptan Sandoz «Sandoz» smeltetabl., tabl.
+Zolmitriptan «Actavis» smeltetabl., tabl.
+Zoloft «2care4» kons. til mikst.
+Zoloft «Farmagon» tabl.
+Zoloft «Pfizer» tabl.
 zolpidem
+Zolpidem Aurobindo «Aurobindo» tabl.
+Zolpidem Vitabalans «Vitabalans» tabl.
+Zomacton «Ferring Legemidler AS» pulv. og væske til inj.
+Zometa «Novartis» inf.
+Zomig, Zomig Rapimelt «AstraZeneca» smeltetabl., tabl.
+Zomig Nasal «AstraZeneca» nesespray
+Zomig «Farmagon» tabl.
+Zomig «Orifarm» tabl.
+Zonat «Weifa» tabl.
+Zonegran Orifarm «Orifarm» kaps.
+Zonegran «Abacus Medicine» kaps.
+Zonegran «Eisai Ltd.» kaps.
+Zonegran «Farmagon» kaps.
 zonisamid
+Zonnic «Niconovum» munnpulver i porsjonspose, munnspray, sugetabl.
+Zopiclone «Actavis» tabl.
 zopiklon
+Zopiklon «Mylan» tabl.
+Zopitin «Vitabalans» tabl.
+Zostavax «MSD Vaccins» pulv. og væske til inj.
 zostervirusvaksine
 Zovirax «2care4» øyesalve
+Zovirax «GlaxoSmithKline» krem, mikst., tabl., øyesalve
+Zuades «Sensidose» dispergerbare tabl.
 zuklopentiksol
+Zurampic «Grünenthal» tabl.
+Zutectra «Biotest Pharma» inj.
+Zyban «2care4» depottabl.
+Zyban «GlaxoSmithKline» depottabl.
+Zyclara «Meda» krem
+Zycomb «Takeda» nesespray
+Zydelig «Gilead» tabl.
+Zykadia «Novartis» kaps.
+Zyloric «Aspen Pharma Trading Ltd.» tabl.
+Zymelin «Takeda» nesespray
+ZypAdhera «Lilly» pulv. og væske til depotinj.
+Zyprexa, Zyprexa Velotab «Farmagon» smeltetabl., tabl.
+Zyprexa, Zyprexa Velotab «Lilly» pulv. til inj., smeltetabl., tabl.
+Zyrona «Orifarm Generics» tabl.
+Zyrtec «Orifarm» tabl.
+Zyrtec «UCB» dråper, mikst., tabl.
+Zytiga «Janssen» tabl.
+Zyvoxid «Pfizer» tabl.
+Zyx «Meda OTC» sugetabl.
+Økt hårvekst
+Økt tissetrang
