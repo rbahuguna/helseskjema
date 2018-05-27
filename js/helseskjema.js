@@ -64,10 +64,6 @@ jQuery(document).ready(function($){
         return txt.value;
     }
 
-    $("#medisin").chosen({
-        'search_contains': true
-    });
-
     // process the form
     $('[name="process"]').click(function(event) {
 

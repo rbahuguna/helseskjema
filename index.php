@@ -35,8 +35,6 @@
     <link href="css/icon_fonts/css/all_icons_min.css" rel="stylesheet">
     <link href="css/skins/square/grey.css" rel="stylesheet">
 
-    <link href="css/chosen.min.css" rel="stylesheet">
-
     <style>
         .ui-widget-content {
             border: 0px;
@@ -696,7 +694,6 @@
     <!-- Theme script -->
     <script src="js/functions.js"></script>
 
-    <script src="js/chosen.jquery.min.js"></script>
     <script src="js/helseskjema.js"></script>
 
     <!-- Wizard script -->
