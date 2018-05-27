@@ -20,6 +20,11 @@ jQuery(document).ready(function($){
     var dbErrorDefault = "Invalid Social Security Number"
     var dbError = dbErrorDefault
 
+    var findUsKey = "find-us";
+    var findUsSelector = "#" + findUsKey;
+    var medisinKey = "medisin";
+    var medisinSelector = "#" + medisinKey;
+
     $.validator.addMethod("fodselsnr", function(fodselsnr) {
         var ssnValid = false;
         var personnummer = jQuery("input[name=personnummer]").val()
@@ -30,14 +35,21 @@ jQuery(document).ready(function($){
             helseskjema = JSON.parse(data)
             if (helseskjema.Success) {
                 var pasient = helseskjema.pasient;
-                var medisinKey = "medisin";
                 for (var name in pasient) {
                     var value = pasient[name];
-                    if (name == medisinKey) {
-                        medisins = value;
-                        $("select" + "#" + medisinKey).val(medisins);
-                        // tell the multi select js plugin about the change
-                        $("#medisin").trigger("chosen:updated");
+                    if (name == findUsKey) {
+                        var valuesObject = value.map(function(value){
+                            return {"id": value, "title": value};
+                        });
+                        findUsSelectize.addOption(valuesObject);
+                        findUsSelectize.setValue(value);
+                    } else if (name == medisinKey) {
+                        var medisins = value;
+                        var medisinsObject = medisins.map(function(medisin){
+                            return {"title": medisin}
+                        });
+                        medisinSelectize.addOption(medisinsObject);
+                        medisinSelectize.setValue(medisins);
                     }
                     $("input:text[name=" + name + "]").val(value);
                     $("input[type='email'][name=" + name + "]").val(value);
@@ -99,4 +111,38 @@ jQuery(document).ready(function($){
         // stop the form from submitting the normal way and refreshing the page
         event.preventDefault();
     });
+
+    findUsSelectize = $(findUsSelector).selectize({
+        create: true
+        , plugins: ['remove_button', 'drag_drop']
+        , valueField: 'id'
+        , labelField: 'title'
+        , searchField: 'title'
+    })[0].selectize;
+
+    medisinSelectize = $(medisinSelector).selectize({
+        create: true
+        , plugins: ['remove_button', 'drag_drop']
+        , valueField: 'title'
+        , labelField: 'title'
+        , searchField: 'title'
+        , load: function(query, callback) {
+            if (!query.length) return callback();
+            $.ajax({
+                url: 'medisins.php',
+                type: 'GET',
+                dataType: 'json',
+                data: {
+                    term: query
+                    , maxRows: 20
+                },
+                error: function() {
+                    callback();
+                },
+                success: function(res) {
+                    callback(res.elements);
+                }
+            });
+        }
+    })[0].selectize;
 })

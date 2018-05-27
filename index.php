@@ -34,6 +34,7 @@
     <link href="css/date_time_picker.css" rel="stylesheet">
     <link href="css/icon_fonts/css/all_icons_min.css" rel="stylesheet">
     <link href="css/skins/square/grey.css" rel="stylesheet">
+    <link href="css/selectize.bootstrap3.css" rel="stylesheet">
 
     <style>
         .ui-widget-content {
@@ -586,15 +587,7 @@
                                                     id="<?php print $MEDISIN_INPUT ?>"
                                                     name="<?php print $MEDISINS_INPUT ?>"
                                                     class="form-control">
-                                                            <?php
-                                                                include $MEDISIN_INPUT . "s.php";
-                                                                $medisins = getMedisins($MEDISIN_INPUT);
-                                                                foreach ($medisins as $medisin) {
-                                                                    $medisin = trim($medisin);
-                                                                    if (strlen($medisin) > 0)
-                                                                        print("<option>$medisin</option>");
-                                                                }
-                                                            ?>
+                                                    >
                                                 </select>
                                             </div>
                                         </div>
@@ -692,6 +685,7 @@
     <!-- Theme script -->
     <script src="js/functions.js"></script>
 
+    <script src="js/selectize.min.js"></script>
     <script src="js/helseskjema.js"></script>
 
     <!-- Wizard script -->
