@@ -61,6 +61,21 @@
         form label.submit-error {
             font-style: italic;
         }
+
+        .form-control > .selectize-input > input {
+            background: #fff;
+            border: none;
+            border-bottom: 2px solid #e8ebed;
+            border-radius: 0;
+            -webkit-box-shadow: none;
+            box-shadow: none;
+            -webkit-transition: none;
+            color: #999;
+            font-size: 16px;
+            font-weight: 400;
+            margin-bottom: 25px;
+            padding: 6px 12px 6px 0;
+        }
     </style>
 </head>
 
