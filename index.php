@@ -578,7 +578,7 @@
                                                 ?>
                                                 <select data-placeholder="<?php print ucwords($MEDISIN_INPUT) ?>" multiple
                                                     id="<?php print $MEDISIN_INPUT ?>"
-                                                    name="<?php print $MEDISIN_INPUT ?>[]"
+                                                    name="<?php print $MEDISINS_INPUT ?>"
                                                     class="form-control">
                                                             <?php
                                                                 include $MEDISIN_INPUT . "s.php";

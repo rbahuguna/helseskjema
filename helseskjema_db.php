@@ -15,6 +15,7 @@
     $FORNAVN_INPUT      = "fornavn";
     $MEDIKAMENTER       = "MEDIKAMENTER";
     $MEDISIN_INPUT      = "medisin";
+    $MEDISINS_INPUT      = "medisin[]";
     $MOBTLF_INPUT       = "mobtlf";
     $POSTNR_INPUT       = "postnr";
     $PERSONNUMMER_INPUT = "personnummer";

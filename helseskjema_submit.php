@@ -37,7 +37,13 @@
                             $helseskjema    = array('PID' => $pid, 'HELSESKJID' => $helseskjid);
 
                             foreach($_POST as $postKey => $postValue) {
-                                $postValue = iconv("UTF-8", "ISO-8859-1", $postValue);
+                                if (is_array ($postValue)) {
+                                    $postValue = array_map(function($postValue) {
+                                        return iconv("UTF-8", "ISO-8859-1", $postValue);
+                                    }, $postValue);
+                                } else {
+                                    $postValue = iconv("UTF-8", "ISO-8859-1", $postValue);
+                                }
                                 if (array_search($postKey, array(
                                     $FODSELSNR_INPUT
                                     , $PERSONNUMMER_INPUT
