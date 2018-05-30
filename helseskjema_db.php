@@ -4,6 +4,8 @@
     $DATABASE_USER      = "SYSDBA";
     $DATABASE_PASSWORD  = "masterkey";
 
+    $DATABASE_CHARSET   = "ISO-8859-1";
+
     $DSN_FIREBIRD       = "firebird:dbname=$DATABASE_HOST:$DATABASE";
     $DSN_MYSQL          = "mysql:dbname=$DATABASE;host=$DATABASE_HOST";
 
