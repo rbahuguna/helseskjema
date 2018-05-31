@@ -11,16 +11,26 @@
 
     $ADRESSE_INPUT      = "adresse";
     $ETTERNAVN_INPUT    = "etternavn";
+    $FIND_US            = "LEGE";
+    $FIND_US_INPUT      = "find-us";
     // day/month/year...
     $FODSELSNR_FORMAT   = "d/m/y H:i:s";
     $FODSELSNR_INPUT    = "fodselsnr";
     $FORNAVN_INPUT      = "fornavn";
     $MEDIKAMENTER       = "MEDIKAMENTER";
     $MEDISIN_INPUT      = "medisin";
-    $MEDISINS_INPUT      = "medisin[]";
+    $MEDISINS_INPUT     = $MEDISIN_INPUT . "[]";
     $MOBTLF_INPUT       = "mobtlf";
-    $POSTNR_INPUT       = "postnr";
     $PERSONNUMMER_INPUT = "personnummer";
+    $POSTNR_INPUT       = "postnr";
+
+    $FIND_US_OPTIONS    = array(
+        "Friend"
+        , "Newspaper ad"
+        , "Radio"
+        , "Social"
+        , "TV"
+    );
 
     $patient_helseskjema_query = <<< EOD
 

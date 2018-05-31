@@ -32,14 +32,31 @@
                         } else {
                             // lowercase pasient keys
                             foreach($pasient as $pasient_key => $pasient_value) {
+                                // html form fields use lower case names,
+                                // while database columns are uppercase
                                 unset($pasient[$pasient_key]);
                                 $pasient_key_lowercase = strtolower($pasient_key);
+                                // Value of $FODSELSNR_INPUT is not needed
+                                // It is input by user on html form
                                 if (array_search($pasient_key_lowercase, array($FODSELSNR_INPUT)) === FALSE) {
                                     $pasient_value = is_null($pasient_value) ? "" : $pasient_value;
                                     $pasient_value = iconv($DATABASE_CHARSET, "UTF-8", $pasient_value);
                                     if ($pasient_key == $MEDIKAMENTER) {
                                         // split medisins on newline
-                                        $pasient[$MEDISIN_INPUT] = explode(PHP_EOL, $pasient_value);
+                                        $pasient_value = explode(PHP_EOL, $pasient_value);
+                                        // remove empty values, if any
+                                        $pasient_value = array_filter($pasient_value, function($pasient_value){
+                                            return strlen(trim($pasient_value)) > 0;
+                                        });
+                                        $pasient[$MEDISIN_INPUT] = $pasient_value;
+                                    } else if ($pasient_key == $FIND_US) {
+                                        // split "find us" on comma
+                                        $pasient_value = explode(PHP_EOL, $pasient_value);
+                                        // remove empty values, if any
+                                        $pasient_value = array_filter($pasient_value, function($pasient_value){
+                                            return strlen(trim($pasient_value)) > 0;
+                                        });
+                                        $pasient[$FIND_US_INPUT] = $pasient_value;
                                     } else {
                                         $pasient[$pasient_key_lowercase] = $pasient_value;
                                     }

@@ -46,6 +46,7 @@
                                     $postValue = iconv("UTF-8", $DATABASE_CHARSET, $postValue);
                                 }
                                 if (array_search($postKey, array(
+                                    // update table helseskjema
                                     $FODSELSNR_INPUT
                                     , $PERSONNUMMER_INPUT
                                     , $FORNAVN_INPUT
@@ -59,6 +60,10 @@
                                         // join medisins with newline
                                         $medisins = join(PHP_EOL, $postValue);
                                         $helseskjema[$MEDIKAMENTER] = $medisins;
+                                    } else if ($postKey == $FIND_US_INPUT) {
+                                        // join "find us" with commas
+                                        $findUsValues = join(PHP_EOL, $postValue);
+                                        $helseskjema[$FIND_US] = $findUsValues;
                                     } else {
                                         $helseskjema[$postKeyUppercase] = $postValue;
                                     }
@@ -100,6 +105,7 @@
                                     ' WHERE FODSELSNR = ' . "'" . $fodselsnr_time . "'" .
                                     ' AND PERSONNR = ' . "'" . $personnummer . "'";
 
+                                // update table pasient
                                 if ($pdo->exec($pasient_query) === FALSE) {
                                     outputError($pdo);
                                 } else{

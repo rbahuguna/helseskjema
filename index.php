@@ -208,12 +208,23 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group radio-input">
-                                                <select id="editable-select" class="form-control" placeholder="Where did you find us">
-                                                    <option>Friend</option>
-                                                    <option>Newspaper ad</option>
-                                                    <option>Radio</option>
-                                                    <option>Social</option>
-                                                    <option>TV</option>
+                                                <?php
+                                                    include "helseskjema_db.php";
+                                                ?>
+                                                <select
+                                                    id="<?php print $FIND_US_INPUT; ?>"
+                                                    name="<?php print $FIND_US_INPUT; ?>[]"
+                                                    class="form-control"
+                                                    placeholder="Where did you find us"
+                                                    multiple>
+                                                    <option value="" selected>Where did you find us</option>
+                                                <?php
+                                                    foreach($FIND_US_OPTIONS as
+                                                        $FIND_US_OPTION_KEY => $FIND_US_OPTION_VALUE) {
+                                                        print sprintf("<option value=\"%s\">%s</option>",
+                                                            $FIND_US_OPTION_KEY, $FIND_US_OPTION_VALUE);
+                                                    }
+                                                ?>
                                                 </select>
                                             </div>
                                         </div>
@@ -573,9 +584,6 @@
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="form-group">
-                                                <?php
-                                                    include "helseskjema_db.php";
-                                                ?>
                                                 <select data-placeholder="<?php print ucwords($MEDISIN_INPUT) ?>" multiple
                                                     id="<?php print $MEDISIN_INPUT ?>"
                                                     name="<?php print $MEDISINS_INPUT ?>"
