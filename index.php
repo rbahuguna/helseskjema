@@ -682,8 +682,6 @@
     <script src="js/messages_no.js"></script>
     <script src="js/jquery.wizard.js"></script>
 
-    <script src="//rawgithub.com/indrimuska/jquery-editable-select/master/dist/jquery-editable-select.min.js"></script>
-    <link href="//rawgithub.com/indrimuska/jquery-editable-select/master/dist/jquery-editable-select.min.css" rel="stylesheet">
     <link href="css/helseskjema.css" rel="stylesheet">
 
     <!-- Common script -->

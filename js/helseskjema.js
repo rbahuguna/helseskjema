@@ -9,7 +9,6 @@ jQuery(document).ready(function($){
 
     $( window ).load(function() {
         $( "input[name='fodselsnr']" ).focus();
-        $('#editable-select').editableSelect();
     });
 
     $('#helseskjema').validate({
