@@ -209,21 +209,12 @@
                                                 <?php
                                                     include "helseskjema_db.php";
                                                 ?>
-                                                <select
+                                                <input
                                                     id="<?php print $FIND_US_INPUT; ?>"
                                                     name="<?php print $FIND_US_INPUT; ?>[]"
                                                     class="form-control"
                                                     placeholder="Where did you find us"
-                                                    multiple>
-                                                    <option value="" selected>Where did you find us</option>
-                                                <?php
-                                                    foreach($FIND_US_OPTIONS as
-                                                        $FIND_US_OPTION_KEY => $FIND_US_OPTION_VALUE) {
-                                                        print sprintf("<option value=\"%s\">%s</option>",
-                                                            $FIND_US_OPTION_KEY, $FIND_US_OPTION_VALUE);
-                                                    }
-                                                ?>
-                                                </select>
+                                                >
                                             </div>
                                         </div>
                                     </div>
@@ -582,20 +573,11 @@
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="form-group">
-                                                <select data-placeholder="<?php print ucwords($MEDISIN_INPUT) ?>" multiple
+                                                <input
+                                                    placeholder="<?php print ucwords($MEDISIN_INPUT) ?>" type="text"
                                                     id="<?php print $MEDISIN_INPUT ?>"
                                                     name="<?php print $MEDISINS_INPUT ?>"
                                                     class="form-control">
-                                                            <?php
-                                                                include $MEDISIN_INPUT . "s.php";
-                                                                $medisins = getMedisins($MEDISIN_INPUT);
-                                                                foreach ($medisins as $medisin) {
-                                                                    $medisin = trim($medisin);
-                                                                    if (strlen($medisin) > 0)
-                                                                        print("<option>$medisin</option>");
-                                                                }
-                                                            ?>
-                                                </select>
                                             </div>
                                         </div>
                                         <div class="col-sm-12">
@@ -692,6 +674,8 @@
     <!-- Theme script -->
     <script src="js/functions.js"></script>
 
+    <link href="css/magicsuggest-min.css" rel="stylesheet">
+    <script src="js/magicsuggest-min.js"></script>
     <script src="js/helseskjema.js"></script>
 
     <!-- Wizard script -->

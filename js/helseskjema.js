@@ -20,6 +20,11 @@ jQuery(document).ready(function($){
     var dbErrorDefault = "Invalid Social Security Number"
     var dbError = dbErrorDefault
 
+    var findUsKey = "find-us";
+    var findUsSelector = "#" + findUsKey;
+    var medisinKey = "medisin";
+    var medisinSelector = "#" + medisinKey;
+
     $.validator.addMethod("fodselsnr", function(fodselsnr) {
         var ssnValid = false;
         var personnummer = jQuery("input[name=personnummer]").val()
@@ -33,11 +38,13 @@ jQuery(document).ready(function($){
                 var medisinKey = "medisin";
                 for (var name in pasient) {
                     var value = pasient[name];
-                    if (name == medisinKey) {
-                        medisins = value;
-                        $("select" + "#" + medisinKey).val(medisins);
-                        // tell the multi select js plugin about the change
-                        $("#medisin").trigger("chosen:updated");
+                    if (name == findUsKey) {
+                        findUsSuggest.setValue(value);
+                    } else if (name == medisinKey) {
+                        var medisins = value.map(function(medisin){
+                            return {title: medisin};
+                        });
+                        medisinSuggest.setSelection(medisins);
                     }
                     $("input:text[name=" + name + "]").val(value);
                     $("input[type='email'][name=" + name + "]").val(value);
@@ -98,5 +105,25 @@ jQuery(document).ready(function($){
 
         // stop the form from submitting the normal way and refreshing the page
         event.preventDefault();
+    });
+
+    var findUsSuggest = $(findUsSelector).magicSuggest({
+        data: 'findus.php'
+        , valueField: 'id'
+        , displayField: 'title'
+        , selectionStacked: true
+        , selectFirst: true
+    });
+
+    var medisinSuggest = $(medisinSelector).magicSuggest({
+        data: 'medisins.php'
+        , queryParam: 'term'
+        , dataUrlParams: { maxRows: 20 }
+        , resultsField: 'elements'
+        , valueField: 'title'
+        , displayField: 'title'
+        , method: 'GET'
+        , selectionStacked: true
+        , selectFirst: true
     });
 })
