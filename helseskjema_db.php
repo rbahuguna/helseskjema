@@ -1,6 +1,6 @@
 <?php
     $DATABASE_HOST      = "localhost";
-    $DATABASE           = "helseskjema";
+    $DATABASE           = "skiny";
     $DATABASE_USER      = "SYSDBA";
     $DATABASE_PASSWORD  = "masterkey";
 
@@ -13,8 +13,8 @@
     $ETTERNAVN_INPUT    = "etternavn";
     $FIND_US            = "LEGE";
     $FIND_US_INPUT      = "find-us";
-    // day/month/year...
-    $FODSELSNR_FORMAT   = "d/m/y H:i:s";
+    // ccyy-month-day
+    $FODSELSNR_FORMAT   = "Y-m-d";
     $FODSELSNR_INPUT    = "fodselsnr";
     $FORNAVN_INPUT      = "fornavn";
     $MEDIKAMENTER       = "MEDIKAMENTER";
