@@ -27,6 +27,7 @@
     <!-- BASE CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/helseskjema.css" rel="stylesheet">
     <link href="css/jquery-ui.min.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <link href="css/menu.css" rel="stylesheet">
@@ -663,8 +664,6 @@
     <script src="js/jquery.validate.min.js"></script>
     <script src="js/messages_no.js"></script>
     <script src="js/jquery.wizard.js"></script>
-
-    <link href="css/helseskjema.css" rel="stylesheet">
 
     <!-- Common script -->
     <script src="js/bootstrap.min.js"></script>
