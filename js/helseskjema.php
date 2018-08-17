@@ -1,3 +1,8 @@
+<?php
+    include "../helseskjema_form.php";
+    include "../helseskjema_db.php";
+?>
+
 jQuery(document).ready(function($){
     jQuery.ajaxSetup({async:false});
     $(document).ajaxStart(function () {
@@ -12,17 +17,28 @@ jQuery(document).ready(function($){
     });
 
     $('#helseskjema').validate({
-        lang: 'no'
+        rules: {
+            <?php echo $FODSELSNR_FORM_FIELD ?> : {
+                date: true
+            }
+            , <?php echo $EMAIL_FORM_FIELD ?> : {
+                email: true
+            }
+            , <?php echo $PERSONNUMMER_FORM_FIELD ?> : {
+                digits: true
+            }
+          }
+        , lang: 'no'
         , onfocusout: false
         , onkeyup: false
         });
 
-    var dbErrorDefault = "Invalid Social Security Number"
-    var dbError = dbErrorDefault
+    var dbErrorDefault = "Invalid Social Security Number";
+    var dbError = dbErrorDefault;
 
-    var findUsKey = "find-us";
+    var findUsKey = "<?php echo strtolower($FIND_US) ?>";
     var findUsSelector = "#" + findUsKey;
-    var medisinKey = "medisin";
+    var medisinKey = "<?php echo strtolower($MEDIKAMENTER) ?>";
     var medisinSelector = "#" + medisinKey;
 
     $.validator.addMethod("fodselsnr", function(fodselsnr) {
@@ -35,7 +51,6 @@ jQuery(document).ready(function($){
             helseskjema = JSON.parse(data)
             if (helseskjema.Success) {
                 var pasient = helseskjema.pasient;
-                var medisinKey = "medisin";
                 for (var name in pasient) {
                     var value = pasient[name];
                     if (name == findUsKey) {
@@ -46,10 +61,11 @@ jQuery(document).ready(function($){
                         });
                         medisinSuggest.setSelection(medisins);
                     }
-                    $("input:text[name=" + name + "]").val(value);
-                    $("input[type='email'][name=" + name + "]").val(value);
+                    $("input:text[name='" + name + "']").val(value);
+                    $("input[type='email'][name='" + name + "']").val(value);
+                    $("input:radio[name='" + name + "'][value='" + value + "']").iCheck('check')
                     if (value == "T") {
-                        $("input:checkbox[name=" + name + "]").iCheck('check');
+                        $("input:checkbox[name='" + name + "']").iCheck('check');
                     }
                 }
                 ssnValid = true
@@ -96,9 +112,9 @@ jQuery(document).ready(function($){
             $('[data-loader="circle-side"]').fadeOut(); // will first fade out the loading animation
             $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
             submitButton.removeAttr('disabled');
-            if (data.Success)
+            if (data.Success) {
                 location.reload();
-            else if (data.Error) {
+            } else if (data.Error) {
                 $("#submit-error label.submit-error").html(data.Error);
             }
         });

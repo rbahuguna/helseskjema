@@ -1,24 +1,28 @@
 <?php
+    include "helseskjema_form.php";
     include "helseskjema_db.php";
 
     try {
         $pdo = new PDO($DSN_FIREBIRD, $DATABASE_USER, $DATABASE_PASSWORD);
 
-        $fodselsnr = iconv("UTF-8", $DATABASE_CHARSET, $_POST[$FODSELSNR_INPUT]);
-        $fodselsnr_time = DateTime::createFromFormat("dmy H:i:s",  $fodselsnr . " 00:00:00");
-        if ($fodselsnr_time) {
-            if ($fodselsnr_time->format("Y") > getdate()["year"]) {
-                $fodselsnr_time->modify('-100 year');
+        $fodselsnr = $_POST[$FODSELSNR_FORM_FIELD];
+        $fodselsnr_datetime = DateTime::createFromFormat($FODSELSNR_FORM_FIELD_FORMAT, $fodselsnr);
+        if ($fodselsnr_datetime == FALSE) {
+            $fodselsnr_datetime = DateTime::createFromFormat($FODSELSNR_FORM_FIELD_FORMAT_ALTERNATE, $fodselsnr);
+        }
+        if ($fodselsnr_datetime) {
+            if ($fodselsnr_datetime->format("Y") > getdate()["year"]) {
+                $fodselsnr_datetime->modify('-100 year');
             }
-            $fodselsnr_time = $fodselsnr_time->format($FODSELSNR_FORMAT);
-            $personnummer = iconv("UTF-8", $DATABASE_CHARSET, $_POST[$PERSONNUMMER_INPUT]);
+            $fodselsnr = $fodselsnr_datetime->format($FODSELSNR_FORMAT);
+            $personnummer = $_POST[$PERSONNUMMER_FORM_FIELD];
 
             if (($patient_helseskjema_query_stmt =
                 $pdo->prepare($patient_helseskjema_query)) === False) {
                 outputError($pdo);
             } else {
                 if ($patient_helseskjema_query_stmt->bindParam(
-                    ':fodselsnr_time', $fodselsnr_time, PDO::PARAM_STR) === FALSE
+                    ':fodselsnr', $fodselsnr, PDO::PARAM_STR) === FALSE
                     || $patient_helseskjema_query_stmt->bindParam(
                     ':personnummer', $personnummer, PDO::PARAM_INT) === FALSE) {
                         outputError($patient_helseskjema_query_stmt);
@@ -36,85 +40,96 @@
                             $pid            = $helseskjema['PASIENT_PID'];
                             $helseskjema    = array('PID' => $pid, 'HELSESKJID' => $helseskjid);
 
+                             // prepare to update table helseskjema
                             foreach($_POST as $postKey => $postValue) {
-                                if (is_array ($postValue)) {
-                                    $postValue = array_map(function($postValue) {
-                                        global $DATABASE_CHARSET;
-                                        return iconv("UTF-8", $DATABASE_CHARSET, $postValue);
-                                    }, $postValue);
-                                } else {
-                                    $postValue = iconv("UTF-8", $DATABASE_CHARSET, $postValue);
-                                }
+                                // exclude pasient information
                                 if (array_search($postKey, array(
-                                    // update table helseskjema
-                                    $FODSELSNR_INPUT
-                                    , $PERSONNUMMER_INPUT
-                                    , $FORNAVN_INPUT
-                                    , $ETTERNAVN_INPUT
-                                    , $ADRESSE_INPUT
-                                    , $POSTNR_INPUT
-                                    , $MOBTLF_INPUT
-                                    , "terms")) === FALSE) {
-                                    $postKeyUppercase = strtoupper ($postKey);
-                                    if ($postKey == $MEDISIN_INPUT) {
-                                        // join medisins with newline
-                                        $medisins = join(PHP_EOL, $postValue);
-                                        $helseskjema[$MEDIKAMENTER] = $medisins;
-                                    } else if ($postKey == $FIND_US_INPUT) {
-                                        // join "find us" with commas
-                                        $findUsValues = join(PHP_EOL, $postValue);
-                                        $helseskjema[$FIND_US] = $findUsValues;
+                                    $FODSELSNR_FORM_FIELD
+                                    , $PERSONNUMMER_FORM_FIELD
+                                    , $FORNAVN_FORM_FIELD
+                                    , $ETTERNAVN_FORM_FIELD
+                                    , $ADRESSE_FORM_FIELD
+                                    , $POSTNR_FORM_FIELD
+                                    , $STED_FORM_FIELD
+                                    , $MOBTLF_FORM_FIELD
+                                    , $EMAIL_FORM_FIELD
+                                    , $ARBEIDSSTED_FORM_FIELD
+                                    , $YRKE_FORM_FIELD
+                                    , $ADDITIONAL_MESSAGE_FORM_FIELD
+                                    , $FASTLEGE_FORM_FIELD
+                                    )) === FALSE) {
+
+                                    if (is_array ($postValue)) {
+                                        $postValue = array_map(function($postValue) {
+                                            global $DATABASE_ICONV_OUT_CHARSET;
+                                            return iconv("UTF-8", $DATABASE_ICONV_OUT_CHARSET, $postValue);
+                                        }, $postValue);
+                                        // join with newline
+                                        $postValue = join(PHP_EOL, $postValue);
                                     } else {
-                                        $helseskjema[$postKeyUppercase] = $postValue;
+                                        $postValue = iconv("UTF-8", $DATABASE_ICONV_OUT_CHARSET, $postValue);
                                     }
+
+                                    $helseskjema[$postKey] = $postValue;
                                 }
                             }
 
-                            $helseskjema_columns = "";
-                            $helseskjema_values = "";
-                            $comma = ", ";
+                            // table columns are in upper case
+                            $helseskjema = array_change_key_case($helseskjema, CASE_UPPER);
+                            $helseskjema_table_columns = array_keys($helseskjema);
+                            // join with comma
+                            $helseskjema_columns = join($helseskjema_table_columns, ", ");
 
-                            foreach ($helseskjema as $helseskjema_key => $helseskjema_value) {
-                                if (strlen($helseskjema_value)) {
-                                    $helseskjema_columns  .= $helseskjema_key . $comma;
-                                    $helseskjema_values  .= "'" . $helseskjema_value . "'" . $comma;
-                                }
-                            }
-                            if ($comma_last_pos = strrpos($helseskjema_columns, $comma)) {
-                                $helseskjema_columns = substr($helseskjema_columns, 0, $comma_last_pos);
-                            }
-                            if ($comma_last_pos = strrpos($helseskjema_values, $comma)) {
-                                $helseskjema_values = substr($helseskjema_values, 0, $comma_last_pos);
-                            }
+                            $helseskjema_table_column_data = array_map(function($helseskjema_table_column){
+                                global $helseskjema;
+                                // quote table column value
+                                return "'" . $helseskjema[$helseskjema_table_column] . "'";
+                            }, $helseskjema_table_columns);
+
+                            // join with comma
+                            $helseskjema_column_data = join($helseskjema_table_column_data, ", ");
 
                             $helseskjema_query = "INSERT INTO helseskjema " .
-                                " ( $helseskjema_columns ) VALUES ( $helseskjema_values )";
+                                " ( $helseskjema_columns ) VALUES ( $helseskjema_column_data )";
 
                             if ($pdo->exec($helseskjema_query)) {
-                                $pasient_query = "UPDATE pasient " .
-                                    " SET FORNAVN = '" .
-                                    iconv("UTF-8", $DATABASE_CHARSET, $_POST["fornavn"]) . "'" .
-                                    ", ETTERNAVN = '" .
-                                    iconv("UTF-8", $DATABASE_CHARSET, $_POST["etternavn"]) . "'" .
-                                    ", ADRESSE = '" .
-                                    iconv("UTF-8", $DATABASE_CHARSET, $_POST["adresse"]) . "'" .
-                                    ",  POSTNR = '" .
-                                    iconv("UTF-8", $DATABASE_CHARSET, $_POST["postnr"]) . "'" .
-                                    ", MOBTLF = '" .
-                                    iconv("UTF-8", $DATABASE_CHARSET, $_POST["mobtlf"]) . "'" .
-                                    ' WHERE FODSELSNR = ' . "'" . $fodselsnr_time . "'" .
-                                    ' AND PERSONNR = ' . "'" . $personnummer . "'";
-
-                                // update table pasient
-                                if ($pdo->exec($pasient_query) === FALSE) {
+                                if (($helseskjema_update_stmt =
+                                    $pdo->prepare($helseskjema_update)) === False) {
                                     outputError($pdo);
-                                } else{
-                                    $helseskjema = array('Success' => True, 'helseskjema' => $helseskjema);
-                                    $helseskjema_json = json_encode($helseskjema);
-                                    if ($helseskjema_json === FALSE) {
-                                        outputErrorMessage(join(":", array(json_last_error(), json_last_error_msg())));
+                                } else {
+                                    if ($helseskjema_update_stmt->bindParam(
+                                        ':' . $FORNAVN_FORM_FIELD, $_POST[$FORNAVN_FORM_FIELD], PDO::PARAM_STR) === FALSE
+                                        || $helseskjema_update_stmt->bindParam(
+                                        ':' . $ETTERNAVN_FORM_FIELD, $_POST[$ETTERNAVN_FORM_FIELD], PDO::PARAM_STR) === FALSE
+                                        || $helseskjema_update_stmt->bindParam(
+                                        ':' . $ADRESSE_FORM_FIELD, $_POST[$ADRESSE_FORM_FIELD], PDO::PARAM_STR) === FALSE
+                                        || $helseskjema_update_stmt->bindParam(
+                                        ':' . $POSTNR_FORM_FIELD, $_POST[$POSTNR_FORM_FIELD], PDO::PARAM_STR) === FALSE
+                                        || $helseskjema_update_stmt->bindParam(
+                                        ':' . $MOBTLF_FORM_FIELD, $_POST[$MOBTLF_FORM_FIELD], PDO::PARAM_STR) === FALSE
+                                        || $helseskjema_update_stmt->bindParam(
+                                        ':' . $EMAIL_FORM_FIELD, $_POST[$EMAIL_FORM_FIELD], PDO::PARAM_STR) === FALSE
+                                        || $helseskjema_update_stmt->bindParam(
+                                        ':' . $YRKE_FORM_FIELD, $_POST[$YRKE_FORM_FIELD], PDO::PARAM_STR) === FALSE
+                                        || $helseskjema_update_stmt->bindParam(
+                                        ':' . $FODSELSNR_FORM_FIELD, $fodselsnr, PDO::PARAM_STR) === FALSE
+                                        || $helseskjema_update_stmt->bindParam(
+                                        ':' . $PERSONNUMMER_FORM_FIELD, $personnummer, PDO::PARAM_INT) === FALSE
+                                        ) {
+                                            outputError($helseskjema_update_stmt);
                                     } else {
-                                        print $helseskjema_json;
+                                        // update table pasient
+                                        if ($helseskjema_update_stmt->execute() === FALSE) {
+                                            outputError($helseskjema_update_stmt);
+                                        } else {
+                                            $helseskjema = array('Success' => True);
+                                            $helseskjema_json = json_encode($helseskjema);
+                                            if ($helseskjema_json === FALSE) {
+                                                outputErrorMessage(join(":", array(json_last_error(), json_last_error_msg())));
+                                            } else {
+                                                print $helseskjema_json;
+                                            }
+                                        }
                                     }
                                 }
                             } else {
@@ -125,7 +140,8 @@
                 }
             }
         } else{
-            outputErrorMessage("Ugyldig fødselsdato");
+            outputErrorMessage(sprintf("Ugyldig fødselsdato; bruk datoformat %s, %s",
+                $FODSELSNR_FORM_FIELD_FORMAT, $FODSELSNR_FORM_FIELD_FORMAT_ALTERNATE));
         }
     } catch (PDOException $e) {
         outputErrorMessage($e->getMessage());

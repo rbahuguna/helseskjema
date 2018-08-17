@@ -1,5 +1,5 @@
 <?php
-    include "helseskjema_db.php";
+    include "helseskjema_form.php";
 
     print getFindUsJson();
 

@@ -1,3 +1,8 @@
+<?php
+    include "helseskjema_form.php";
+    include "helseskjema_db.php";
+?>
+
 <!DOCTYPE html>
 <html lang="no">
 
@@ -136,12 +141,12 @@
                                     <div class="row">
                                         <div class="col-sm-4">
                                             <div class="form-group">
-                                                <input type="tel" name="fodselsnr" class="form-control fodselsnr required" placeholder="Fodselsnr">
+                                                <input type="tel" name="<?php echo $FODSELSNR_FORM_FIELD ?>" class="form-control fodselsnr required" placeholder="Fodselsnr">
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="form-group">
-                                                <input minlength="5" type="tel" maxlength="5" name="personnummer" class="form-control required" placeholder="Person nummer">
+                                                <input minlength="5" type="tel" maxlength="5" name="<?php echo $PERSONNUMMER_FORM_FIELD ?>" class="form-control required" placeholder="Person nummer">
                                             </div>
                                         </div>
                                     </div>
@@ -151,26 +156,26 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <input type="text" name="fornavn" class="form-control" placeholder="Fornavn">
+                                                <input type="text" name="<?php echo $FORNAVN_FORM_FIELD ?>" class="form-control" placeholder="Fornavn">
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <input type="text" name="etternavn" class="form-control" placeholder="Etternavn">
+                                                <input type="text" name="<?php echo $ETTERNAVN_FORM_FIELD ?>" class="form-control" placeholder="Etternavn">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="form-group">
-                                                <input type="text" name="adresse" class="form-control" placeholder="Adresse">
+                                                <input type="text" name="<?php echo $ADRESSE_FORM_FIELD ?>" class="form-control" placeholder="Adresse">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-3">
                                             <div class="form-group">
-                                                <input type="text" name="postnr" class="form-control" placeholder="Postnummer">
+                                                <input type="text" name="<?php echo $POSTNR_FORM_FIELD ?>" class="form-control" placeholder="Postnummer">
                                             </div>
                                         </div>
                                         <div class="col-sm-3">
@@ -180,7 +185,7 @@
                                         </div>
                                         <div class="col-sm-3">
                                             <div class="form-group">
-                                                <input type="text" name="mobtlf" class="form-control" placeholder="Mobiltelefon">
+                                                <input type="text" name="<?php echo $MOBTLF_FORM_FIELD ?>" class="form-control" placeholder="Mobiltelefon">
                                             </div>
                                         </div>
                                     </div>
@@ -189,30 +194,27 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <input type="email" name="epost" class="form-control" placeholder="Email">
+                                                <input type="email" name="<?php echo $EMAIL_FORM_FIELD ?>" class="form-control" placeholder="Email">
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <input type="text" name="arbeidssted" class="form-control" placeholder="Arbeidssted">
+                                                <input type="text" name="<?php echo $ARBEIDSSTED_FORM_FIELD ?>" class="form-control" placeholder="Arbeidssted">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="form-group radio_input">
-                                                <label><input type="radio" value="Mannlig" name="yrke" class="icheck">Mannlig</label>
-                                                <label><input type="radio" value="Kvinne" name="yrke" class="icheck">Kvinne</label>
+                                                <label><input type="radio" value="Mannlig" name="<?php echo $YRKE_FORM_FIELD ?>" class="icheck">Mannlig</label>
+                                                <label><input type="radio" value="Kvinne" name="<?php echo $YRKE_FORM_FIELD ?>" class="icheck">Kvinne</label>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <?php
-                                                    include "helseskjema_db.php";
-                                                ?>
                                                 <input
-                                                    id="<?php print $FIND_US_INPUT; ?>"
-                                                    name="<?php print $FIND_US_INPUT; ?>[]"
+                                                    id="<?php echo strtolower($FIND_US) ?>"
+                                                    name="<?php echo strtolower($FIND_US) ?>"
                                                     class="form-control"
                                                     placeholder="Where did you find us"
                                                 >
@@ -416,7 +418,7 @@
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="form-group">
-                                                <textarea name="additional_message" class="form-control" style="height:150px;" placeholder="Andre sykdommer / opplysninger"></textarea>
+                                                <textarea name="<?php echo $ADDITIONAL_MESSAGE_FORM_FIELD ?>" class="form-control" style="height:150px;" placeholder="Andre sykdommer / opplysninger"></textarea>
                                             </div>
                                         </div>
                                     </div>
@@ -500,7 +502,7 @@
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="form-group">
-                                                <textarea name="additional_message" class="form-control" style="height:50px;" placeholder="Annet"></textarea>
+                                                <textarea name="<?php echo $ADDITIONAL_MESSAGE_FORM_FIELD ?>" class="form-control" style="height:50px;" placeholder="Annet"></textarea>
                                             </div>
                                         </div>
                                     </div>
@@ -554,7 +556,7 @@
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="form-group">
-                                                <textarea name="additional_message" class="form-control" style="height:100px;" placeholder="Annet"></textarea>
+                                                <textarea name="<?php echo $ADDITIONAL_MESSAGE_FORM_FIELD ?>" class="form-control" style="height:100px;" placeholder="Annet"></textarea>
                                             </div>
                                         </div>
                                     </div>
@@ -575,9 +577,9 @@
                                         <div class="col-sm-12">
                                             <div class="form-group">
                                                 <input
-                                                    placeholder="<?php print ucwords($MEDISIN_INPUT) ?>" type="text"
-                                                    id="<?php print $MEDISIN_INPUT ?>"
-                                                    name="<?php print $MEDISINS_INPUT ?>"
+                                                    placeholder="<?php print ucwords("medisin") ?>" type="text"
+                                                    id="<?php echo strtolower($MEDIKAMENTER) ?>"
+                                                    name="<?php echo strtolower($MEDIKAMENTER) ?>[]"
                                                     class="form-control">
                                             </div>
                                         </div>
@@ -675,7 +677,7 @@
 
     <link href="css/magicsuggest-min.css" rel="stylesheet">
     <script src="js/magicsuggest-min.js"></script>
-    <script src="js/helseskjema.js"></script>
+    <script src="js/helseskjema.php"></script>
 
     <!-- Wizard script -->
     <script src="js/questionare_wizard_func.js"></script>
